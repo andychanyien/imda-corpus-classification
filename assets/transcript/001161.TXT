@@ -1,0 +1,786 @@
+﻿001161401	A smile can often lift up a weary spirit.
+	<NPS/> A smile can often lift up A weary spirit
+001161402	I was so tired from work, I could not even bother to brush my teeth.
+	I was so tired from work I couldn't even bother to brush my teeth
+001161403	A comma can change the meaning of a sentence entirely.
+	A comma can change the meaning of A sentence entirely
+001161404	Before the internet, we wrote letters to our pen pals and read magazines.
+	before the Internet we wrote letters to our pen pals and read magazines
+001161405	It is easy to book flights and hotels on the computer.
+	IT is easy to book flights and hotels on the computer
+001161406	Heavy rains caused a flood in the village.
+	heavy rains caused A flood in the village
+001161407	I get free snacks whenever I go to the supermarket.
+	I get free snacks whenever <NON/> I go to the supermarket
+001161408	It is not safe to freeze something again after it has thawed.
+	IT is not safe to freeze something again after IT has been thawed
+001161409	We visited the Persian Gulf.
+	we visited the Persian <NPS/> gulf
+001161410	The crowd guffawed at the comedian’s jokes.
+	the crowd guffawed at the comedian's jokes
+001161411	The villagers pray for plentiful harvest at the start of every year.
+	the villagers pray for plentiful harvest at the start of every year
+001161412	The nurse folded a paper jib for the little boy’s yacht model.
+	the nurse folded A paper jib for the little boy's yacht model
+001161413	I bathe every morning.
+	<NPS/> I bathe every morning
+001161414	The student was very confused until he realised he entered the wrong classroom.
+	the student was very confused until he realised he entered the wrong classroom
+001161415	The van travelled slowly on the expressway.
+	the van travelled slowly on the expressway
+001161416	His grief had become his driving force in his career.
+	his grief has become his driving force in his career
+001161417	We must find a way to circumvent all these new obstacles and secure our votes.
+	we must find A way to circumvent all these new obstacles and secure our votes
+001161418	The little boy shared his tomato with his brother.
+	the little boy shared his tomato with brother
+001161419	The grass had grown all the way to his knees.
+	<SPK/> the grass has grown all the way to his knees
+001161420	Doves are a symbol of peace.
+	doves are A symbol of peace
+001161421	The weather made me sneeze.
+	the weather made me sneeze
+001161422	The goalkeeper dived to stop the ball.
+	the goalkeeper dived to stop the ball
+001161423	This ladder leads to another path.
+	this ladder led to another path
+001161424	The earth’s core is made of iron and nickel.
+	the Earth's core is made of iron and nickel
+001161425	The guards can’t laugh when they are on duty.
+	the guards can't laugh when they on duty
+001161426	Police were able to foil the bomber’s plans.
+	Police were able to foil the bomber's plans
+001161427	I am craving for a chocolate sponge cake topped with mint mousse.
+	I am craving for A Chocolate Sponge Cake Topped with mint mouse
+001161428	That man is an aircraft engineer.
+	that man is an aircraft engineer
+001161429	He is a lightweight in alcohol.
+	he is A lightweight in alcohol
+001161430	The veteran fought to protect his country during the war.
+	the veteran fought to protect his country during the war
+001161431	The thunder jolt me awake.
+	the thunder jolt awake me
+001161432	A pinch of salt is enough to make a veal stew tasty.
+	A pinch of salt is enough to make A Veal Stews tasty
+001161433	The workers braved through sun and rain every day just to build the tunnel.
+	the workers braved through The Sun and rain every day just to build the tunnel
+001161434	The detective tracked down the cat killer quickly.
+	the detective tracked down the cat killer quickly
+001161435	The young girl washed her shoes on her own.
+	the young girl washed her shoes on her own
+001161436	Thrash disposal is an environmental issue.
+	thrash disposal is an environmental issue
+001161437	Switzerland’s flag is a big plus.
+	Switzerland's flag is A big plus
+001161438	We all knew that it was the calm before the storm.
+	we all knew that IT was calm before the storm
+001161439	The bench by the bank of the river is a hot viewing spot for tourists.
+	the bench by the bank of your river is hot viewing spot for tourists
+001161440	He gulped down his beer.
+	he gulped down his beer
+001161441	All good citizens should learn how to change a light bulb.
+	all good citizens should learn how to change A light bulb
+001161442	Song sheets for xylophones are on the shelf to your right.
+	song sheets for ** on the shelf to your right
+001161443	Cinderella’s dress transformed exactly at twelve o’ clock.
+	Cinderella's dress transformed exactly at twelve o'clock
+001161444	She won a car because she was the twelfth person to call the radio station.
+	she won A car because she was the twelfth person to call the radio station
+001161445	The man hit the burglar with a golf club.
+	the man hit the burglar for golf club
+001161446	The desolated house was covered in filth and torn letters.
+	the desolated house was covered in filth and torn letters
+001161447	Finish this by tomorrow or else you’ll be fired!
+	finish this by tomorrow or else you'll be fired
+001161448	There were barrels of wine in the huge cellar.
+	there were barrels of wine in the huge cellar
+001161449	There are not many kilns left in Singapore.
+	there are not many kilns left in Singapore
+001161450	The child divulged all his secrets to his best friend.
+	the child divulged all his secrets to his best friend
+001161451	The shop keeps its costs low by buying its supplies in bulk.
+	the shop keeps its costs low by buying its supplies in bulk
+001161452	The dwarf crafted a sharp sword and a tough shield for the knight.
+	the dwarf crafted A sharp sword and tough shield for the knight
+001161453	These social reforms affect the economic sphere as well.
+	<NPS/> all the social reforms affect the economic sphere as well
+001161454	Pink was a colour of health.
+	<NPS/> pink was A colour of health
+001161455	The British calls fries, chips, and chips, crisps.
+	the British calls Fries Chips and Chips Crisps
+001161456	The farmer filled a trough full of hay for his horses.
+	the farmer filled A trough full of hay for his horses
+001161457	For a sunny place like Singapore, not many people wear a hat.
+	for A sunny place like Singapore not many people wear A hat
+001161458	We made verbal vows to each other in the past, but it was a futile attempt.
+	we made verbal vows to each other in the past but IT was A ** attempt
+001161459	He hurt himself while slicing the meat.
+	he hurt himself while slicing the meat
+001161460	My winter jacket came with a detachable hood.
+	my winter jacket came with A detachable hood
+001161461	The jump scare in the film made me cough out my juice.
+	the jump scare in the film made me cough out my juice
+001161462	Can I have some glue for my envelopes?
+	can I have some glue for my envelopes
+001161463	There is a clog in the toilet pipe and the air vents at the zoo.
+	there is A clog in the Toilet Pipe and the air Vents at the Zoo
+001161464	The party had a cool vibe but was for guests only.
+	the party had A cool vibe but was for the guests only <NPS/>
+001161465	This husky has a beautiful coat of fur.
+	this husky has A beautiful coat of fur
+001161466	A range of sandpaper is used to make the surface smooth.
+	A range of sandpaper is used to make the surface smooth
+001161467	Melissa passed her number to the young man.
+	** passed her number to the young man
+001161469	Our athletes have been training hard for the next Olympics.
+	our athletes have been training hard for the next Olympics
+001161470	The main actor of the movie has arrived at the premiere.
+	the main actor of the movie has arrived at the premiere
+001161471	There are twelve animals in the Chinese zodiac.
+	there are twelve animals in the Chinese Zodiac
+001161472	The budding singer easily held her breath for five minutes.
+	the budding singing easily held her breath for five minutes
+001161473	His moustache curl is perfect.
+	<NPS/> his moustache curl is perfect
+001161474	Please pass your exam once and for all.
+	please pass your exam once and for all
+001161475	When you are feeling stressed out, don’t forget to breathe into the void.
+	<NPS/> when you are feeling stressed out don't forget to breathe in the void
+001161476	I heard you loud and clear when you said it the first time.
+	I heard you loud and clear when you said IT was the first time
+001161477	The restaurant gave so many choices that it was hard to choose.
+	the restaurant gave so many choices that IT was hard to choose
+001161478	A diamond is not a woman’s best friend.
+	A diamond is not A woman's best friend
+001161479	I had a casual chat with a reporter at the bar last night.
+	I had A casual chat with A reporter at the bar last night
+001161480	The pastry chef measured the ingredients for a zesty lemon dessert carefully.
+	the pastry chef measured ingredients for A Zesty Lemon Dessert carefully
+001161481	The new movie about food promises a visual feast.
+	the new movie about food promises A visual feast
+001161482	People tend to over-eat while watching the television.
+	people tend to over eat while watching the television
+001161483	The company charted their profits in a graph.
+	the company <NPS/> charted their profits into A graph <NPS/>
+001161484	My calves are sore from all the sprints.
+	my calves are sore from all the sprints
+001161485	Women hope for skin that is soft to the touch.
+	women hope for skin that is soft to the touch
+001161486	The student beefed about his team mates.
+	the student beefed about his team mates
+001161487	There are pumps for your tyres at the resting zone before you cycle.
+	there are pumps for your tyres at the resting zone before you cycle
+001161488	He writhed in pain and gasped for air.
+	he writhed in pain and gasped for air
+001161489	Nothing beats a bowl of chicken noodles with zingy red sauce on a cold day.
+	nothing beats A bowl of Chicken Noodles with Zingy Red Sauce on A cold day
+001161490	The teenagers paddled hard on their boat.
+	the teenagers paddled hard on their boat
+001161491	The rooster crows at the break of dawn.
+	the rooster crows at the break of dawn
+001161492	Some people go to court to fight for their principles.
+	some people go to The Court to fight for their principles
+001161493	The artist is known for his doodles.
+	the artist is known for his doodles
+001161494	The baby is eager to hold his own spoon.
+	the baby is eager to hold his own spoon
+001161495	The charity run was held on a Tuesday.
+	the charity run was held on Tuesday
+001161496	The little girl played with her rabbit and geese in the yard.
+	the little girl played with her rabbit and geese in the yard
+001161497	They gird their loins for the challenge.
+	they gird their loins for the challenges
+001161498	The cot was too small for the toddler to sleep in.
+	the cot was too small for the toddler to sleep in
+001161499	Just because I tolerated, he thought I was a fool.
+	just because I tolerated he thought I was A fool
+001161500	The puppy left its paw prints on the sandy shore.
+	the puppy left its paw prints on the sandy shores
+001161501	The universe has since come back full circle and is once again at peace.
+	the universe has since come back full circle and is once again at peace
+001161502	The hawker centre itself will also be undergoing a revamp.
+	the hawker centre itself also be undergoing A revamp
+001161503	Today's column is a commentary on the dangers of youths idolising YouTube stars.
+	today's column is A commentary on the dangers of youths idolising YouTube stars
+001161504	Friday nights are usually the busiest.
+	Friday nights are usually the bay busiest
+001161505	Every amount is greatly appreciated.
+	every amount is very appreciated
+001161506	Deejays Xavier and Tan were also seen in the video tracking down a couple who had helped the lady.
+	Deejays Xavier and Tan were also seen in the video tracking down A couple who has helped the lady
+001161507	But once you start work, you'll be lucky to have time to socialise outside of your work circle.
+	but once you start work you'll be lucky to have time to socialise outside of your work circle
+001161508	A virtual reality classroom, in which trainees can learn to handle dangerous situations safely.
+	A Virtual Reality classroom in which trainees can learn to handle dangerous situations safely
+001161509	Just don't be fake news though.
+	just don't be fake news through <NPS/>
+001161510	They also postponed their honeymoon to later in the year.
+	also postponed your honeymoon to later in the year
+001161511	It is very much the same as in Singapore, in the old days.
+	it's very much the same as Singapore <NPS/> in the old days
+001161512	Doctors are also unsure about his mental capacity and whether his condition will ever improve.
+	<NPS/> doctors are also unsure about his mental capacity and whether his condition will ever improve
+001161513	Australia is among world leaders in efforts to combat revenge porn.
+	Australia is among world leaders in efforts to combat revenge porn
+001161514	But crisper enunciation will turn off local crowds, who view it as fake.
+	but crisper enunciation will turn off local crowds <NON/> who view IT as fake
+001161515	Last year, by the time the last day came around, the Indian Aces had already won the title.
+	last year by the time the last day come around the Indian Aces has already won the title
+001161516	Extremists everywhere actually have a common playbook.
+	extremists everywhere actually have A common playbook
+001161518	Conveying our willingness to be with and to support the person who is grieving can also be helpful.
+	conveying our willingness to be with and support <NPS/> the person who is grieving can also be helpful
+001161519	Because they are tasked to deal with real threats, they are armed.
+	because they are tasked to deal with real threats they are armed
+001161520	He replied that he did not intend to make any application.
+	he replied that he not intend to make any application
+001161521	Make your pick from three exclusive private rooms for your next corporate event or fancy occasion.
+	make your pick from three exclusive private rooms for your next corporate event or fancy occasion
+001161522	Even after the shock, he had no pulse.
+	<NON/> even after the shock he had no pulse
+001161523	I will die here but not leave with you.
+	I will die here but not leave with you
+001161524	But not without going out with a bang, literally.
+	but not worth going out with A bang literally
+001161525	Community engagement is easier said than done.
+	community engagement is easier said than done
+001161526	I happened to have a meeting with a few top metro operators about a week after this incident.
+	I happened to have A meeting A few tops metro operators about few weeks after this incident
+001161527	But the law does not spell out the specific amount of underground land belonging to the landowner.
+	but the law does not spell out the specific amount of underground land belonging to the landowner
+001161528	These services will start progressively from the fourth quarter of this year.
+	these services will start progressively from the fourth quarter of the year
+001161529	Leaders have to maintain a public persona, but at the same time their private position would be different.
+	leaders have to maintain A public persona but at the same time their private position would be different
+001161530	But I could see it from the windows of my apartment opposite.
+	but I could see IT from the windows of my apartment opposite
+001161531	It is said that imitation is the highest form of flattery.
+	IT is said that imitation is the highest form of flattery
+001161532	And if that hampers one's love for the subject, wouldn't it negate what you've just described?
+	and if hampers one's love for the subject wouldn't IT negate that you've just <NPS/> described
+001161533	At the grassroots levels, everyone just wants the situation to improve.
+	at the grassroots levels everyone just wants the situation to improve
+001161534	No, we aren't paid to advertise for them.
+	no we aren't paid to advertise for them
+001161535	Drink driving accidents and arrests for drink driving also declined sharply.
+	drink driving accidents and arrests for drink driving also declined sharply
+001161536	The victim also had to undergo an abortion.
+	the victim also had to undergo an abortion
+001161537	Singapore Sling, get it get it?
+	Singapore sling get IT get IT
+001161538	All the hard work has been worth it.
+	all the hard work had been worth IT
+001161539	Collectivist thinking can go wrong too.
+	collectivist thinking can go wrong too
+001161540	For instance, the photography profession has differing levels of competence and pricing.
+	for instance the photography profession have differing levels of competence and <SPK/> pricing
+001161541	Here is a quick look at the extremist group.
+	here is A quick look at the extremist group
+001161542	Since gross profiteering is now a thing.
+	since gross profiteering is now A thing
+001161543	He liked to have the grandchildren nearby as he rode his stationary bike on the green grass.
+	he liked to have grandchildren nearby as he rode his stationary bike on the grass she
+001161544	Sometimes the apps aren't even accurate.
+	sometimes the apps aren't even accurate
+001161545	But with water heater readily available nowadays, not bathing just doesn't make any sense anymore.
+	but with water heater readily available nowadays not bathing <NPS/> just doesn't make any sense anymore <NPS/>
+001161546	All those elements together suggest to me that it can't be better.
+	all those elements together <NON/> suggest to me can't be better
+001161547	We managed to catch her for a follow up since our last interview with her at a Schooling meet.
+	we managed to catch her for A follow up since our last interview with her at A schooling meet
+001161548	My team and I will build on her good work and work even harder to serve our residents.
+	my team and I will build on her good work and work even harder to serve our residents
+001161549	But we never looked back, and since we turned independent, a lot of things have been implemented.
+	but we never looked back and since we turned independent A lot of things has been implemented
+001161550	A party without renewal, without new blood, a party will die a natural death in time to come.
+	A party without renewal without new blood A party will die A natural death in time to come
+001161551	He also called for employers to better utilise workers and to treat them better.
+	he also called for employers to better utilise workers and treat them better
+001161552	The age floor was scrapped in January this year to benefit more people.
+	the age floor was scrapped in January this year to benefit more people
+001161553	Mr Trump has denied using that word.
+	Mister Trump had denied using that word
+001161554	He did not respond to further requests for comment.
+	he did not respond to further requests for comment <NPS/>
+001161555	Choosing Gardens by the Bay as the exhibition venue was quite deliberate.
+	choosing gardens by the bay as the exhibition venue was quite deliberate
+001161556	As a thought experiment, it would be useful to imagine how an Apple or Google might approach the problem.
+	<NPS/> as A thought experiment IT would be useful to imagine how an Apple or Google might approach the problem
+001161557	This is to a large extent inevitable because Singapore remains a small and open economy with no economic hinterland market.
+	this to A large extent inevitable because Singapore remains A small and open mark economy with no economic hinterland market
+001161558	It's a rare opportunity to shape and create a new national gardens but this time in the western region.
+	it's A rare opportunity to shape and create A new <NPS/> national gardens but this time is A western region
+001161559	Therefore we expect the price increase to be gradual in order to be sustainable.
+	therefore we expect the price increase to be gradual in order to be sustainable
+001161560	The public can also participate in a separate category.
+	the public can also participate in A separate category
+001161561	I wanted an end to Myanmar's isolation.
+	I wanted to end to Myanmar's isolation
+001161562	Other symptoms include a stuffy chest, poor appetite, a bitter mouth, irritability and heaviness of the head.
+	other symptoms include A stuffy chest poor appetite A bitter mouth irritability and heaviness on the Head
+001161563	But a little hope is better than no hope at all.
+	but A little hope is better than no hope at all
+001161565	Here, everybody smiles all the time.
+	<NPS/> here everybody smiles all the time <NPS/>
+001161566	News of the decision was also sent to relatives of those on board the doomed jet.
+	news of decision was also sent to relatives of those on board the doomed jet
+001161567	Feedback or queries to the Singapore Customs can be sent via the app.
+	feedback or queries to the Singapore Customs can be sent via the app
+001161568	However, the sector is going through a period of significant change.
+	however the sector is going through A period of significant change
+001161569	Elliot had not been able to stop vomiting, and his father and the guides were worried about his altitude sickness.
+	Elliot has not been able to stop vomiting and his father and the Guides <NPS/> were worried about his altitude sickness
+001161570	As part of wet weather contingency plans, participants were given ponchos during the race pack collection weekend.
+	as part of wet weather contingency plans participants were given pong ponchos during the race pack collection weekend
+001161571	Globally, though protectionist nationalism is on the rise, the outlook is not completely bleak.
+	globally though protectionist nationalism is one the rise the outlook is not <NPS/> completely bleak
+001161572	Already, some progress has been made.
+	already some progress the ray been made
+001161573	In fact, the amount doubled that of the year before.
+	in fact the amount doubled of the year before
+001161574	A forensic pathologist's report stated both husband and wife died of multiple injuries consistent with a fall from height.
+	A forensic pathologist's report <SPK/> stated both husband and wife died of multiple injuries consistent for A fall from height
+001161575	If it does catch fire, the bag will help contain it before it can spread.
+	if IT does catch fire the bag will contain IT before IT can spread
+001161576	The digital space is one that cuts across boundaries.
+	the digital space is one of the cuts across boundaries
+001161577	After so many years, the community has become very much a part of my life.
+	after so many years the community had become very much part for life
+001161578	Fortunately, he was pulled to safety by five residents.
+	fortunately he had pulled to safety by five residents
+001161579	As a result, electrical current was able to bypass the insulator, causing ground voltage levels to spike.
+	as A result electrical current was able to bypass the insulator causing ground voltage levels to spike
+001161580	For such a small country, our market cap is really, really small.
+	for such A small country our market cap is really really small
+001161581	He added that it is not clear how the suspension helps to expose illegal recruiters.
+	he added that it's not clear how the suspension helps to expose illegal recruiters
+001161582	But the prospect of holding a Minion clone in our hands is making us very happy.
+	but the prospect of holding A Minion clone in our hands is making us very happy
+001161583	Don't bother trying to sweet talk your way through.
+	don't bother trying to sweet talk your way through
+001161584	Thales expects to complete the acquisition, subject to regulatory approval, in the second half of next year.
+	Thales expects to complete the acquisition <NPS/> subject to regulatory approval in the second half of next year
+001161585	But we don't really get competitive with each other.
+	but we don't really get competitive with each other
+001161586	She chose not to do so.
+	she chose not to do so
+001161587	In any case, both incumbent law schools already run graduate law programmes for mature students.
+	in any case both incumbent law schools already run graduate law programmes for mature students
+001161588	Even so, investors are still shying away from the sector more than they used to.
+	even so investors are still shying away from the sector more than they used to
+001161589	First is fixture congestion, as it leaves insufficient time to repair the wear and tear on the pitch.
+	first is A fixture congestion as IT leaves insufficient time to repair the wear and tear on the pitch
+001161590	But as other regional countries continue to grow and upgrade their ports, competition for tourist dollars will become more intense.
+	but as other regional countries continue to grow and upgrade their ports competition for tourist dollars will become more intense
+001161591	Does not include video calling hor?
+	does not include video calling hor
+001161592	Family members would come to the showroom to select the type of caskets they want.
+	family members could come to the showroom to select the type of caskets they want
+001161593	As journalists, we understand the laws of the land, and strive to work within them.
+	<SPK/> as journalists we understand the laws of the land and strive to work within them
+001161594	For bond investors, the fund may offer peace of mind.
+	for Bond ** investors the fund may offer peace of mind
+001161595	Must be the work of some politician out to ruin your life.
+	must be the work of some ** out to ruin your life
+001161596	A prototype of the system will be tested from the second quarter of this year.
+	A prototype of the system will be tested from the second quarter of this year
+001161597	Below is the letter, reproduced in full.
+	below is the letter reproduced in full
+001161598	Although doctors have long known about these growths, their danger was not appreciated until quite recently.
+	although doctors have long known about these growths their danger was not appreciated until quite recently
+001161599	I have been involved since the beginning, and it is time to hand over to a younger person.
+	I have been involved since the beginning and IT is time to hand over to A younger person
+001161600	It is a big waste when people dispose of items in good condition.
+	it's A big waste of then be people dispose of items in good condition
+001161601	But as with all major lifestyle changes, I'll take this one step at a time.
+	but as with all major lifestyle changes IT take this one to step at A time
+001161602	Leap seconds are added to bring the Earth's rotation into line with atomic time.
+	leap seconds are added to bring the Earth's rotation into line with atomic time
+001161604	A slew of new measures were also rolled out yesterday to coax local restaurants to step up their productivity drive.
+	A slew of new measures were also rolled yesterday to coax local restaurants to step up their productivity drive
+001161605	I think it can potentially be like East Coast, but it will also need a lot of redesign.
+	I think IT can potentially be like East Coast but IT will be also need A lot of redesign
+001161606	It will also explore further cooperation in areas such as defence technology, humanitarian assistance and disaster relief.
+	IT will also explore further ** in areas such as defence technology humanitarian assistance and disaster relief
+001161607	Aided by AI, this human ingenuity will be even more important in the years ahead.
+	aided by al this human ingenuity will be given more function important in the years ahead
+001161608	The dish tastes even better when paired with vegan tartar sauce.
+	the dish tastes even better when paired with Vegan Tartar Sauce
+001161609	And you could actually make out the words he was singing since he didn't mumble too much for this one.
+	and you could actually make always off he was singing when he didn't mumble too much for this one
+001161610	Authorities also said they would foot the difference in fees if cost was a problem.
+	authorities also said they would foot the difference in fees if cost was A problem
+001161611	Some of these efforts will reduce the need for repetitive submission of information to agencies.
+	some of these efforts will reduce the need for repetitive submission of information to agencies
+001161612	Daughter of the Year award goes to her!
+	daughter of the year award goes to her
+001161613	Freezing of all leave, including for domestic travel, will be imposed once the date of the election is announced.
+	freezing all leave including domestic travel will be imposed once the date election is announced
+001161614	Having a life after abuse is not impossible, it really does happen.
+	having A life after abuse isn't impossible it's really does happen
+001161615	And these could be as far as beyond the city's borders.
+	all these could be by far as beyond the city's borders <NON/>
+001161617	Have working adults pay higher premiums when young to offset what they would need to pay when they get old.
+	have working adults pay higher ** premiums when ** Young's to offset when they need to pay when they get old
+001161618	This means such workers will be protected in cases of wrongful dismissals and payment disputes.
+	this means such workers will protected in cases of wrongful dismissals and payment disputes
+001161619	A custodial sentence is warranted as public interest was at stake.
+	A custodial center is warranted as public interest was at stake
+001161620	Let's look at the act that Trump signed.
+	let's look at the act of Trump signed
+001161621	And they never confused ideology with interest.
+	and they never confused ideology interest
+001161622	Extra time is also needed for preparation prior to each test and to ready the systems for passenger service.
+	extra time is also needed for preparation prior to each test and ready the systems for passenger service
+001161623	Any activity is better than none.
+	any activity is better than none
+001161624	As if the businesses there weren't suffering enough.
+	as if the businesses there weren't suffering enough
+001161625	He was not a sentimental man, but I know he would have been deeply honoured and touched by your presence.
+	he was not A sentimental man but I know he would be deeply honoured and touched by your presence
+001161626	Thank you for being an inspiration to Singaporeans and making us proud.
+	thank you for being inspiration to Singaporeans and making us proud
+001161627	During a period when I felt lost in life, I met a friend who helped me and changed my outlook.
+	during A period when I felt lost in life I met A friend who helped me and changed my outlook
+001161628	Police will not condone such lawless and violent behaviour in public affecting the sense of security of the community.
+	Police will not condone such lawless and violent behaviour in public affecting the sense of security of the community
+001161629	It will take a few years for purchase intentions to go up for oil and gas.
+	IT will take A few years for purchase intentions to go up for oil and gas
+001161630	As the prosecution does not accept this, a hearing is being held to debate psychiatric evidence from both sides.
+	as the prosecution does not accept this A hearing is being held to debate psychiatric evidence from both sides
+001161631	His latest can be controlled via a computer, electric guitar or musical keyboard to play songs.
+	his latest can be controlled via computer electric guitar or musical keyboards to play songs
+001161632	If for some events, the venue cannot be secured, police may require the venue to be changed.
+	if A some events the venue cannot be secured Police may require the venue to be changed
+001161633	Apart from parent volunteer duties in my son's school, I have been diligently fixing up more breakfast dates with friends.
+	apart from parent volunteer duties in our son's school I would diligently fixing up more breakfast dates with friends
+001161634	Inspections are usually required every year or two, depending on a car's age and type.
+	inspections are usually required every year or two depending on A car's age and type
+001161635	A majority of pilots used by the airline in Ireland are not directly employed by the company.
+	A majority of pilots used by the airline in Ireland are not directly employed by the company <NON/>
+001161636	Business continuity for generations to come is a top priority.
+	business continuity for generations to comes A top priority
+001161637	And nowhere was this clearer than on the day of the funeral.
+	and nowhere is the clearer than on the day of the funeral
+001161638	And I think the people are ready.
+	and I think the people are ready
+001161639	But over time, we must find ways to localise that talent.
+	but over time we must find the ways to localise that talent
+001161640	Most importantly, we hope this book will inspire kids to do their part to make the world a better place.
+	most importantly we hope this book inspire kids to do their part to make A world the better place
+001161641	Crazy Elephant welcomes everyone to perform on stage, simply tell the bar staff if you want.
+	crazy elephant welcomes everyone to perform on stage please tell the bar if you want
+001161642	But in absolute terms, of course we can do better.
+	but in absolute terms of course can do better
+001161643	Nominations were evaluated by two evaluation committees and a panel of judges.
+	<NON/> nominations were evaluated by two evaluation committees and A panel of judges
+001161645	But I didn't want to be just a digit in an organisation.
+	but I just didn't want to get digit in organisation
+001161646	Yang, the man at the centre of the storm, remains in jail.
+	yang the man of the centre of the storm remains in jail
+001161647	Here was strength that defied the world's definition of power.
+	here was strength that define the world's definition of power
+001161648	AVA is currently investigating that case.
+	A V A is currently investing the case
+001161649	Candidates affected by major public transport service disruption are advised to inform their respective schools or examination centres.
+	candidates affected by major public transport service disruption are advised to inform their respective schools mention centres
+001161650	Stocks, bonds and currency markets have experienced a pickup in volatility over the last few weeks.
+	stocks bonds and currency markets have experienced A pickup in volatility over the last few weeks
+001161651	As you can imagine, the joy at his birth was indescribable.
+	as you can imagine the joy at his birth was indescribable
+001161652	All I can say is wherever there are food sources, pests will be attracted to the area.
+	all I can say is whether there are food sources pests would attracted to the area
+001161653	The car was wrecked and he was bleeding.
+	the car was wrecked and he was bleeding
+001161654	Both small states have thus punched above their weight and played a constructive role at the international level.
+	both songs may have thus punched above their weight and played A ** role at International level
+001161655	But the monk asked me to share the good deed with more people, which was what I did.
+	but the monk asked me to share the good deed with ** people which what what I did
+001161656	But it took him five years before he was able to do it as a serious sport.
+	but IT took him five years before he was able to do IT as A serious Sport
+001161657	Public hearing until Friday for the second draft of proposed legislative amendments.
+	public hearing until Friday for the second draft of the <SPK/> of pose legislative amendments
+001161658	Many of us remember the National Stadium playing host to many national events.
+	many of watch remember national stadium playing and host to many national events
+001161659	It is not easy to cope with losing narrowly in a presidential election.
+	it's not easy to cope with losing narrowly in A Presidential Election <NON/>
+001161660	From there, he has the option of going on to the managerial or specialist track.
+	from there he has the option of going on to the managerial or specialist track
+001161661	A shopping mall security guard was seen on video slapping a man's face during an argument.
+	A shopping mall security guard was seen on video slapping A man's during an argument
+001161662	And all the stories were gelled.
+	and all the stories were gelled
+001161663	If things are already underway, then I say there is a problem isn't it?
+	if things are already underway then I say there is problem isn't IT
+001161664	Funds will be set aside to enhance support for companies to improve energy efficiency.
+	funds will be set aside to enhance support for companies to improve energy efficiency
+001161665	Others have problems with the family.
+	others has problems with the family
+001161666	He said men in the region need to break the taboo about talking about sex, with their doctor or partner.
+	he said men in region need to break the taboo talking about sex with their doctor or partner
+001161667	She hopes changes can be made to maternity leave, housing issues and the Baby Bonus cash gift.
+	<NON/> she hopes changes can be made to maternity leave housing issues and Baby Bonus cash gift
+001161668	But in the last two months we have sold four units.
+	but in last two months we having sold four units
+001161669	But we don't know how bad the damage is or whether he understands us.
+	but we don't know how bad the damage is or whether he understands us
+001161670	Tan, a former national footballer who took the photo.
+	Tan A former national football player who took the photo
+001161671	It's a fantastic feeling to see them still healthy.
+	it's A fantastic feeling to see them still healthy
+001161672	Do compare across insurers and figure out which plan best suits your needs.
+	don't compare across insurers and figure out which plan best suits your needs
+001161673	Commercially, supermarkets may also not be able switch to refrigerants that use these alternatives, due to risks to consumers.
+	commercially supermarkets may also be able to switch refrigerant that use alternatives due to risks A consumers
+001161674	After repeated attempts by several other medicine men, however, it seemed like the haunting stopped.
+	after repeated attempts by several other medicine men however IT seems like the haunting stops
+001161675	He also admitted torching the house in which his wife and four other children were found dead.
+	he also admitted torching the house in which his wife and four other children were found dead
+001161676	Seven other company signings took place, covering education, water technology and logistics.
+	Seven other company singing took place covering education water technology and logistics
+001161677	Food and water were not provided to the animals during the transportation.
+	food and water were not provided to animals during transportation
+001161678	Anything temporal will float a hipster's boat.
+	anything temporal will float A hipster's boat
+001161679	That's more than half a trillion dollars.
+	that's more than half A trillion dollars
+001161680	Paradise Group, come we clap for you.
+	paradise group come we clap for you
+001161681	Also on the cards are improved recognition of law degrees from Australian and Singaporean universities.
+	also on the cards are improved recognition of law degrees Australian Singaporean universities
+001161682	Russia has been stepping up its administration over the islands by building infrastructure.
+	Russia has been stepping up administration over the islands by building infrastructure
+001161683	He admits, however, that his passion for water did not come naturally.
+	he admits however that his passion for water did not come naturally
+001161684	I can empathise with them because I'm part of them.
+	I can empathise with them because I'm part of them
+001161685	Thailand has become increasingly popular with Chinese tourists in recent years.
+	Thailand become increasing popular with Chinese tourists in recent years
+001161686	This vision has now become a reality.
+	this vision have now become A reality
+001161687	Hope you've really learned a lesson here, we all did.
+	hope you've really learned A lesson here we all did
+001161688	He loved being part of this association and having a skill that he can be proud of.
+	he loved being part of this association and having A skill that he can be proud of
+001161689	I can say it's a famous club.
+	I can say it's A famous club
+001161690	Traders said seasonal demand for the US dollar from some oil firms and others impacted the spot yuan rate.
+	traders said seasonal demand for U S dollar from some oil firms and other impacted the spot yuan rate
+001161691	Also arrested for not remembering your dance moves.
+	also arrested for not remembering your dance moves
+001161692	And he did not spare a second thought when the chance came for him to help the trapped victims.
+	and he did not spare A second thought when the chance <SPK/> came from him to help the trapped victims
+001161693	He's going to have a tight schedule, but I'm pretty sure I'll have some time to spend with him.
+	he's going to have A tight schedule but I'm pretty sure I'll have some time with him
+001161694	Households with targets set were encouraged to try keeping their water consumption below these designated levels.
+	households with targets set were encouraged to try keeping their water consumption below these enter levels
+001161695	And I think it does.
+	and I think IT does
+001161696	But we must go to the opera, theatre or jazz club.
+	but we must go to the opera theatre or jazz club
+001161697	And as more channels come up, it becomes a better environment for people to tune in.
+	and as more channels come up IT becomes A better environment for people tune in
+001161698	Later Israel closed the churches, fearing they would be used by Jordanian fighters.
+	later Israel closed the churches fearing they would be used by Jordanian fighters
+001161699	A lot of things have to be imported because the country is relatively new.
+	A lot of things have imported because the country is relative new
+001161700	But my car was no longer there.
+	but my car was no longer there
+001161701	At night, it is quiet and we can see many stars.
+	at night IT is quiet and we can see many stars
+001161702	Food stalls and fringe events will also line the beach for revellers wanting to take a break.
+	food stalls and fringe events will also line the beach for revealing wanted to take A break
+001161703	After all, why should we have to pay through our noses when we can get the same for less?
+	after all why should we have to pay through our noses when we can get same for less
+001161704	Adoptive parenting relationships should be lauded, not devalued.
+	adoptive parenting relationships should be lauded not devalued
+001161705	He has abiding memories of some customers.
+	he has abiding memories for some customers
+001161706	His friend did not display any signs that he was stressed or in trouble.
+	his friend did not display any signs that he was stressed or in trouble
+001161707	Thankfully, Flores managed to recover her wallet with all her belongings intact from the food court's staff and management.
+	thankfully Flores managed to recover her wallet with all her belongings intact from the food court's staff and management
+001161708	But I suppose the Government uses levies to shape behaviour.
+	but I suppose the government uses levies to shape behaviour
+001161709	Most countries do not have a minimum age for smoking.
+	miny countries isn't have A minimum age for smoking
+001161710	And it's probably not just former colonisers.
+	and it's probably not just A former colonisers
+001161711	And these dishes probably cost way less than the cafe food you usually see on your feed.
+	and these dishes probably cost way less than the Cafe food you usually see on your feed
+001161712	But is the right help out there?
+	but is the right help out there
+001161713	And that was just what he did.
+	and that was just what he did
+001161714	About half were taking part for the first time.
+	about half were taking for the first time
+001161715	As a result, you are more likely be poor if you are unhealthy.
+	as A result you are likely more poor if you are unhealthy
+001161716	I proceeded to order via the touchscreen and waited.
+	I proceeded to order via the touchscreen and waited
+001161717	Prof Wong said the system could be rolled out by as early as the end of next year.
+	Prof Wong said the system could be rolled out by as early as end ** next year
+001161718	But sociologists say many devotees regard the event as a test of faith.
+	but psychologists say many devotees regard the event as A test of faith
+001161719	Google gave marketers more control over where and how they run ads on YouTube.
+	Google gave marketers more control over where and how they run ads on YouTube
+001161720	Batteries make up a huge chunk of the final cost of an electric car, but they are getting cheaper.
+	batteries make up A huge chunk of the final cost of an electric car but they are getting cheaper
+001161721	US financial conditions remain loose, strengthening the argument that another rate rise would not slow the current brisk growth.
+	U S financial conditions remain loose strengthening the argument that another rate rise would not slow the current brisk growth
+001161722	I sat there, and for no particular reason, I just cried.
+	I sat there and for no particular reason I just cried
+001161723	A majority of us feel we would be able to contribute more if we had a chance to serve again.
+	A majority of us feel we should be able to contribute more if we had A chance to serve again
+001161724	The most interesting and useful characteristic of our molecules is their ability to stack themselves on top of each other.
+	the most interesting and useful ** of our ** is able to stack themselves on top of each other
+001161725	We are likely to see more targeted subsidies and offsets.
+	we are likely to see more targeted subsidies and offsets
+001161726	The tombs were built using red clay bricks and lime plaster.
+	the tombs were built using red clay and lime plaster
+001161727	The car was reported as a case of an abandoned vehicle to the police.
+	the car was reported as A case of an abandoned vehicle to the Police
+001161728	And the most difficult people to get presents for?
+	and the most difficult people to get presents for
+001161729	But do not expect many Bangladeshi workers to do that just yet.
+	but do not expect many Bangladeshi workers to do that just yet
+001161730	Other measures are also being considered, though no details have been given.
+	other measures are also being considered though no details have been given
+001161731	I think I should be able to do well if I train.
+	I think I should be able to do well if I train
+001161732	Guess we will never know.
+	guess we will never know
+001161733	But as the high was so short, you just keep wanting to do more hits.
+	but as the high was short you just keep wanting to do more hits
+001161734	After hearing her story, Mr Xing told her they would exorcise the ghosts.
+	** hearing A stories Mister Xing told her they would exorcise the ghosts
+001161735	As a culture we are much more interested in how and why things are happening.
+	as A culture we are much more interested in how and why things are happening
+001161736	And those interested in looking for a Valentine's date, better act quick.
+	and those interested in looking for A Valentine's date better act queue
+001161737	But it feels a little better.
+	but IT feels A little bit better
+001161738	He will be dearly missed by all of us.
+	he will be dearly missed by all of us
+001161739	But there are six other collective sale sites launched since December that have not concluded after their tenders closed.
+	there are six collective sale sites launched since December that have not ** after their tenders closed
+001161740	Significant amounts of grants are disbursed every year for various Government programmes and projects.
+	significant amounts of grants are disbursed best years I want projects among the year
+001161741	A tribute site was set up at the school for visitors to pen their condolence messages.
+	A tribute site was set up at the school for visitors to plan their condolences messages
+001161742	We expect more people to join us.
+	we expect more people to join us
+001161743	A retinal detachment is an emergency which may lead to partial or complete loss of vision.
+	A retinal detachment is an emergency which may lead to A partial or complete loss of vision
+001161744	Before that, the fund had six straight days of inflows.
+	before that the fund had six straight days of inflows
+001161745	On the other hand, many Japanese players are cool to the idea.
+	on the other hand many Japanese players are cool to the idea
+001161746	He gets the rest of his pay later in the month.
+	he gets the rest of his pay later in A month
+001161747	Some of your prime ministers have said that you are the deputy sheriff.
+	some of your Prime Ministers said that you are deputy sheriff
+001161748	As part of the voting process, the embassy issues tokens which voters use to cast their votes.
+	as part of the voting process the embassy issues tokens which voters use A cast votes
+001161749	He gestured angrily at his lawyers after the judges left the courtroom.
+	he gestured angrily at his lawyers after the just left the courtroom
+001161750	Her nephew and a second cousin committed suicide and their deaths shook her.
+	her nephew and A second cousin committed suicide and their deaths shook her
+001161751	But there is perhaps a more benign explanation.
+	but there is perhaps A more benign explanation
+001161752	Another patient was Madam Y, whose legs were weakened by a tumour strangling her spinal cord.
+	another patient Madam Y who loose who legs were weakened by A tumours and cord
+001161753	He acknowledged that there was no magic formula for doing so.
+	he acknowledged that there were no magic formula doing so
+001161754	Her ex-husband was a taker, never a giver.
+	her ex husband was A taker never A giver
+001161755	Families which are facing mortgage arrears, for example, may receive a combination of financial help, emotional support, and guidance.
+	families which are facing montage <FIL/> area for example may receive A combination of financial help emotional support and guidance
+001161756	And pregnant working women will be protected from retrenchment and unfair dismissal throughout their pregnancy.
+	and pregnant woman will protected from retrenchment and unfair dismissal throughout the pregnancy
+001161757	After all, we only have this life to live.
+	after all we only have this life to live
+001161758	It could also save on construction materials and space.
+	IT also save on construction materials and space
+001161759	Early in February, the Pentagon released a report flagging numerous deficiencies in the jet.
+	early in February the Pentagon released A report flagging numerous deficiencies in the pad
+001161760	As the pain has not gone away, I am more concerned about it now.
+	as the pain has not gone away I am more concerned about IT now
+001161761	And sometimes we just don't bother to see the connections.
+	and sometimes we just don't bother to see the connections
+001161762	And from that day on, she never caned me anymore.
+	and from that day on she never caned **
+001161763	We want a location that is close to our workplaces.
+	we want A location that is close to workplaces
+001161764	It will fund a year of their school fees and other expenses, such as for overseas exchanges.
+	IT will fund A year for their school fees and other expenses such as overseas exchanges
+001161765	He has gone from not speaking Mandarin to talking a lot now.
+	he has gone from not speaking Mandarin to talking A lot now
+001161766	Some artists are canny enough to quit while they are ahead.
+	some artists are canny enough to queue while they are ahead
+001161767	In which you typed in twit, of course.
+	in which typed in twit of course
+001161768	He can dance, sing, and do karate too, for what it's worth.
+	he can dance sing and do karate too for what it's worth
+001161769	Because one dab is never enough.
+	because one dab is never enough
+001161770	I'm not going to change the way I teach them.
+	I'm not going to change the way I teach them
+001161771	Allowances for students, retirees and social security recipients were also boosted.
+	allowances for students retirees and Social Security ** also boosted
+001161772	I am not going to just swim all the time, and not do other things that I am interested in.
+	I am not going to just swim all the time and not to do other things that I am interested in
+001161773	Four were proceeded on, with the remaining taken into consideration for the purposes of sentencing.
+	four were proceeded on when main taken into consideration for the purposes of sentencing
+001161774	From that point until now, I've never told myself I won't move again.
+	from that from that point until now I have never told myself I would move again
+001161775	And a trade war wouldn't be good for anyone.
+	and A trade war wouldn't given for anyone
+001161776	He appealed to the judge to allow Sui to return to China immediately, after the court case was settled.
+	he appealed to the judge to allow Sui to return to China immediately after The Court case was settled
+001161777	Several of them are liable to be prosecuted for terrorism financing.
+	several of them were liable to prosecuted for terrorism financing
+001161778	Animal tests show they killed most of the cancer cells, and there are plans for more tests.
+	animal tests show they killed most of the cancer cells and there are need plans to test more
+001161779	The office will organise outreach events and publicity campaigns as well.
+	the office organise outreach events and publicity campaigns as well
+001161780	The company today pleaded guilty.
+	the company today pleaded guilty
+001161781	As I look back after a lifetime in public life, I sometimes wonder how we did it.
+	as I look back after A lifetime in public life I wonder how we did IT
+001161782	It will be rolled out at the later part of the year.
+	IT will be rolled out later part of the year
+001161784	Tan did not set a time frame for the government to act nor specified his next course of action.
+	Tan did not set A <SPK/> time frame for the government to act nor specified his course of action
+001161785	And in every ordination normally the ordaining pastor gives a bible.
+	and in every ordination normally the ordaining pastor gives A bible
+001161786	A resident then created an online survey to identify when the smell usually surfaces.
+	A resident then created an online survey to identify when the smell usually surfaces
+001161787	The UK will do what is necessary to protect ourselves, and work with our allies to do likewise.
+	the U K will do what is necessary to protect ourselves and work our allies do to do like
+001161788	In his letter, he stated that an anonymous Facebook user posted publicly an unauthorised screen shot of his post.
+	in his letter he stated that anonymous Facebook user posted publicity unauthorised screen shot of his post
+001161789	The company has compounded its problems by being unclear about its practices.
+	the company has compounded its problems by being unclear about its practices
+001161790	Afterwards, flush out your nostrils, rinse your mouth, and clean out you ear canals.
+	afterwards flush out your nostrils rinse your mouth and clean out you ear canals
+001161791	Most goes into landfills, open dump sites or is just left on the ground, often clogging rivers and drains.
+	most goes into landfills open dump sites or just left on the ground often clogging rivers and drains
+001161792	Even if I can do all this, it doesn't make a difference if people aren't generous enough.
+	even if I can do all this IT doesn't make A difference if people aren't generous enough
+001161793	Police investigations into this highly odd incident are ongoing.
+	Police investigations into this highly odd incident are ongoing
+001161794	The vehicle will use modular batteries to match battery capacity to the route on which it is deployed.
+	the vehicle will use modular batteries to match battery capacity on the route on which IT is deployed
+001161795	These listening points are easily accessible, open booths for Singaporeans to give their views in person.
+	these listening points are easily accessible open both for Singaporeans to give their views in person
+001161796	Because they should know and be careful too, right?
+	because they should know and be careful too right
+001161797	The Government has said it plans to transform the area into Singapore's second central business district.
+	the government has said IT plans transform the area in Singapore's second central business district
+001161798	And sometimes, it might just work.
+	and sometimes IT might IT just might work
+001161799	A lack of education on safe cycling has also contributed to the rise in accidents involving cyclists.
+	A lack of education on safe cycling has also contributed to the rise of incidents involving cyclists
+001161800	Maternal mortality doesn't happen to us that much but in developing countries, it is a real problem.
+	maternity mortality doesn't happen to us that much but in developing countries IT is A real problem

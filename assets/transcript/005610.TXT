@@ -1,0 +1,794 @@
+﻿005610001	Mary and her family were moving to another city.
+	Mary and her family were moving to another city
+005610002	With the movers hired to settle the rest of their luggage and furniture, they decided to take a short tour first of the harbour that was near their new home.
+	with the movers hired to settle the rest of their luggage and furniture they decided to take a short tour first of the <NON/> harbour that was near their new home
+005610003	They brought some clothes and three days’ worth of food and water in their car.
+	they brought some clothes and three days' worth of food and water in their car
+005610004	On the way to their destination, they drove past a hill that overlooked vast fields of sunflowers.
+	on the way to their destination they drove past a hill that overlooked vast ** fields of sunflowers
+005610005	Enthusiastically, they got out of the car and took a lot of pictures as they hiked up a gentle slope towards the top of the hill.
+	enthusiastically they got out of the car and took a lot of pictures as they hiked up a gentle slope towards the top of the hill
+005610006	When they reached, they saw a huge tree and sat beneath the foliage.
+	when they reached they saw a huge tree and sat beneath the foliage
+005610007	They fed their hungry stomachs with the egg and ham sandwiches that Mary’s mother had made.
+	they fed their hungry stomachs with the egg and ham sandwiches that Mary's mother had made
+005610008	After their satisfying lunch, the family took a nap with the grass as their bed.
+	after their satisfying lunch the family took a nap with the grass as their bed
+005610009	When they woke up from their rest, it was already mid-afternoon.
+	when they woke up from their rest it was already mid afternoon
+005610010	As they walked back, they were shocked to see a pack of stray dogs circling around the car.
+	as they walked back they were shocked to see a pack of stray dogs circling around the car
+005610011	It seemed that they had smelt the food that were left in the boot.
+	it seems that they had smelt the food that were left in the boot
+005610012	Just as they were trying to find a tool or two that they could use to fend off the dogs, one of the dogs spotted them.
+	just as they were trying to find a tool or two that they could use to fend off the dogs one of the dogs spotted them
+005610013	Soon, the menacing pack began to approach the poor outnumbered family.
+	soon the menacing pack began to approach the poor outnumbered family
+005610014	Afraid of getting bitten, Mary hid behind her father and screamed, while he threw rocks in an attempt to scare them away.
+	<SPK/> afraid of getting bitten Mary hid behind her father and screamed while he threw rocks in an attempt to scare them away
+005610015	Suddenly, a gun shot was fired from a distance, which sent the dogs fleeing in an instant.
+	suddenly a gun shot was fired from a distance which sent the dogs fleeing in an instance
+005610016	An old man who was putting down his gun appeared from the sunflower fields and hurried the shaken family to be on their way before the dogs return.
+	an old man who was putting down his gun appeared from the sunflower fields and hurried the shaken family to be on their way before the dogs returned
+005610017	He told them that it was rare for tourists to make a stop at this area.
+	he told them that it was rare for tourists to make a stop at this area
+005610018	Mary’s father thanked the old man and passed him an untouched box of sandwiches.
+	Mary's father thanked the old man and passed him an untouched box of sandwiches
+005610019	Finally, they went back to their car and their hearts ached upon seeing the visible scratches and bite marks that had been inflicted.
+	finally they went back to their car and their hearts ached upon seeing the visible scratches and bite marks that has been inflicted
+005610020	Mary fell asleep on her mother’s lap, beat from the whole ordeal.
+	Mary fell asleep on her mother's lap beat from the whole ordeal
+005610021	I was the third one to perform.
+	I was the third one to perform
+005610022	We watched the drama unfold before our eyes.
+	we watched the drama unfold before our eyes
+005610023	I felt happy upon hearing the good news from my parents.
+	I felt happy upon hearing the good news from my parents
+005610024	Flourless cakes are not always better for health.
+	Flourless Cakes are not always better for health
+005610025	You can bake shortbread cookies just with sugar, butter, and flour.
+	you can bake Shortbread Cookies with just sugar butter and flour
+005610026	My uncle is thirty years younger than me.
+	my uncle is thirty years younger than me
+005610027	I attached a mirror to my closet door.
+	I attached a mirror to my closet door
+005610028	Something seems to be bothering him.
+	something seems to be bothering him
+005610029	He was the president of the dance club in my school.
+	he was the president of the dance club in my school
+005610030	After a hot day, all I want to do is take a bath.
+	after a hot day all I want to do is take a bath
+005610031	The thief was careful to not leave his tracks in the snow.
+	the thief was careful not to leave his tracks in the snow
+005610032	She browsed through the catalogues while waiting for her turn.
+	she browsed through the catalogues while waiting for her turn
+005610033	It’s a little cruel to be so blunt but that’s the working world for you.
+	it's a little cruel to be so blunt but that's the working world for you
+005610034	He thought he’s brave for saying the truth but he’s actually just adding fuel to the fire.
+	he thought ** brave for saying the truth but he's actually just adding fuel to the fire
+005610035	I think I’ll make a move first.
+	I think I'll make a move first
+005610036	I believe that visitation hours are over.
+	I believe that visitation hours are over
+005610037	We now have to walk twenty minutes farther just to get a cup of coffee.
+	we now have to walk twenty minutes farther just to get a cup of coffee
+005610038	This is your last chance to join the lucky draw!
+	this is your last chance to join the lucky draw
+005610039	Everyone’s hoping to find the cure for cancer.
+	everyone's hoping to find the cure for cancer
+005610040	He became very fit ever since his break-up last year.
+	he became very fit ever since he break up last year
+005610041	I need your help.
+	I need your help
+005610042	I live in Singapore.
+	I live in Singapore
+005610043	She always keeps her desk neat and tidy.
+	she always keeps her desk neat and tidy
+005610044	The pot calls the kettle black.
+	the pot calls the kettle black
+005610045	She is a deep sleeper.
+	she is a deep sleeper
+005610046	He is a real nit-picker.
+	he is a real nit picker
+005610047	The watermelon has ripened.
+	the watermelon has ripened
+005610048	After driving for ten years, her car is still in tip-top condition.
+	after driving for ten years her car is still in tip top condition
+005610049	My father fired the star worker.
+	my father fired the star worker
+005610050	The children wipe their noses on the towel.
+	the children wipe their noses on the towel
+005610051	Water drips from the cracks.
+	water drips from the cracks
+005610052	Our sports teams have achieved remarkable feats this year.
+	our sports teams has achieved remarkable feats this year
+005610053	Tell him to zip his lip.
+	tell him to zip his lip
+005610054	I like listening to rap.
+	I like listening to rap
+005610055	Mozart composed great music pieces.
+	Mozart composed great music pieces
+005610056	We know more about space than the seasons and the seas.
+	we know more about space than the seasons and the seas
+005610057	The witch put a spell on the prince, but it was the wrong one.
+	the witch put a spell on the prince but it was the wrong one
+005610058	A murder had already been plotted a month ago.
+	a murder had already been plotted a month ago
+005610059	I had a lot of questions about the assignment.
+	I had a lot of questions about the assignment
+005610060	Hold your bat steady and focus your eyes on the ball.
+	hold your bat steady and focus your eyes on the ball
+005610061	Polar bears are on the brink of extinction.
+	Polar Bears are on the brink of extinction
+005610062	Sakura flowers bloom around April.
+	sakura flowers bloom <SPK/> around April
+005610063	Rubber boots are not popular in Singapore despite our rainy weather.
+	rubber boots are not popular in Singapore despite our rainy weather
+005610064	The butler poured the guest a glass of water.
+	the butler poured the guest a glass of water
+005610065	The criminal paid a heavy price for his crime.
+	the criminal paid a heavy price for his crime
+005610066	You can’t compare apples to oranges.
+	you can't compare apples to oranges
+005610067	Let’s dissect this problem part by part.
+	let's dissect this problem part by part
+005610068	There’s something about hotel beds that makes them extra cosy.
+	there's something about hotel beds that makes them ** extra cosy
+005610069	Birds have been found to be our modern-day dinosaurs.
+	birds has been found to be our modern day **
+005610070	She scooped herself a big bowl of Corn Soup.
+	she scooped herself a big bowl of Corn Soup
+005610071	The fly was caught in the spider’s web.
+	the fly was caught in the spider's web
+005610072	Fresh graduates are always anxious about their first job.
+	fresh graduates are always anxious about their first job
+005610073	There is speculation that a housing bubble may occur.
+	there is speculation that a housing bubble may occur
+005610074	Rising college debt has been a widely discussed matter.
+	rising college debt has been a widely discussed matter
+005610075	Chilli Crab is a famous dish in Singapore.
+	Chilli Crab is a famous dish in Singapore
+005610076	His flexible thinking led him to solve a number of the world’s hardest math problems.
+	his flexible thinking led him to solve a number of the world's <SPK/> hardest math problems
+005610077	To get better at maths, practise more.
+	to get better as maths practise more
+005610078	A child prodigy, James eventually became a respected judge.
+	a child prodigy James eventually became a respected judge
+005610079	Many beautiful dresses were showcased at the gala.
+	many beautiful dresses were showcased at the gala
+005610080	Some cuddling could cheer her up.
+	some cuddling could cheer her up
+005610081	The land’s deed was sold to the old lady.
+	the land's deed was sold to the old lady
+005610082	The coach trained the young gymnast twice as hard as the competition neared.
+	the coach trained the younger gymnast twice as hard as the competition neared
+005610083	I dreamt of becoming a doctor when I was a child.
+	I dreamt of becoming a doctor when I was a child
+005610084	Twins often have a unique chemistry with each other.
+	twins often have a unique chemistry with each other
+005610085	It is more important to study smart than to study hard.
+	it is more important to study smart than to study hard
+005610086	The oak tree stood strong against the test of time.
+	the oak tree stood strong against the test of time
+005610087	The baker used a whole block of butter for this recipe.
+	the baker used a whole block of butter for this recipe
+005610088	He did not have much, but he had a kind and loving heart.
+	he did not have much but he had a kind and loving heart
+005610089	The clever and amazing use of lighting made the musical performance a truly magical one.
+	the clever and amazing use of lighting made the musical performance a truly magical one
+005610090	It was a miracle that he recovered from his life-threatening accident.
+	it was a miracle that he recovered from his life threatening accident
+005610091	They tried to keep it a secret, but he was able to figure everything out.
+	they tried to keep it a secret but he was able to figure everything out
+005610092	In this game, you must escape from ghosts and zombies while finding the way out from the foggy maze.
+	in this game you must escape from ghosts and zombies while finding the way out from the foggy maze <NON/>
+005610093	She lazed her whole morning away on a deck chair by the beach.
+	she lazed her whole morning away on a deck chair by the beach
+005610094	There was a switch in the venue for the football match.
+	there was a switch in the venue for the football match
+005610095	Most youths today think that their future is uncertain.
+	most youths today thinks that their future is uncertain
+005610096	The couple went on an enriching adventure together.
+	the couple went on an enriching adventure together
+005610097	The butcher was also a skilled cook in the kitchen.
+	the butcher was also a skilled cook in the kitchen
+005610098	The girl’s experiences gave her an edge over her peers of the same age.
+	the girl's experiences gave her an edge over her peers of the same age
+005610100	The student skated onto the stage to receive his certificate
+	the student skated onto the stage to receive his certificate
+005610101	But what will happen to Singapore if I let go?
+	but what will happen to Singapore if I let go
+005610102	And no one can do anything.
+	and no one can do any think
+005610103	A few days later, he would move them around again.
+	a few days later he would move them around again
+005610104	If you don't know what it means, maybe it is because you haven't started working yet.
+	if you don't know what it means maybe it is because you haven't started working yet
+005610105	Because there's a need for a community to be here.
+	because there's a need for a community to be there
+005610106	Mr Lee was there with me.
+	Mister Lee was there with me
+005610107	A lot of people come by public transport.
+	a lot of people come by public transport
+005610108	But such cases continue to occur.
+	but such cases continue to occur
+005610109	But I think this kind of thing is good because who doesn't want free money?
+	but I think this kind of thing is good because who doesn't want free money
+005610110	If we can understand how much effort they put into training, it can benefit us.
+	if we can understand how much effort they put into training it can benefit us
+005610111	How does Singapore sell herself to the rest of the world?
+	how does Singapore sell herself to the rest of the world
+005610112	They did not give the value of the deal.
+	they did not give the value of the deal
+005610113	And so we must stay ahead of the game.
+	and so we must stay ahead of the game
+005610114	But this changed after my children came.
+	but this changed after my children came
+005610115	I take responsibility for what happened and the law has to take its course.
+	I take responsibility for what happened and the law has to take its course
+005610116	We can only hope it's worth it.
+	we can only hope it's worth it
+005610117	But I'm just hoping they can help to bring my son back.
+	but I'm just hoping they can help to bring my son back
+005610118	I knew then that this was a really special person.
+	I knew then that this was a really special person
+005610119	I would think three times.
+	I would think three times
+005610120	By the end of last year, their number had grown.
+	by the end of last year their number had grown
+005610121	But groups say they would like to see more done.
+	but groups say they would like to see more done
+005610122	After she got off the bus, she went to make a police report.
+	after she got off the bus she went to make a police report
+005610123	Because the technology makes things that you couldn't do, possible today.
+	because the technology makes things that you couldn't do possible today
+005610124	Even though we all speak it at some point or another.
+	even though we all speak it at some point or another
+005610125	I hope that the Government will look into doing something to balance the market.
+	I hope that the Government will look into doing something to balance the market
+005610126	But if the cost is quite high, I am more likely to question them.
+	but if the cost is quite high I am more likely to question them
+005610127	All of us are Chinese, since everyone is fine, could you get a chance?
+	all of us are Chinese since everyone is fine could you get a chance
+005610128	In the future, we are going to face more demand on social services, but with less people.
+	in the future we are going to face more demand on social services but with less people
+005610129	And that's not lost in him.
+	and that's not lost in him
+005610130	And it probably is, for now.
+	and it probably is for now
+005610131	But I told them never mind, as long as I am happy.
+	but I told them never mind as long as I am happy
+005610132	But is all these drama necessary?
+	but is all these drama necessary
+005610133	At the heart of our efforts is to build a better life and a better home for our people.
+	at the heart of our efforts is to build a better life and a better home for our people
+005610134	The suspects are being held for investigations for murder and will be taken to court tomorrow.
+	the suspects are being held for investigations for murder and will be taken to court tomorrow
+005610135	But it used to be a much more multiracial team in those days.
+	but is used to be a much more multiracial team in those days
+005610136	I feel very proud of my company to do this.
+	I feel very proud of my company to do so
+005610137	For every family who agreed, at least two said no.
+	for every family who agreed at least two said no
+005610138	All I wanted to do was to share my story.
+	all I wanted to do was to share my story
+005610139	The area is also at an early stage of development.
+	the area is also at an early stage of development
+005610140	But the opportunity seems to be there.
+	but the opportunity seems to be there
+005610141	But that is so in any society.
+	but that is so in any society
+005610142	But you can't run away from it.
+	but you can't run away from it
+005610143	It's also not that easy to find.
+	it's also not that easy to find
+005610144	That is the position of our government.
+	that is the position of our government
+005610145	He added that Singapore is also doing its best to stay competitive as an economy.
+	he added that Singapore is also doing its best to stay competitive as an economy
+005610146	He stressed that his school has many measures to help its students find good jobs.
+	he stressed that's his school has many measures to help its students find jobs
+005610147	There has to be a strong local infrastructure to take kids all the way through.
+	there has to be a strong local infrastructure to take kids all the way through
+005610148	But until that happens, we might have to pay more for services.
+	but until that happens we might have to pay more for services
+005610149	And for the most part, they were right.
+	and for the most part they were right
+005610150	And could we take it to different markets?
+	and could we take it to different markets
+005610151	At the time, about three foreign workers tried moving the car but were not able to.
+	at the time about three foreign workers tried moving the car but were not able to
+005610152	But it is not that difficult to get information from the patient.
+	but it is not that difficult to get information from the patient
+005610153	Even the family members of many of our staff accept the fact that they are in this line of work.
+	even the family members of many of our staff accept the fact that they are in this line of work
+005610154	But it's going to be a little bit further down the road.
+	bus it's going to be a little further down the road
+005610155	And Singapore companies, by that time, had some experience working overseas already.
+	and Singapore companies by that time had some experience working overseas already
+005610156	But the boy in this case came back.
+	but the boy in this case came back
+005610157	I find that many of our young Singaporeans are not willing to wait.
+	I find many of our young Singaporeans are not willing to wait
+005610158	All this in turn makes it possible to figure out how to improve.
+	and this in turn makes it possible to figure out how to improve
+005610159	She no longer had the time for friends she had known for years.
+	she no longer had the time for friends she had known for years
+005610160	He said however, that both of them had been in contact with police.
+	he said however that both of them had been in contact with police
+005610161	Even if they do have water, water cannot get to where it's needed.
+	even if they do have water water cannot get to where it's needed
+005610162	And why did they decide to go that way?
+	and why did they decide to go that way
+005610163	And I don't want to start all over again, he says with a laugh.
+	and I don't want to start all over again he says with a laugh
+005610164	But how many of us actually care enough to do something beyond just talking?
+	but how many of us actually care enough to do something beyond just talking
+005610165	I even go to schools.
+	I even go to schools
+005610166	The team will use the money to grow the business.
+	the team will use the money to grow the business
+005610167	And what comes before gives way to that new life.
+	and what comes before gives way to that new life
+005610168	He did it so that he could serve customers well.
+	he did it so that he could serve customers well
+005610169	I saw her sometimes but I didn't know her well.
+	I saw her sometimes but I didn't know her well
+005610170	But of course nothing is ever what it seems like to be on the surface.
+	but of course nothing is ever what it seems like to be on the surface
+005610171	Do the things that you would usually do with him.
+	do the things that you would usually do with him
+005610172	I don't friend you already.
+	I don't friend you already
+005610173	All in all, too many animals are being put down.
+	all in all too many animals are being put down
+005610174	But others may not be.
+	but others may not be
+005610175	I think we are paying a lot of attention to China, one way or the other.
+	I think we are paying a lot of tension to China one way or the other
+005610176	Even if you rent out the whole flat, it doesn't matter.
+	even if you rent out the whole flat it doesn't matter
+005610177	And there will always be someone to support them in life.
+	and there will always be someone to support them in life
+005610178	I get to watch the show and be part of it.
+	I get to watch the show and be part of it
+005610179	But she did remember when he was trying to court her.
+	but she did remember when he was trying to court her
+005610180	And I do think that's what the region is looking for.
+	and I don't think that's what the region is looking for
+005610181	I don't have much time left, but I'll shop around first and make a decision next month.
+	I don't have much time left but I'll shop around first and make a decision next month
+005610182	This is such an amazing example.
+	this is such an amazing example
+005610183	If you can't get into the building, you won't get that job.
+	if you can't get into the building you won't get that job
+005610184	But you know what we mean!
+	but you know what we mean
+005610185	And we have come this far.
+	and we have come this far
+005610186	I don't feel that there's a difference in terms of social community if you add public housing there.
+	I don't feel that there's a difference in terms of social community if you add public housing here
+005610187	After this article, you will have.
+	after this article you will have
+005610188	But we are a small country.
+	but we are a small country
+005610189	And some of them love it.
+	and some of them love it
+005610190	But I always tell them I will try to do my best.
+	but I always tell them I will try to do my best
+005610191	But it's a matter of education.
+	but it's a matter of education
+005610192	But there have been some bad cases that have gone to court.
+	but there has been some bad cases that have gone to court
+005610193	Here are five things about him.
+	here are five things about him
+005610194	I know you will fight on.
+	I knew you will fight on
+005610195	After that it was very close.
+	after that it was very closed
+005610196	I think the system should change.
+	I think the system should change
+005610197	Even if you have a special nurse or a private room, so what?
+	even if you have a special nurse or a private room so what
+005610198	And there will be those that felt it might have been health issues.
+	and there will be those that felt it might have been health issues
+005610199	Because without that, it is going to be a difficult journey for us.
+	because without that it is going be a difficult journey for us
+005610200	I can enjoy a live view which I can't see with my own eyes, and share it with other people.
+	I can enjoy a live view which I can't see with my own eyes and share with other people
+005610201	But what they appreciate the most is when you take time to develop them.
+	but what they appreciate the most is when you take time to develop them
+005610202	Before, I would think about my career.
+	before I would think about my career
+005610203	And still living on in the car.
+	and still live on in the car
+005610204	When the country calls, you step up.
+	when the country calls you step up
+005610205	At the same time, the company has not overlooked the role that people play.
+	at the same time the company has not overlooked the role that people play
+005610206	A lot of foreigners just take up the job for a year and leave.
+	a lot of foreigners just take up the job for a year and leave
+005610207	But there's not much I can control.
+	but there's not much I can control
+005610208	You can read his full post here.
+	you can reach his full post here
+005610209	But the other way is to make sure that you invest in the future.
+	but the other way is to make sure that you invest in the future
+005610210	It is free for businesses to use.
+	it is free for businesses to use
+005610211	But he told me, I want you to help me make the brand international.
+	but he told me I want you to help me make the brand international
+005610212	He asked me what I actually did.
+	he asked me what I actually did
+005610213	After the experience, I realised that as consumers, we really have to be careful.
+	after the experience I realised that as consumers we really have to be careful
+005610214	I ask you what is this for?
+	I ask you what is this for
+005610215	At the end of the day, it's about whether the food is nice or not.
+	at end of the day it's about whether the food is nice or not
+005610216	It is not the first time that the restaurant is giving back to the community.
+	it is not the first time that restaurant is giving back to the community
+005610217	Our athletes and the team behind them have been training very hard to be ready.
+	our athletes and the team behind them have been training very hard to be ready
+005610218	But we will be part of the process.
+	but we will be part of the process
+005610219	And I think that is a big challenge.
+	and I think that it is a big challenge
+005610220	After a few months, we just gave up.
+	after a few months we just gave up
+005610221	A group of kids in Singapore might just not forget about it when they get older.
+	a group of kids in Singapore might just not forget about it when they get older
+005610222	But I do not have time to talk.
+	but I do not have time to talk
+005610223	But what about those who have passed away?
+	what about those who have passed away
+005610224	It's the party of the year and we are going to cover it like never before.
+	it's like the party of the year and we are going to cover it like never before
+005610225	But the reason for this is not clear.
+	but the reason for this is not clear
+005610226	And when they do well, I think we will see that different level of support coming in.
+	and when they do well I think we will see that different level of support coming in
+005610227	And then when the world changes, we are prepared and we are able to change with it.
+	and then when the world changes we are prepared and we are able to change it
+005610228	For both young men, it was their first job.
+	for both young men it was their first job
+005610229	If we can eat right, we can age well.
+	if we can eat right we can age well
+005610230	Because it's on the internet, it must be true.
+	because it's on the internet it must be true
+005610231	How many more of such families do you want?
+	how many more of such families do you want
+005610232	And in a way, he grew up with us.
+	and in a way he grew up with us
+005610233	People say that there's always a first for everything.
+	people say that there's always a first for everything
+005610234	So you really don't want to go into that.
+	so you are really don't want to go into that
+005610235	But there is a more serious point to this.
+	but there is a more serious point to this
+005610236	If I can't get on the train, I can afford to wait a few minutes for the next one.
+	if I can't get on the train I can afford to wait a few minutes for the next one
+005610237	A lot of customers expected the price to go up, that's why they came in to buy this time.
+	a lot of customers expected the price to go up that's why they came in to buy this time
+005610238	But once a few of them started getting leads because of their good service, they have come on board.
+	but once a few of them started getting leads because of their good service they have come on board
+005610239	And, in winter, it can be very cold at night.
+	and in winter it can be very cold at night
+005610240	And you know, I had never talked to her before.
+	and you know I had never talked to her before
+005610241	But there was always the sense that he never took to public life well, being the private man he is.
+	but there as was always the sense that he never took to public life well being the private man he is
+005610242	And I think I have made something of myself now.
+	and I think I have made something of myself now
+005610243	In that way, their parents wouldn't find out as well.
+	in that way their parents wouldn't find out as well
+005610244	I feel great, and happy that I've done something good.
+	I feel great and happy that I have done something good
+005610245	And I don't know what else to do, our prices are already so low, we can't lower them any further.
+	and I don't know what else to do our prices are already so low we can't lower them any further
+005610246	It was not clear when a trial might be held.
+	it was not clear when a trial might be held
+005610247	And I think we need that more and more going forward.
+	and I think we need that more and more going forward
+005610248	It also means that we will have to think long term.
+	it also means that we will have to think long term
+005610249	In time to come, Singaporeans will forget that this event occur.
+	in time to come Singaporeans for forget that this event occurred
+005610250	At the end of the day, it is a security issue.
+	at end of the day it is a securities issue
+005610251	It has been made possible by all the countries from our region.
+	it has been made possible by all countries from our region
+005610252	Because, you are not going to be younger than you are today.
+	because you are not going to be younger than you are today
+005610253	You don't have a choice for the air you want to breathe.
+	you don't have a choice for the air you want to breathe
+005610254	But he still hopes to stay in Singapore to make more money.
+	but he still hopes to stay in Singapore to make more money
+005610255	Because as Singaporeans, you have seen them all one way or another.
+	because as Singaporeans you have seen them all one way or another
+005610256	If the going gets tough, will the school be able to help?
+	if the going gets tough will the school be able to help
+005610257	But before he could get back to the car, police arrested him.
+	but before he could get back to the car police arrested him
+005610258	Here are four things you need to know about the new law.
+	here are four things you need to know about the new law
+005610259	But I also don't want to say too much on the incident.
+	but I also don't want to say too much on the incident
+005610260	And today, he is proud of his daughter and what she has achieved.
+	and today he is proud of his daughter and what she has achieved
+005610261	And you are the future leaders in technology, business, government and other fields.
+	and you are the future leaders in technology business government and other fields
+005610262	I don’t think they will be able to fool any Singaporeans with this.
+	I don't think they will be able to fool any Singaporeans with this
+005610263	In the early days, the police force was not respected by the people.
+	in the earlier days the police force was not respected by the people
+005610264	He added that the ministry will continue to give their support to the family.
+	he added that the ministry will continue to give their support to the family
+005610265	But this is something I can do and that cancer patients can benefit from.
+	but this is something I can do and that cancer patients can benefit from
+005610266	But it was not new at all and had been used generally for years.
+	but it was not new at all and had been used generally for years
+005610267	And at first it was just my top but after that he started moving down.
+	and at first it was just my top but after that he started moving down
+005610268	And it was on this platform which I first wrote something on the man himself.
+	and it was on this platform which I first wrote something on the man himself
+005610269	As parents, we have to let them grow up and let them do their best.
+	as parents we have to let them grow up and let them do their best
+005610270	I don't know how long that's going to be to be quite honest with you.
+	I don't know how long that's going to be to be quite honest with you
+005610271	But I was sure he saw that I was just as green as they come.
+	but I was sure he saw that I was just as green as they come
+005610272	And the police said that I wasn't the first to call and report about her.
+	and the police said that I wasn't the first to call and report about her
+005610273	This means the baby cannot go on to marry her or her children later in life.
+	this means the baby cannot go on to marry her or her children later in life
+005610274	We want to see as many people access as much of the internet as they can.
+	we want to see as many people access as much of interest as they can
+005610275	Because of social media, people really want to have a good experience and tell others about it.
+	because of social media people really want to have a good experience and tell others about it
+005610276	I just started working not long ago, and I want to learn more and develop my skills.
+	I just started working not long ago and I want to learn more and develop my skills
+005610277	And you have to know your present before you can know what comes up in the future.
+	and you have to know your present before you can know what comes up in the future
+005610278	For companies that take up the call, the Government will pay for the extra week of leave.
+	for companies that take up the call the Government will pay the extra week of leave
+005610279	However, we will be there for one another, and I know we can do it as a school.
+	however we will be there for one another and I know we can do it as a school
+005610280	I hope, with them on our team, we can work together to get better results for our community.
+	I hope with them on our team we can work together to get better results for our community
+005610281	All our family and friends in Singapore will be very excited to see them again after so long.
+	all our families and friends in Singapore will be very excited to see them again after so long
+005610282	We believe there are more but I have no idea how many more there are going to be.
+	we believe there are more but have no idea how many more there are going to be
+005610283	How long do you think we'll take to get there, and what in your view is the best way?
+	how long do you think we'll take to get there and what in your view is the best way
+005610284	Even on the most difficult issue, we need to make the best decision and be accountable to the people.
+	even on the most difficult issue we need to make the best decision and be accountable to the people
+005610285	But it is ultimately up to you to decide if you would like to take that very first step.
+	but it is ultimately up to you to decide if you would like to take that very first step
+005610286	I still see some of them around here sometimes, and they are surprised to see me all grown up.
+	I still see some of them around here sometimes and they are surprised to see me all grown up
+005610287	But he was easy to work with, once I knew what he wanted.
+	but he was easy to work with once I knew what he wanted
+005610288	I would like to do something else.
+	I would like to do something else
+005610289	In the past, we saw a few, or one or two workers, come to us.
+	in the past we saw a few or one or two workers come to us
+005610290	How many times was it said?
+	how many times was it said
+005610291	It's been a long day at work.
+	it's been a long day at work
+005610293	All my friends are back from college and we got together.
+	all my friends are back from's college and we got together
+005610294	I could breathe much more easily.
+	I could breathe much more easily
+005610295	But he said this is still low.
+	but he said this is still low
+005610296	And it's not because of the weather.
+	and it's not because of the weather
+005610297	But I told him, you need to face them.
+	but I told him you need to face them
+005610298	It gives me less to think about.
+	it gives me less to think about
+005610299	But this can be done only after the air show.
+	but this can be done only after the air show
+005610300	Because for me, this is a much better fight.
+	because for me this is a much better fight
+005610301	He also made a police report.
+	he also made a police report
+005610302	I think that we are in a strong position.
+	I think that we are in a strong position
+005610303	But again at the end of the day it's their money.
+	but again at the end of the day it's their money
+005610304	I wanted Mr Lee to see for himself how we are able to come together after all his hard work.
+	I wanted Mister Lee to see for himself how we are able to come together after all his hard work
+005610305	I know he would have wanted to be here.
+	I know he would have wanted to be here
+005610306	After a time, what does the student think?
+	after a time what does the student think
+005610307	But you still have to work hard for it.
+	but you still have to work hard for it
+005610308	But the deal has taken some time to go through.
+	but the deal has taken some time to go through
+005610309	Because if not, then what are you?
+	because if not then what are you
+005610310	Mr also said his mother is in good health.
+	Mister Also said his mother is in good health
+005610311	Even if something happens, I know that they will take care of me.
+	even if something happens I know that they will take care of me
+005610312	They will be back in court today.
+	they will be back in court today
+005610313	If we don't do it now, we might not be able do it at all in the future.
+	if we don't do it now we might not be able do it at all in the future
+005610314	How long can you do it for free?
+	how long can you do it for free
+005610315	I did not know how much like me he was until I watched him on television one day.
+	I did not know how much he was like me until I watched him on television one day
+005610316	For them, it doesn't matter.
+	for them it doesn't matter
+005610317	But her condition made it difficult to hold down a job for long.
+	but her condition made it difficult to hold down a job for long
+005610318	And you don't see it.
+	and you don't see it
+005610319	I felt like I won't make it and I felt very down at the time.
+	I felt like I won't make it and I felt very down at time
+005610320	I don't think should be the only way.
+	I don't think should be the only way
+005610321	And see how we can be ahead of them.
+	and see how we can be ahead of them
+005610322	But it is not my problem, it is their problem.
+	but it is not my problem it is their problem
+005610323	I'm here to serve the people and the people will have to decide.
+	I'm here to serve the people and people will have to decide
+005610324	I really love this place, the people and the way of life.
+	I really love this place the people and the way of life
+005610326	It has to work out.
+	it has to work out
+005610327	And it is how some things just need to be.
+	and it is how some things just need to be
+005610328	Do you know what is your issue here?
+	do you know what is your issue here
+005610329	By then, he realised that he needed to do more if he wanted the business to grow.
+	by then he realised that he needed to do more if he wanted the business to grow
+005610330	But at the same time we also understand what they actually need.
+	but at the same time we also understand what they actually need
+005610331	But it's all we have and we make the best of it.
+	but it's all we have and we make the best of it
+005610332	But she left after a year.
+	but she left after a year
+005610333	All my children are not working.
+	all my children are not working
+005610334	But they have since got to know each other, and now it is like a party.
+	but they have since got to know each other and now it is like a party
+005610335	But we are not perfect.
+	but we are not perfect
+005610336	But it does not cure.
+	but it does not cure
+005610337	How can the staff do that?
+	how can the staff do that
+005610338	I would still not like to take that chance for now.
+	I was still not like to have take that chance for now
+005610339	I am very happy to be here.
+	I am might very happy to be here
+005610340	Do you want some good news?
+	do you want share some good news
+005610341	But I think there's only so much that we can do.
+	but I think there's only so much that we can do
+005610342	And he said that if there was anything we wanted to know, we had to ask him.
+	and he said that if there's was anything we wanted to know we had to ask him
+005610343	I pay more and I can do less.
+	I pay more and I can do less
+005610344	I still model once in a while, so for me it is something I like to do.
+	I still model once in a while so for me it is something I like to do
+005610345	I don't think we want to be there.
+	I don't think we want to be here
+005610346	I had never done it before.
+	I had never done it before
+005610347	I just feel happy to be able to help others.
+	I just feel happy to be able to help others
+005610348	How did we make all this happen?
+	how did we make all this happen
+005610349	We are just going to do our best and see what happens.
+	we are just going to do our best and see what happens
+005610350	But I will, of course, see him.
+	but I will of course see him
+005610351	If I can do it, why not?
+	if I can do it why not
+005610352	I don't think you can have one and not the other.
+	I don't think you can have one and not the other
+005610353	For many years it didn't matter.
+	for many years it didn't matter
+005610354	How is it done exactly?
+	how is it done exactly
+005610355	But they could be wrong.
+	but they could be wrong
+005610356	But I don't always have the time.
+	but I don't always have the time
+005610357	But they don't want to.
+	but they don't want to
+005610358	I have been working very hard to break into the world stage.
+	I have been working very hard to break into the world stage
+005610359	Singapore was his first stop.
+	Singapore was his first stop
+005610360	And it happens all the time.
+	and it happens all the time
+005610361	After that, I was on my own.
+	after that I was on my own
+005610362	It has always reached for the easy way out.
+	it has always reached for the easy way out
+005610363	And things will never be the same.
+	and things will never be the same
+005610364	But at that time did it work for you?
+	but at that time did it work for you
+005610365	I want to give the children a good life.
+	I want to give the children a good life
+005610366	I want to make a change in society.
+	I want to make a change in society
+005610367	It is here for the first time.
+	it is here for the first time
+005610368	If you don't know how people work, how will you work with them?
+	if you don't know how people work how will you work with them
+005610369	I thought, if my mother can do it, I can do it too.
+	I thought if my mother can do it I can do it too
+005610370	That is why she makes it a point not to give out information about herself easily.
+	that is why she makes it a point not to give out information about herself easily
+005610371	But that is not what she said.
+	but that is not what she said
+005610372	And how do we do it?
+	and how do we do it
+005610373	The Singapore Government has much to do next year.
+	the Singapore Government has much to do next year
+005610374	But that's not saying much, of course.
+	but that's not saying much of course
+005610375	And that's why this deal is so perfect for them.
+	and that's why this deal is so perfect for them
+005610376	I thought I would never get to see my son any more.
+	I thought I would never get to see my son any more
+005610377	But he is is not done yet.
+	but he is is not done yet
+005610378	And the question is, is their best really their best?
+	and the question is is their ** best really their best
+005610379	But we can't say the same for the future.
+	but we can't say the same for the future
+005610380	He must have done something.
+	he must have done something
+005610381	But it doesn't work like that.
+	but it doesn't work like that
+005610382	Because if you don't have that then it's even hard to talk about other things.
+	because if you don't have that then it's even hard to talk about other things
+005610383	I said we have to do it.
+	I said we have to do it
+005610384	And then I think fell asleep.
+	and then I think fell asleep
+005610385	If not, what will they do?
+	if not what will they do
+005610386	It was always about coming up with something better than what we did last and it wasn't easy.
+	it was always about coming up with something better that we did last and it wasn't easy
+005610387	I am happy I have no problems.
+	I am happy I have no problems
+005610388	I didn't think about getting another job.
+	I didn't think about getting another job
+005610389	But that is still one too many.
+	but that is still one too many
+005610390	Can we put in place another kind of social support?
+	can we put in place another kind of social support
+005610391	And we all know what happened.
+	and we all know what happened
+005610392	And when I make a decision, I don't think about what could have been.
+	and when I make a decision I don't think about what could have been
+005610393	He did not leave her anything in his will.
+	he did not leave her anything in his will
+005610394	But it is not just about the food.
+	but it is not just about the food
+005610395	We have done all that we can do.
+	we have done all that we can
+005610396	If she can do it, so can you.
+	if she can do it so can you
+005610397	But where was it put together?
+	but where was it put put together
+005610398	But this did not help.
+	but this did not help
+005610399	Because, for so long there were problems, and they were not doing anything to change.
+	because for so long there were problems and they were not doing anything to change
+005610400	I didn't know what I could do.
+	I didn't know what I could do

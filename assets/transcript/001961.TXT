@@ -1,0 +1,762 @@
+﻿001961403	A comma can change the meaning of a sentence entirely
+	A comma can change the meaning of A sentence entirely
+001961404	Before the internet we wrote letters to our pen pals and read magazines
+	before the Internet we wrote letters to our pen pals and read magazines
+001961405	It is easy to book flights and hotels on the computer
+	IT is easy to book flights and hotels on the computer
+001961406	Heavy rains caused a flood in the village
+	heavy rains caused A flood in the village
+001961407	I get free snacks whenever I go to the supermarket
+	I get free snacks whenever I go to the supermarket
+001961408	It is not safe to freeze something again after it has thawed
+	<SPK/> IT is not safe to freeze something again after IT has thawed
+001961409	We visited the Persian Gulf
+	we visited the Persian gulf
+001961410	The crowd guffawed at the comedian’s jokes
+	the crowd guffawed at the comedian's jokes
+001961411	The villagers pray for plentiful harvest at the start of every year
+	the villagers pray for plentiful harvest at the start of every year
+001961412	The nurse folded a paper jib for the little boy’s yacht model
+	<SPK/> the nurse folded A paper jib for the little boy's yacht model
+001961413	I bathe every morning
+	I bathe every morning
+001961414	The student was very confused until he realised he entered the wrong classroom
+	the student was very confused until he realised he entered the wrong classroom
+001961415	The van travelled slowly on the expressway
+	<SPK/> the van travelled slowly on the expressway
+001961416	His grief had become his driving force in his career
+	he grief has become his driving force in his career
+001961417	We must find a way to circumvent all these new obstacles and secure our votes
+	we must find A way to circumvent all these new obstacles and ** secure our votes
+001961418	The little boy shared his tomato with his brother
+	the little boy shared his tomato with his brother
+001961419	The grass had grown all the way to his knees
+	the grass has grown all the way to his knees
+001961420	Doves are a symbol of peace
+	doves are A symbol of peace
+001961421	The weather made me sneeze
+	<STA/> the weather made me sneeze
+001961422	The goalkeeper dived to stop the ball
+	the goalkeeper dived to stop the ball
+001961423	This ladder leads to another path
+	this ladder leads to another path
+001961424	The earth’s core is made of iron and nickel
+	the Earth's core is made of iron and nickel
+001961425	The guards can’t laugh when they are on duty
+	the guards can't laugh when they are on duty
+001961426	Police were able to foil the bomber’s plans
+	Police were able to foil the bomber's plans
+001961427	I am craving for a chocolate sponge cake topped with mint mousse
+	I am craving for A Chocolate Sponge Cake Topped with Mint Mousse
+001961428	That man is an aircraft engineer
+	that man is an aircraft engineer
+001961429	He is a lightweight in alcohol
+	he is and A lightweight in alcohol
+001961430	The veteran fought to protect his country during the war
+	the veteran fought to protect his country during the war
+001961431	The thunder jolt me awake
+	the thunder jolt me awake
+001961432	A pinch of salt is enough to make a veal stew tasty
+	A pinch of salt is enough to make A Veal Stew **
+001961433	The workers braved through sun and rain every day just to build the tunnel
+	the workers braved through sun and rain every day just to build the tunnel
+001961434	The detective tracked down the cat killer quickly
+	the detective tracked down the cat killer quickly
+001961435	The young girl washed her shoes on her own
+	the young girl washed her shoes on her own
+001961436	Thrash disposal is an environmental issue
+	thrash disposal is an environmental issue
+001961437	Switzerland’s flag is a big plus
+	Switzerland's flag is A big plus
+001961438	We all knew that it was the calm before the storm
+	we all knew that IT was the calm before the storm
+001961439	The bench by the bank of the river is a hot viewing spot for tourists
+	the bench by the bank of the river is A hot viewing spot for tourists
+001961440	He gulped down his beer
+	he gulped down his beer
+001961441	All good citizens should learn how to change a light bulb
+	<SPK/> all good citizens should learn how to change A light bulb
+001961442	Song sheets for xylophones are on the shelf to your right
+	<SPK/> song sheets for xylophones are on the shelf to your right
+001961443	Cinderella’s dress transformed exactly at twelve o’ clock
+	Cinderella's dress transformed exactly at twelve o'clock
+001961444	She won a car because she was the twelfth person to call the radio station
+	she won A car because she was the twelfth person ** to call the radio station
+001961445	The man hit the burglar with a golf club
+	<SPK/> the man hit the burglar with A golf club
+001961446	The desolated house was covered in filth and torn letters
+	the desolated house was covered in filth and torn letters
+001961447	Finish this by tomorrow or else you’ll be fired
+	finish this by tomorrow ** or else you'll be fired
+001961448	There were barrels of wine in the huge cellar
+	there were barrels of wine in the huge cellar
+001961449	There are not many kilns left in Singapore
+	there are not many kilns left in Singapore
+001961450	The child divulged all his secrets to his best friend
+	the child divulged all his secrets to his best friend
+001961451	The shop keeps its costs low by buying its supplies in bulk
+	the shop keeps its <NON/> cold low by buying its supplies in bulk
+001961452	The dwarf crafted a sharp sword and a tough shield for the knight
+	the dwarf crafted A sharp sword and A tough shield for the knight
+001961453	These social reforms affect the economic sphere as well
+	<SPK/> these social reforms affect the economic sphere as well
+001961454	Pink was a colour of health
+	<SPK/> pink was A colour of health
+001961455	The British calls fries chips and chips crisps
+	the British calls Fries Chips and Chips Crisps
+001961456	The farmer filled a trough full of hay for his horses
+	the farmer filled A trough full of hay for his horses
+001961457	For a sunny place like Singapore not many people wear a hat
+	for A sunny place like Singapore not many people wear A hat
+001961458	We made verbal vows to each other in the past but it was a futile attempt
+	<SPK/> we made verbal vows to each other in the past but IT was A futile attempt
+001961460	My winter jacket came with a detachable hood
+	<SPK/> my winter jacket came with A detachable hood
+001961461	The jump scare in the film made me cough out my juice
+	<SPK/> the jump scare in the film made me cough out my juice
+001961462	Can I have some glue for my envelopes
+	can I have some glue for my envelopes
+001961463	There is a clog in the toilet pipe and the air vents at the zoo
+	there is A clog in the Toilet Pipe and the air Vents at the Zoo
+001961464	The party had a cool vibe but was for guests only
+	the party had A cool vibes but was for guests only
+001961465	This husky has a beautiful coat of fur
+	this husky has A beautiful coat of fur
+001961466	A range of sandpaper is used to make the surface smooth
+	A range of sandpaper is used to make the surface smooth
+001961467	Melissa passed her number to the young man
+	<SPK/> Melissa passed her number to the young man
+001961468	The research was designed according to the hypothesis
+	<SPK/> the research was designed according to the hypothesis
+001961469	Our athletes have been training hard for the next Olympics
+	our athletes have been training hard for the next Olympics
+001961470	The main actor of the movie has arrived at the premiere
+	<SPK/> the main actor of the movie has arrived at the premiere
+001961471	There are twelve animals in the Chinese zodiac
+	<SPK/> there are twelve animals in the Chinese Zodiac
+001961472	The budding singer easily held her breath for five minutes
+	the budding singer easily held her breath for five minutes
+001961473	His moustache curl is perfect
+	his moustache curl is perfect
+001961474	Please pass your exam once and for all
+	please pass your exam once and for all
+001961475	When you are feeling stressed out don’t forget to breathe into the void
+	when you are feeling stressed out don't forget to breathe into the void
+001961476	I heard you loud and clear when you said it the first time
+	I heard you loud and clear when you said IT the first time
+001961477	The restaurant gave so many choices that it was hard to choose
+	<SPK/> the restaurant gave so ** so many choices that IT was hard to choose
+001961478	A diamond is not a woman’s best friend
+	A diamond is not A woman's best friend
+001961479	I had a casual chat with a reporter at the bar last night
+	<SPK/> I had A casual chat with A reporter at the bar last night
+001961480	The pastry chef measured the ingredients for a zesty lemon dessert carefully
+	the pastry chef measured the ingredients for A Zesty Lemon Dessert carefully
+001961481	The new movie about food promises a visual feast
+	the new movie about food promises A visual feast
+001961482	People tend to overeat while watching the television
+	<SPK/> people tend to overeat while watching the television
+001961483	The company charted their profits in a graph
+	the company charted their profits in A graph
+001961484	My calves are sore from all the sprints
+	<SPK/> my calves are sore from all the sprints
+001961485	Women hope for skin that is soft to the touch
+	woman hope for skin that is soft to the touch
+001961486	The student beefed about his team mates
+	the student beefed about his team mates
+001961487	There are pumps for your tyres at the resting zone before you cycle
+	there are pumps for your tyres at the resting zone before you cycle
+001961488	He writhed in pain and gasped for air
+	he writhed in pain and gasped for air
+001961489	Nothing beats a bowl of chicken noodles with zingy red sauce on a cold day
+	nothing beats A bowl of Chicken Noodles with Zingy Red Sauce on A cold day
+001961490	The teenagers paddled hard on their boat
+	the teenagers paddled hard on their boat
+001961491	The rooster crows at the break of dawn
+	<SPK/> the rooster crows at the break of dawn
+001961494	The baby is eager to hold his own spoon
+	the baby is eager to hold his own spoon
+001961495	The charity run was held on a Tuesday
+	the charity run was held on A Tuesday
+001961496	The little girl played with her rabbit and geese in the yard
+	the little girl played with her rabbit and geese in the yard
+001961499	Just because I tolerated he thought I was a fool
+	just because I tolerated he thought I was A fool
+001961501	Add water hops and yeast and out comes the unmistakable golden beverage popular the world over
+	add water hops and yeast and out comes the unmistakable golden beverage popular the world over
+001961502	All three drivers and their passengers got out from the car before the third car burst into flames
+	all three drivers and their passengers go out from the car before the third car burst into flames
+001961503	A few pupils who survived are also planning to return next year
+	<SPK/> A few pupils who survived are also planning to return next year
+001961504	He's still seemingly impervious to pain but his face says otherwise
+	<SPK/> he's still seemingly impervious to pain but his face says otherwise
+001961505	Currently the team is trying to secure the whale carcass
+	currently the team is trying to secure the whale carcass
+001961506	And so began a great reshuffling
+	and so began A great reshuffling
+001961507	Then there is the issue of fishing
+	then there is the issue of fishing
+001961508	It is part of someone's house but is available for public use
+	IT is part of someone's house but is available for public use
+001961509	But what would be the first in line for an increase should there be a need to raise tax revenue
+	but what would be the first in line for an increase should there be A need to raise tax revenue
+001961510	And even when the allowance was credited it was not in a timely fashion
+	<SPK/> and even when the allowance was credited IT was not in A timely fashion
+001961511	We were told that adult patients in needy families get by with one diaper a day
+	<SPK/> we were told that adult patients in needy families get by with one diaper A day
+001961512	As parents we have the power to make choices for and with our children
+	<SPK/> as parents we have the power to make choices for and with our children
+001961513	Because of Team Singapore's superb performances everyone would have watched the show even with a poor host
+	because of team Singapore's superb performances everyone would have watched the show even with A poor host
+001961514	He aired his views and suggestions on numerous occasions
+	he aired his views and suggestions on numerous occasions
+001961515	Doctors should be aware of the harm that sleep disorders can cause
+	<SPK/> doctors should be aware of the harm that sleep disorders can cause
+001961516	But not all the residents there are against the use of unusual colours
+	<SPK/> but not all the residents there are against the use of unusual colours
+001961517	At every step we must ask ourselves if the areas of cooperation are still relevant to the parties involved
+	at every step we must ask ourselves if the areas of cooperation are still relevant to the parties involved
+001961518	But the lessons that have stayed with him have emboldened him to take unpopular decisions today
+	but the lessons that have stayed with him have emboldened him to take unpopular decisions today
+001961519	My mind went blank when they announced my name Tan told reporters backstage
+	my mind went blank when they announced my name Tan told reporters backstage
+001961520	On average this process takes at least one year
+	<SPK/> on average this processes takes at least one year
+001961521	Addressing the court I would like to apologise to the deceased's family
+	addressing The Court I would like to apologise to the deceased's family
+001961522	But it won't be good if it goes beyond what people can afford
+	but IT won't be good if IT goes beyond what people can afford
+001961523	For dishonestly misappropriating goods they could be jailed up to two years fined or both
+	for dishonestly misappropriating goods they could be jailed up to two years fined or both
+001961524	She specialises in complex commercial cases arbitration company and trust law
+	she specialises in complex commercial cases arbitration company and trust law
+001961525	Detroit and Germany are spending billions of dollars on this
+	<SPK/> Detroit and Germany are spending billions of dollars on this
+001961526	The efforts appear to have paid off
+	<SPK/> the efforts appear to have paid off
+001961527	According to some students the snake was eventually taken away in a sack
+	according to some students the snake was eventually taken away in A sack
+001961528	He also shared anecdotes that reflected Mr Lee's personal side as a dedicated husband
+	he also shared ** that reflects Mister Lee's personal side as A dedicated husband
+001961529	Pupils everywhere are losing their minds and parents are feeling the heat
+	pupils everywhere are losing their minds and parents are feeling the heat
+001961530	Anyone can pay it forward no matter who you are
+	<SPK/> anyone can pay IT forward no matter who you are
+001961531	Even though he lay on the rough asphalt road in defeat he still felt kicks and punches
+	even though he lay on the rough asphalt road in defeat he still felt kicks and punches
+001961532	It currently produces whole birds and prepared products like chicken nuggets frankfurters and patties
+	IT currently produces whole birds and prepared products like chicken nuggets <SPK/> frankfurters and patties
+001961533	No other vehicle was involved in the accident
+	no other vehicle was involved in the accident
+001961534	The Pound sterling ended flat in the local platform and bond yields fell
+	the pound sterling ended flat in the local platform and Bond yields fell
+001961535	How can we submit minutes of the meeting of bodies which are not there
+	how can we submit minutes of the meetings of bodies which are not there
+001961536	They are also picky specialised eaters
+	they are also picky specialised eaters
+001961537	By making it compulsory for only girls this supported the traditional view that homemaking was a responsibility for women
+	by making IT compulsory for only girls this supported the traditional view that homemakers was A responsibility for women
+001961538	The business cycles are also becoming more frequent and intense
+	the business cycles are also becoming more frequent and intense
+001961539	Should Malaysia reduce or do away with the toll charges Singapore will follow suit
+	<SPK/> should Malaysia reduce or do away with the toll charges Singapore will follow suit
+001961540	The noise level from the group got louder and louder
+	the noise level from the group got louder and louder
+001961542	By this time the police has been called in
+	by this time the Police has been called in
+001961543	It is the second leading cause of cancer death worldwide
+	IT is the second leading cause of cancer death worldwide
+001961544	Consumers and developers will gain and the whole ecosystem will gain
+	<SPK/> consumers and developers will gain and the whole ecosystem will gain
+001961545	How will the Smart Nation vision become a reality
+	how will the Smart Nation vision become A reality
+001961546	He also added that all the money was his uncle's
+	he also added that all the money was his uncle's
+001961547	Tickets will revert to full price next week so act fast
+	tickets will revert to full price next week so act fast
+001961548	City Direct services offer commuters an alternative to the train during the peak hours
+	City Direct services offer commuters an alternative to the train during the peak hours
+001961549	As soon as they could feel his pulse I was relieved
+	as soon as they could feel his pulse I was relieved
+001961550	Are we going to talk about the movie or what
+	are we going to talk about the movie or what
+001961551	Doing so will make the people around us happy as well
+	doing so will make the people around us happy as well
+001961552	I have put the case behind me and am trying to move on with my life
+	<SPK/> I have put the case behind me and am trying to move on with my life
+001961553	Ours is in Chinatown tucked between all the touristy shops and restaurants
+	ours is in Chinatown tucked between all the touristy shops and restaurants
+001961554	An increase of two percentage points for someone of that income level isn't that consequential
+	an increase of two percentage points for someone of that income level isn't that consequential
+001961555	It's going to be arduous and draining physically but it's really a mental game as well
+	it's going to be arduous and draining physically but it's really A mental game as well
+001961556	This is something you'll neither see nor taste any day
+	<SPK/> this is something you'll neither see nor taste any day
+001961557	Both are known for their creative landscape work through traditional and natural materials
+	both are known for their creative landscape work through traditional and natural materials
+001961558	Our team is looking into the matter now
+	our team is looking into the matter now
+001961559	He added that some employers also lay off people near to festive seasons which can be insensitive
+	he added that some employers also lay off people near to festive seasons which can be insensitive
+001961560	It is unclear however if she was using the pedestrian crossing
+	IT is unclear however if she was using the pedestrian crossing
+001961561	I asked why they chose me but they were unable to explain it properly
+	I asked why they chose me but they were unable to explain IT properly
+001961562	Two benches made from the wooden seating planks from the former National Stadium will be added next year
+	two benches made from the wooden seating planks from the former national stadium will be added next year
+001961563	One thing Singaporeans can agree on is that hawker food is affordable
+	one thing Singaporeans can agree on is that hawker food is affordable
+001961564	And I understand the feeling many have of being overwhelmed by the sheer numbers of outsiders
+	and I understand the feeling many have of being overwhelmed by the sheer numbers of outsiders
+001961566	How many states of matter are there
+	how many states of matter are there
+001961567	Meanwhile a new customer contact centre staffed by experienced caseworkers will be set up to help people navigate the system
+	meanwhile A new customer contact centre staffed by experienced caseworkers will be set up to help people navigate the system
+001961568	Global knowledge skills are associated with knowledge workers in professional managerial or leadership roles that require creativity and problem solving
+	global knowledge skills are associated with knowledge workers in professional managerial or leadership roles that require creativity and problem solving
+001961569	Almost on instinct Mr Tan volunteered
+	almost on instinct Mister Tan volunteered
+001961570	Despite Mr Trump's record as an unpredictable negotiating partner members of both parties expressed optimism
+	despite Mister Trump's record as an unpredictable negotiating partner members of both parties expressed optimism
+001961571	But their busy travel schedule prevented the athletes from complying
+	but their busy travel schedule prevented the athletes from complying
+001961572	This way the standard of our National Team will definitely improve
+	this way the standard of our National Team will definitely improve
+001961573	Civil servants should come down to the ground more often and understand the problems that we're discussing
+	civil servants should come down to the ground more often ** and understand the problems that we're discussing
+001961574	Eleven unauthorised transfers from Faith's account were made to various accounts around the world
+	Eleven unauthorised transfers from Faith's account were made to various accounts around the world
+001961575	May also spur the creation of new opportunities in green growth industries such as clean energy
+	may also spur the creation of new opportunities in green growth industries such as cleaner energy
+001961576	And it's turned out that way for most cases
+	and it's turned out the way for most cases
+001961578	Just check out the number of lamp posts they had to disassemble
+	just check out the number of lamp posts they had to **
+001961579	I think that the advancement of technology should not come at the expense of human capital
+	I think that the advancement of technology should not come at the expense of human capital
+001961580	But the Government has slowly been loosening the reins
+	but the government has slowly been loosening the ** reins
+001961581	Of course when possible many prefer to include an escape in the real world which explains the other aforementioned distresses
+	of course when possible many prefer to include an escape in the real world which explains the other aforementioned distresses
+001961582	Because that will help you respect the creative industry
+	<SPK/> because that will help you respect the creative industry
+001961583	Here's some encouraging news for history and heritage buffs
+	here's some encouraging news for history and heritage buffs
+001961584	Their gatecrash is certainly anything but
+	their gatecrash is certainly anything but
+001961585	Given that there is really no reason for Halal meat to be reserved for Muslims only
+	given that there is really no reason for Halal meat to be reserved for Muslims only
+001961586	And that was because he had created the hoax announcement to show that online hoaxes can spread far and wide
+	and that was because he has created the hoax announcement to show that online hoaxes can spread far and wide
+001961587	So the tripartite involvement and commitment will be key
+	so the tripartite involvement and commitment will be key
+001961588	Let's find out who's paying for these ads
+	let's find out who's paying for these ads
+001961589	A large proportion of the land for defence use is wooded
+	A large proportion of the land for defence use is wooded
+001961590	Each number can be used as many times as you wish
+	each number can be used as many times as you wish
+001961591	It really is we call it the era of machines Ms Rivera said in an interview
+	IT really is we call IT the era of machines miss Rivera said in an interview
+001961592	But again we've speculated wrongly before
+	<SPK/> but again we've speculated wrongly before
+001961593	If the laptop is lifted or moved an alarm will be triggered and the portable device buzzed
+	<SPK/> if the laptop is lifted or moved an alarm will be triggered and the portable device buzzed
+001961594	In Singapore it is difficult to imagine the circumstances under which the powers in this Bill would be required
+	in Singapore IT is difficult to imagine the circumstances under which the powers in this bill would be required
+001961595	Confiscated bank profits from dubious deals are a different story
+	confiscated bank profits from dubious deals are A different story
+001961596	Animals have natural coats and should be appreciated for what they are rather than trying to alter them artificially
+	animals have natural coats and should be appreciated for what they are rather than trying to alter them artificially
+001961597	He also worries that the loss of outdoor seating for which the coffee shop is known will hurt his business
+	he also worries that the loss of outdoor seating for which the coffee shop is known will hurt his businesses
+001961598	But the biggest jolt that took me to the past was going to the toilets
+	but the ** jolt that took me to the past was going to the toilets
+001961599	And together my brother and I have donated one and a half times the value of the house to charity
+	and together my brother and I has donated one and A half times the value of the house to charity
+001961600	Some were inspiring others were controversial and strangely prophetic
+	some were inspiring others were controversial and strangely prophetic
+001961601	I am glad that her work is being appreciated
+	I am glad that his work is being appreciated
+001961602	Now as both the supplier and retailer Lim can keep the prices low without the middleman
+	<SPK/> now as both the supplier and retailer Lim can keep the prices low without the middleman
+001961603	Of course this also means that occasionally you'll get that disgusting gob on your hair shoes pants etc
+	of course this also means that occasionally you'll get that disgusting job on your hair shoes pants ET cetera
+001961604	Government also has powers to gazette or acquire such properties
+	government also has powers to gazette or acquire such properties
+001961606	There are signs on their harness that say so too
+	there are signs on their harness that say so too
+001961607	A supplier added such a move was logical due to weak demand
+	A supplier added such A move was logical due to weak demand
+001961608	The Japanese yen edged higher in the local platform against the dollar
+	the Japanese Yen edged higher in the local platform against the dollar
+001961609	It is important that the existing workforce is given opportunities to upgrade themselves
+	IT is important that the existing workforce is given opportunities to upgrade themselves
+001961610	Admission to the exhibition is free while certain workshops require a ticket
+	admission to the exhibition is free while certain workshops require A ticket
+001961611	Both bankers declined to be identified as they are not allowed to speak to the media
+	both bankers declined to be identified as they are not allowed to speak to the media
+001961612	But the situation has changed he pointed out
+	but the situation has changed he pointed out
+001961613	Volunteerism activities allow Team Members to interact directly with the beneficiaries and charity organisations
+	volunteerism activities allow Team Members to interact directly with the beneficiaries and charity organisations
+001961615	This is a continuation of what we had been planning for
+	this is A continuation of what we had been planning for
+001961616	Check out these star audience performers
+	check out these star audience performers
+001961617	This was false as they had all continued their practice even before new certificates were issued to them
+	this was false as they had all continued their practice even before new certificates were issued to them
+001961618	Because a leap of faith is needed and Singapore is too pragmatic for that
+	<SPK/> because A leap of faith is needed and Singapore is too pragmatic for that
+001961619	A dengue vaccine provides one of the most effective ways to do this
+	<SPK/> A dengue vaccine provides one of the most effective ways to do this
+001961620	Amid this backdrop social media is set to play a larger role in the election this time around
+	amid this backdrop social media is set to play A larger role in the election this time around
+001961621	A man she did not know sent her a friend request on her Facebook account in May last year
+	<SPK/> A man she did not know sent her A friend request on her Facebook account in may last year
+001961622	Before consuming medication diabetics should check with their doctors about any potential side effects of the pills
+	before consuming medication diabetics should check with their doctors about any potential side effects of the pills
+001961623	A Bangladeshi cleaner was crushed to death on Monday while operating waste compacting machinery
+	A Bangladeshi cleaner was crushed to death on Monday while operating waste compacting machinery
+001961624	A first meeting could be held as soon as the latter part of next week
+	<SPK/> A first meeting could be held as soon as the latter part of next week
+001961625	First of all you've got to be respectably seventy years old or more
+	<SPK/> first of all you've got to be respectable seventy years old or more
+001961626	And she felt very embarrassed and upset
+	<SPK/> and she felt very embarrassed and upset
+001961627	Economists back then saw momentum slowing but had to keep upgrading projections to keep up with the economy's performance
+	economists back then saw momentum slowing but had to keep upgrading projections to keep up with the economy's performance
+001961628	The number of fatal traffic accidents and fatalities which has been on a downward trend has dipped
+	the number of fatal traffic accidents and fatalities which has been on A downward trend has dipped
+001961629	A potentially stronger yuan was discouraging investors from stockpiling dollars
+	A potentially stronger yuan was discouraging investors from stockpiling dollars
+001961630	Explosives ordnance disposal experts and bomb sniffer dogs were deployed
+	explosives ordnance disposal experts and bomb sniffer dogs were deployed
+001961631	Because if you keep prodding and prodding they will just switch off
+	because if you keep prodding and prodding they will just switch off
+001961632	Clearly he's being modest here
+	clearly he's being modest here
+001961633	Clothes usually go back one or two seasons
+	clothes usually go back one or two seasons
+001961634	But experts said such rail systems are not designed for daily commuting due to their pricing and station locations
+	but experts ** said such rail systems are not designed for daily commuting due to their pricing and station locations
+001961635	Another eye witness who declined to be named
+	another eye witness who declined to be named
+001961636	Everything went well for many years from then on till the disruptions started
+	everything went well for many years from then on till the disruptions started
+001961637	Garfunkel had become increasingly interested in acting while Simon felt artistically stifled within the duo format
+	Garfunkel has become increasingly interested in acting while simon felt artistically ** stifled within the duo format
+001961638	He gave us economic opportunities
+	he gave us economic opportunities
+001961639	But in any team you need people with different dispositions
+	but in any team you need people with different dispositions
+001961640	The Internet is such an open space it's difficult to police
+	the Internet is such an open space it's difficult to Police
+001961641	One such suggestion was to require motorised or electric bicycles be registered
+	<SPK/> one such suggestion was to require motorised or electric bicycles be registered
+001961642	Do exercise restraint and do not take matters into your own hands
+	do exercise restraint and do not take matters into your own hands
+001961643	I believe this is what our grandfather would have wanted anyway
+	I believe this is what our grandfather would have wanted anyway
+001961644	Furthermore there are other things here in Singapore that I value much more than money
+	furthermore there are other things here in Singapore that I value much more than money
+001961645	Before making any further analysis it is perhaps useful to understand what this whole One China thing is about
+	before making any further analysis IT is perhaps useful to understand what this whole one China thing is about
+001961646	He added some of the cats were given to him by other people
+	<SPK/> he added some of the cats were given to him by other people
+001961647	US sanctions against Russian companies and oligarchs are upending aluminium
+	U S sanctions against Russian companies and ** are upending aluminium
+001961648	It has resulted in the loss of lives including children women and the elderly
+	IT has resulted in the loss of lives including children women and the elderly
+001961649	Tesla is still far from being in the clear with regards to cash
+	Tesla is still far from being in the clear with regards to cash
+001961650	The aim is to recycle it for other uses instead of discharging it into the environment
+	the aim is to recycle IT for other uses instead of discharging IT into the environment
+001961651	Avoid driving during difficult weather conditions as the unfamiliar roads may put you in extra danger
+	avoid driving during difficult weather conditions as the unfamiliar roads may put you in extra danger
+001961652	Ruining your reputation is one thing it is your health that you will be risking
+	ruining your reputation is one thing IT is your health that you will be risking
+001961654	The four firms have two months to pay the fines pending appeals
+	the four firms have two months to pay the fines pending appeals
+001961655	Except most of them chose to chastise the Singapore establishment instead of 'closing ranks' behind it
+	except most of them chose to chastise the Singapore establishment instead of 'closing ranks' behind IT
+001961657	Faizal had made it a point to exercise daily
+	Faizal has made IT A point to exercise daily
+001961658	Knowledge be it about a functional area or sociopolitical issues in general often comes with age
+	knowledge be IT about A functional area or sociopolitical issues in general often comes with age
+001961659	The student was not handcuffed at any time and was cooperative throughout
+	the students was not handcuffed at any time and was cooperative throughout
+001961660	All true fans ought to be here tonight
+	all true fans ought to be here tonight
+001961661	All we need are some early stories of students who pioneer voluntary work play the story up encourage other students
+	all we need are some early stories of students who pioneer voluntary work play the story up encourage other students
+001961662	I sincerely apologise for the unnecessary inconveniences caused and I thank everyone again for your care and concern
+	I sincerely apologise for the unnecessary inconveniences caused and I thank everyone again for your care and concern
+001961663	At the rate it is going some of the world's natural habitat and wildlife might not be around for long
+	at the rate IT is going some of the world's natural habitat and wildlife might not be around for long
+001961664	He points out shopping and eating spots to travellers who ask for directions
+	he points out shopping and eating spots to travellers who ask for directions
+001961665	And it won't end well for you obviously
+	and IT won't end well for you obviously
+001961666	It doesn't change the context it doesn't help to stabilise the economy or substantially increase its ability to pay
+	IT doesn't change the context IT doesn't help to stabilise the economy or substantially increases its ability to pay
+001961667	The theft was discovered when the buyer tried to trade it in at a mobile phone shop
+	the theft was discovered when the buyer tried to trade IT in at A mobile phone shop
+001961668	Singapore has already gone underground for the storage of oil as well as military munitions and explosives
+	Singapore has already gone underground for the storage of oil as well as military munitions and explosives
+001961669	The fiction collection is on the first floor arranged in tall shelves that visitors can reach using the movable ladders
+	the friction collection is on the first floor arranged in tall shelves that visitors can reach using the movable ladders
+001961670	He's memorised nearly all dinosaur species and can illustrate them without references
+	he's memorised nearly all dinosaur species and can illustrate them without references
+001961671	But there are some differences in how the two PMs were chosen
+	but there are some differences in how the two PMs were chosen
+001961672	Managers accused of misusing the comopany's funds told auditors one thing and their shareholders another
+	managers accused of misusing the company's funds told auditors one thing and their shareholders another
+001961673	But some senators did provoke a reaction
+	<SPK/> but some senators did provoke A reaction
+001961674	I was angry because it's like I got taken advantage of so easily
+	I was angry because it's like I got taken advantage of so easily
+001961675	US dollar firmed on the local platform while bond yields also rose
+	U S dollar firmed on the local platform while Bond yields also rose
+001961676	The event was not in Summer Palace restaurant it also clarified
+	the event was not in summer palace restaurant its also clarified
+001961677	Parents are often torn between a more and a less competitive school
+	parents are often torn between A more and A less competitive school
+001961678	For those who fall in love with Chinese dessert our island is your heaven
+	for those who fall in love with Chinese dessert our island is your heaven
+001961679	Let it defrost overnight in the fridge instead
+	let IT defrost overnight in the fridge instead
+001961680	In which dynasty was the lamb hot pot invented
+	in which dynasty was the lamb hot pot invented
+001961681	I don't believe that the City will fall apart and that everyone will flee
+	I don't believe that the city will fall apart and that everyone will flee
+001961682	But in the third year after the accident he realised that he may yet have a life to live
+	but in the third year after the accident he realised that he may yet have A life to live
+001961683	Orders should be made at least a day in advance
+	orders should be made at least A day in advance
+001961685	Another plausible reason for the demise of the frozen dessert ball is simply the emergence of a better version
+	another plausible reason for the demise of the frozen dessert ball is simple the emergence of A better version
+001961686	And they have stood up to him
+	and they have stood up to him
+001961688	Candidates presented must be based on merit and fulfil the qualifying criteria
+	candidates presented must be based on merit and fulfill the qualifying criteria
+001961689	Among other things smart designs were incorporated to enhance the tug's safety and comfort
+	among other things smart designs were incorporated to enhance the tug's safeties and comfort
+001961690	A dutiful son and conscientious student he never got up to any mischief growing up
+	A dutiful son and conscientious student he never got up to any mischief growing up
+001961691	Applications for auditions at the end of this month are now being accepted
+	applications for auditions at the end of this month are now being accepted
+001961692	At that time it was a completely new town with few amenities
+	at that time IT was A completely new Town with few amenities
+001961693	Schools have a key role to play in getting young people into sports like rugby
+	schools have A key role to play in getting young people into sports like rugby
+001961694	When she stepped out for a smoke she claims they followed her and continued taking her photos
+	when she stepped out for A smoke she claims they followed her and continued taking her photos
+001961695	He continued to employ her to perform household chores at his residence until May last year
+	he continued to employ her to perform household chores at his residence until may last year
+001961696	Don't call it an integrated community facility and end up building a community centre there
+	don't call IT an integrated community facilities and end up building A community centre there
+001961697	And specific agencies could be targeted as well
+	and specific agencies could be targeted as well
+001961698	According to Mr Tan increasing manpower and expertise is the greatest challenge for the water industry
+	according to Mister Tan increasing manpower and expertise is the greatest challenge for the water industry
+001961699	Firm action will be taken if he is found to be incorrigible
+	firm action will be taken if he is found to be incorrigible
+001961700	Do you regret that we have not intervened
+	do you regret that we have not intervened
+001961701	Hopefully we can see more of such Singaporeans who know that life is not about fast food soft toys
+	hopefully we can see more of such Singaporeans who know that life is not about fast food soft toys
+001961702	As a result the company must adapt to the conditions of each locale
+	as A result the company must adapt to the conditions of each locale
+001961703	But Mr Tan did not let that get him down
+	but Mister Tan did not let that get him down
+001961704	He's a very good MP he's got a very good heart
+	he's A very good M P he's got A very good heart
+001961705	Any particular one you were hoping for
+	any particular one you were hoping for
+001961706	But there are a lot of benefits and measures that have been introduced to help families
+	but there are A lot of benefits and measures that have been introduced to help families
+001961707	Early detection and full compliance to treatment remain the key to a successful TB control programme
+	early detection and full compliance to treatment remain the key to A successful T B control programme
+001961708	At a cat therapy session in the hospital patients took turns to interact with cats
+	at A cat therapy session in the hospital patients took turns to interact with cats
+001961709	It now works with palm oil producers to promote the production and use of sustainable palm oil
+	is now works with palm oil producers to promote the production and use of sustainable palm oil
+001961710	They will be able to take steps to recover monies lost from financial mismanagement and questionable payments
+	they will be able to take steps to recover monies lost from financial mismanagement and questionable payments
+001961711	Because if you do every day will be a headache for you
+	because if you do every day will be A headache for you
+001961712	The Minister considered the qualitative and quantitative effects of these clauses
+	the minister considered the qualitative and quantitative effects of these clauses
+001961713	Fees will also not go up as a result of this reorganisation
+	fees will also not go up as A result of this reorganisations
+001961714	A Jack Russell terrier has been returned to its owners nine years after it went missing thanks to its microchip
+	A Jack Russell terrier has been returned to its owners nine years after IT went missing thanks to its microchips
+001961715	Investors by and large also take it upon themselves to do their homework
+	investors by and large also take IT upon themselves to do their homework
+001961716	Actually you won't know how much you stink until you reach home and start to do your laundry
+	actually you won't know how much you stink until you reach home and start to do your laundry
+001961717	It is just not conceivable in the short term
+	IT is just not conceivable in the short term
+001961718	Bleeding the boy managed to flee
+	bleeding the boy managed to flee
+001961719	He had pleaded guilty to two charges while two additional charges were taken into consideration in the sentencing
+	he had pleaded guilty to two charges while two additional charges were taken into consideration in the sentencing
+001961720	It was a lesson in competing and cooperating at the same time
+	IT was A lesson in competing and cooperating at the same time
+001961721	The small man is important
+	the small man is important
+001961722	Because he cannot properly grip objects tape is used to wrap his hand to the table tennis bat instead
+	because he cannot properly grip objects tape is used to wrap his hand to the table tennis bat instead
+001961723	When you think of heroes who fought the creeping entrails of fascism a few names come to mind
+	when you think of heroes who fought the creeping entrails of fascism A few names come to mind
+001961724	A Chinese orchestra has its own unique sound qualities
+	A Chinese orchestra has its own unique sound qualities
+001961725	It runs medical diagnostics like prenatal tests which look for abnormalities in babies before they are born
+	IT runs medical diagnostics like prenatal tests which look for abnormalities in babies before they are born
+001961726	Even for the social sector we want it to come from as diverse a spread as possible
+	even for the social sector we want IT to come from as diverse A spread as possible
+001961727	You're in for one heck of an education
+	you're in for one heck of an education
+001961728	And with streaming experiencing rapid growth competition has become even fiercer
+	and with streaming experiencing rapid growth competition has become even **
+001961729	Because I was in an academic school I still had to put work first
+	because I was in an academic school I still had to put work first
+001961730	For instance a tribunal can meet before a hearing to discuss and consolidate issues
+	for instance A tribunal can meet before A hearing to discuss and consolidate issues
+001961731	And we can adjust his or her chemotherapy doses to minimise side effects while maximising the chance of a cure
+	and we can adjust his or her chemotherapy doses to minimise side effects while maximising the chance of A cure
+001961732	The payout start age will be flexible
+	the payout start age will be flexible
+001961733	But how does one value these produce and services if they are not easily available
+	but how does one value these produce and services if they are not easily available
+001961734	He added that Singapore also recognises it has to play a part in mitigating climate change
+	he added that Singapore also recognises IT has to play A part in ** mitigating climate change
+001961735	And when things turn out not quite right well we accept that that is the way the world is
+	and when things turn out not quite right well we accept that this is the way the world is
+001961736	After this nitrogen was pumped back in
+	after this nitrogen was pumped back in
+001961737	All the remarks are extremely hurtful evil and cruel
+	all the remarks are extremely hurtful evil and cruel
+001961738	Are there any spaces or structures that you feel we absolutely should not lose in the future
+	are there any spaces or structures that you feel we absolutely should not lose in the future
+001961739	I am just starting again at the beginning and hope to make it through this time
+	I am just starting again at the beginning and hope to make IT through this time
+001961740	Do Singaporeans deserve the salaries they are paid
+	do Singaporeans deserve the salaries they are paid
+001961741	Dyson is focusing on developing intelligent technology and making products which know and anticipate what you want before you do
+	Dyson is focusing on developing intelligent technology and make products which know and anticipate what you want before you do
+001961742	An arrest was made on the same day after extensive ground enquiries
+	an arrest was made on the same day after extensive ground enquiries
+001961743	He noted that it helped him to clear up common misconceptions
+	he noted that IT helped him to clear up common misconceptions
+001961744	But you're different from the others as you mentioned
+	but you're different from the others as you mentioned
+001961745	Operating losses have gone down too
+	operating losses have gone down too
+001961746	We don't have much water but we export water technology
+	we don't have much water but we export water technology
+001961747	Are you any closer to doing that
+	are you any closer to doing that
+001961748	It will help me get used to a working environment and gain experience
+	IT will help me get used to A working environment and gain experience
+001961749	For me it is really refreshing
+	for me IT is really refreshing
+001961750	Before that they came in a rectangular box with an opening to take them out one by one
+	before that they came in A rectangular box with an opening to take them out one by one
+001961751	And that's why there are some cars that do not have any options in the market
+	and that's why there are some cars that do not have any options in the market
+001961752	It feels like something you need to do
+	IT feels like something you need to do
+001961753	For consistently good programming that draws growing crowds the festival is back on the Power List after a year's absence
+	for consistently good programming that draws growing crowds the festival is back on the power list after A year's absence
+001961754	German securities law requires companies to publish any market sensitive news in a timely fashion
+	German securities law requires companies to publish any market sensitive news in A timely fashion
+001961755	And once it becomes a good conductor it will attract fires
+	and once IT becomes A good conductor IT will attract fires
+001961756	I think it does take some adjusting to drinking your iced beverage without one
+	I think IT does take some adjusting to drinking your iced beverages without one
+001961757	Does that mean the prisoners sitting in them have lost their right to be human because of their offences
+	does that mean the prisoners sitting in them has lost their right to be human because of their offences
+001961758	It is given to a school for excelling in all key areas of management and for providing quality education services
+	IT is given to A school for excelling in all key areas of management and for providing quality education services
+001961759	He was definitely a very smart student
+	he was definitely A very smart student
+001961760	It was the fundamental reason for our Singapore to exist as a nation
+	IT was the fundamental reason for our Singapore to exist as A nation
+001961761	She also proposed other measures such as introducing a sugar tax in the light of growing concerns over diabetes
+	she also proposed other measures such as introducing A sugar tax in the light of growing concerns over diabetes
+001961762	How people would view him
+	how people would view him
+001961763	But those who can control the entire supply chain and logistics will win
+	but those who can control the entire supply chain and logistics will win
+001961764	And the next question is why
+	and the next question is why
+001961765	Can you or can't you report that you've lost control of the situation
+	can you or can't you report that you've lost control of the situation
+001961766	Singapore's biggest carnival will not be opening on time
+	Singapore's biggest carnival will not be opening on time
+001961767	All employees can come to work in casual or sportswear and are encouraged to physically move every few hours
+	all employees can come to work in casual or sportswear and are encouraged to physically move every few hours
+001961768	And if you have a girlfriend that's another expense he laughs
+	and if you have A girlfriend that's another expense he laughs
+001961769	A mixed bag of earnings also kept Australian equities subdued
+	A mixed bag of earnings also kept Australian equities subdued
+001961770	A lower GI content is better especially for diabetes patients
+	A lower G I content is better especially for diabetes patients
+001961771	But would you ever expect some hailstones
+	but would you ever expect some hailstones
+001961772	But it could end with the pair sharing a jail cell together
+	but IT could end with the pair sharing A jail cell together
+001961773	Keeping them remains the challenge
+	keeping them remains the challenge
+001961774	In the meantime the human lifespan is ever lengthening with rapid advancements in medical treatment
+	in the meantime the human lifespan is ever lengthening with rapid advancements in medical treatment
+001961775	But no one has been able to offer solutions to improve her condition
+	but no one has been able to offer solutions to improve her condition
+001961776	During school holidays she puts in five to six days a week
+	during school holidays she puts in five to six days A week
+001961777	The child's father who declined to be named
+	the child's father who declined to be named
+001961778	Here's how you might just be able to set up your own business empire if you follow in their footsteps
+	here's how you might just be able to set up your own business empire if you follow in their footsteps
+001961779	It may take two years for a decision to be reached
+	IT may take two years for A decision to be reached
+001961781	Life is a tiny bit better being in an association
+	life is A tiny bit better being in an association
+001961782	It is unclear what changes will be announced and when they will be announced
+	IT is unclear what changes will be announced and when they will be announced
+001961783	In the wake of that incident it promised to set up a panel to evaluate potentially controversial titles
+	in the wake of that incident IT promised to set up A panel to evaluate potentially controversial titles
+001961784	The screen also showcases content on current trending topics and recommended reads
+	the screen also showcases content on current trending topics and recommended reads
+001961785	The role of technology in transforming traditional consumption modes and patterns was also discussed at the forum
+	the role of technology in transforming traditional consumptions modes and patterns was also discussed at the forum
+001961786	And another day of mourning began anew
+	and another day of mourning began anew
+001961787	As staff we can see the special bonds that the cats have with each other
+	as staff we can see the special bonds that the cats have with each other
+001961788	But he just packed his bag waved to the crowd and signed autographs
+	but he just packed his bag waved to the crowd and signed autographs
+001961789	Be prepared to give away your online clothes buys to your child
+	be prepared to give away your online clothes buys to your child
+001961790	Additional measures or tax incentives could also be in the works to help firms venture abroad
+	additional measures or tax incentives could also be in the works to help firms venture abroad
+001961791	After asking her to wash up he took her downstairs and hailed a taxi for her
+	after asking her to wash up he took her downstairs and hailed A taxi for her
+001961792	An earlier version of the report said one man was involved in both molestation cases
+	an earlier version of the report said one man was involved in both molestation cases
+001961793	These days he makes them less sweet than a generation ago as customers now like them that way
+	these days he makes them less sweet than A generation ago as customers now like them that way
+001961794	Are there standard operating procedures
+	are there standard operating procedures
+001961795	Local police firefighters and other authorities provided no additional details
+	local Police firefighters and other authorities provided no additional details
+001961796	I wanted to give my son a taste of what I experienced as a combat engineer in the army
+	I wanted to give my son A taste of what I experienced as A combat engineer in the army
+001961797	In general creative companies here understand the importance of constant skills upgrading to keep up with competition
+	in general creative companies here understand the importance of constant skills upgrading to keep up with competition
+001961798	First we want a peaceful resolution of all disputes
+	first we want A peaceful resolution of all disputes
+001961799	But I am richer in other ways
+	but I am richer in other ways

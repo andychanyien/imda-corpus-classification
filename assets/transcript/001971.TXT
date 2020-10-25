@@ -1,0 +1,792 @@
+﻿001971401	A smile can often lift up a weary spirit
+	A smile can often lift up A weary spirit
+001971402	I was so tired from work I could not even bother to brush my teeth
+	I was so tired from work I could not even ** bother to brush my teeth
+001971403	A comma can change the meaning of a sentence entirely
+	A comma can change the meaning of A sentence entirely
+001971404	Before the internet we wrote letters to our pen pals and read magazines
+	before the Internet we wrote letters to our pen pals and read magazines
+001971405	It is easy to book flights and hotels on the computer
+	<STA/> IT is easy to book flights and hotels on the computer
+001971406	Heavy rains caused a flood in the village
+	heavy rains caused A flood in the village
+001971407	I get free snacks whenever I go to the supermarket
+	I get free snacks whenever I go to the supermarket
+001971408	It is not safe to freeze something again after it has thawed
+	<STA/> IT is not safe to freeze something again after IT has thawed
+001971409	We visited the Persian Gulf
+	we visited the Persian gulf
+001971410	The crowd guffawed at the comedian’s jokes
+	<STA/> the crowd guffawed at the comedian's jokes
+001971411	The villagers pray for plentiful harvest at the start of every year
+	<STA/> the villagers pray for plentiful harvest at the start of every year
+001971412	The nurse folded a paper jib for the little boy’s yacht model
+	the nurse folded A paper jib for the little boy's yacht model
+001971413	I bathe every morning
+	I bathe every morning
+001971414	The student was very confused until he realised he entered the wrong classroom
+	the student was very confused until he realised he entered the wrong classroom
+001971415	The van travelled slowly on the expressway
+	the van travelled slowly on the expressway
+001971416	His grief had become his driving force in his career
+	<STA/> his grief had become his driving force in his career
+001971417	We must find a way to circumvent all these new obstacles and secure our votes
+	we must find A way to circumvent all these new obstacles and secure our votes
+001971418	The little boy shared his tomato with his brother
+	<SPK/> the little boy shared his tomato with his brother
+001971419	The grass had grown all the way to his knees
+	the grass has grown all the way to his knees
+001971420	Doves are a symbol of peace
+	doves are A symbol of peace
+001971421	The weather made me sneeze
+	the weather <NON/> made me sneeze
+001971422	The goalkeeper dived to stop the ball
+	the goalkeeper dived to stop the ball
+001971423	This ladder leads to another path
+	this ladder leads to another path
+001971424	The earth’s core is made of iron and nickel
+	the Earth's core is made of iron and nickel
+001971425	The guards can’t laugh when they are on duty
+	the guards can't laugh when they are on duty
+001971426	Police were able to foil the bomber’s plans
+	Police were able to foil the bomber's plans
+001971427	I am craving for a chocolate sponge cake topped with mint mousse
+	I am craving for A Chocolate Sponge Cake Topped with Mint Mousse
+001971428	That man is an aircraft engineer
+	that man is an aircraft engineer
+001971429	He is a lightweight in alcohol
+	he is A lightweight in alcohol
+001971430	The veteran fought to protect his country during the war
+	<STA/> the veteran fought to protect his country during the war
+001971431	The thunder jolt me awake
+	the thunder jolt me me awake
+001971432	A pinch of salt is enough to make a veal stew tasty
+	<STA/> A pinch of salt is enough to make A Veal Stew tasty
+001971433	The workers braved through sun and rain every day just to build the tunnel
+	the workers braved through sun and rain every day just to build the tunnel
+001971434	The detective tracked down the cat killer quickly
+	<STA/> the detective tracked down the cat killer quickly
+001971435	The young girl washed her shoes on her own
+	<STA/> the young girl washed her shoes on her own
+001971436	Thrash disposal is an environmental issue
+	<STA/> thrash disposal is an environmental issue
+001971437	Switzerland’s flag is a big plus
+	Switzerland's flag is A big plus
+001971438	We all knew that it was the calm before the storm
+	we all knew that IT was the calm before the storm
+001971439	The bench by the bank of the river is a hot viewing spot for tourists
+	the bench by the bank of the river is A hot viewing spot for tourists
+001971440	He gulped down his beer
+	he gulped down his beer
+001971441	All good citizens should learn how to change a light bulb
+	all good citizens should learn how to change A light bulb
+001971442	Song sheets for xylophones are on the shelf to your right
+	song sheets for xylophones are on the shelf to your right
+001971443	Cinderella’s dress transformed exactly at twelve o’ clock
+	Cinderella's dress transformed exactly at twelve o'clock
+001971444	She won a car because she was the twelfth person to call the radio station
+	she won A car because she was the twelfth person to call the radio station
+001971445	The man hit the burglar with a golf club
+	the man hit the burglar with A golf club
+001971446	The desolated house was covered in filth and torn letters
+	the desolated house was covered in filth and torn letters
+001971447	Finish this by tomorrow or else you’ll be fired
+	finish this by tomorrow or else you'll be fired
+001971448	There were barrels of wine in the huge cellar
+	there were barrels of wine in the huge cellar
+001971449	There are not many kilns left in Singapore
+	there are not many kilns left in Singapore
+001971450	The child divulged all his secrets to his best friend
+	the child divulged all his secrets to his best friend
+001971451	The shop keeps its costs low by buying its supplies in bulk
+	the shop keeps its costs low by buying its supplies in bulk
+001971452	The dwarf crafted a sharp sword and a tough shield for the knight
+	the dwarf crafted A sharp sword and A tough shield for the knight
+001971453	These social reforms affect the economic sphere as well
+	these social reforms affect the economic sphere as well
+001971454	Pink was a colour of health
+	<NON/> pink was A colour of health
+001971455	The British calls fries chips and chips crisps
+	the British calls Fries Chips and Chips Crisps
+001971456	The farmer filled a trough full of hay for his horses
+	the farmer filled A trough full of hay for his horses
+001971457	For a sunny place like Singapore not many people wear a hat
+	for A sunny place like Singapore not many people wear A hat
+001971458	We made verbal vows to each other in the past but it was a futile attempt
+	we made ** verbal vows to each other in the past but IT was A futile attempt
+001971459	He hurt himself while slicing the meat
+	he hurt himself while slicing the meat
+001971460	My winter jacket came with a detachable hood
+	my winter jacket came with A detachable hood
+001971461	The jump scare in the film made me cough out my juice
+	<SPK/> the jump scare in the film made me cough out my juice
+001971462	Can I have some glue for my envelopes
+	can I have some glue for my envelopes
+001971463	There is a clog in the toilet pipe and the air vents at the zoo
+	there is A clog in the Toilet Pipe and air Vents at the Zoo
+001971464	The party had a cool vibe but was for guests only
+	the party had A cool vibe but was for guests only
+001971465	This husky has a beautiful coat of fur
+	this husky has A beautiful coat of fur
+001971466	A range of sandpaper is used to make the surface smooth
+	A range of sandpaper is used to make the surface smooth
+001971467	Melissa passed her number to the young man
+	Melissa passed her number to the young man
+001971468	The research was designed according to the hypothesis
+	the research was designed according to the hypothesis
+001971469	Our athletes have been training hard for the next Olympics
+	our athletes have been training hard for the next Olympics
+001971470	The main actor of the movie has arrived at the premiere
+	the main actor of the movie has arrived at premiere
+001971471	There are twelve animals in the Chinese zodiac
+	there are twelve animals in the Chinese Zodiac
+001971472	The budding singer easily held her breath for five minutes
+	the budding singer easily held her breath for five minutes
+001971473	His moustache curl is perfect
+	his moustache curl is perfect
+001971474	Please pass your exam once and for all
+	please pass your exam once and for all
+001971475	When you are feeling stressed out don’t forget to breathe into the void
+	when you are feeling stressed out don't forget to breathe into the void
+001971476	I heard you loud and clear when you said it the first time
+	I heard you loud and clear when you said it's the first time
+001971477	The restaurant gave so many choices that it was hard to choose
+	the restaurant gave so many choices that IT was hard to choose
+001971478	A diamond is not a woman’s best friend
+	A diamond is not A woman's best friend
+001971479	I had a casual chat with a reporter at the bar last night
+	I had A casual chat with A reporter at the bar last night
+001971480	The pastry chef measured the ingredients for a zesty lemon dessert carefully
+	the pastry chef measured the ingredients for A Zesty Lemon Dessert carefully
+001971481	The new movie about food promises a visual feast
+	the new movie about food promises A visual feast
+001971482	People tend to overeat while watching the television
+	people tend to overeat while watching the television
+001971483	The company charted their profits in a graph
+	the company charted their profits in A graph
+001971484	My calves are sore from all the sprints
+	my calves are sore from all the sprints
+001971485	Women hope for skin that is soft to the touch
+	women hope for skin that's is soft to the touch
+001971486	The student beefed about his team mates
+	the student beefed about his team mates
+001971487	There are pumps for your tyres at the resting zone before you cycle
+	there are pumps for your tyres at the resting zone before you cycle
+001971488	He writhed in pain and gasped for air
+	he writhed in pain and gasped for air
+001971489	Nothing beats a bowl of chicken noodles with zingy red sauce on a cold day
+	nothing beats A bowl of Chicken Noodles with Zingy Red Sauce on A cold day
+001971490	The teenagers paddled hard on their boat
+	the teenagers paddled hard on their boat
+001971491	The rooster crows at the break of dawn
+	the rooster crows at the ** of dawn
+001971492	Some people go to court to fight for their principles
+	some people go to court to fight for their principles
+001971493	The artist is known for his doodles
+	the artist is known for his doodles
+001971494	The baby is eager to hold his own spoon
+	the baby is eager to hold his own spoon
+001971495	The charity run was held on a Tuesday
+	the charity run was held on A Tuesday
+001971496	The little girl played with her rabbit and geese in the yard
+	the little girl played with her rabbit and geese in the yard
+001971497	They gird their loins for the challenge
+	they gird their loins for the challenge
+001971498	The cot was too small for the toddler to sleep in
+	the cot was too small for the toddler to sleep in
+001971499	Just because I tolerated he thought I was a fool
+	just because I tolerated he thought I was A fool
+001971500	The puppy left its paw prints on the sandy shore
+	the puppy left its paw prints on the sandy shore
+001971501	It has been a very rewarding and rich experience for me
+	IT has been A rewarding and rich experience for me
+001971502	So how will streaming work
+	so how will streaming work
+001971503	Before I had the implant I was very tired and could walk only one or two bus stops
+	before I had the implant I was very tired and could walk only one or two bus stops
+001971504	Demand for fixed rate loans remains stable
+	demand for fixed rate loans remains ** stable
+001971505	All I could think of was how I could get help for the young man
+	all I could think of was how I could help for the young man
+001971506	After the incident the duo no longer communicated with each other
+	after the incident the duo no longer communicated with each other
+001971507	Mr Osman paid tribute to overseas Singaporeans who have taken the plunge and ventured out
+	Mister Osman paid tribute to overseas Singaporeans who have taken the plunge and ventured out
+001971508	Fortunately none of us has contracted dengue but we hope something can be done before it's too late
+	fortunately none of us has contracted dengue but we hope something can be done before it's too late
+001971509	A whole list of ways but not help
+	A whole list of ways but not help
+001971510	A few visitors to Singapore also chimed in saying they've enjoyed their trips here
+	A few visitors to Singapore has chimed in saying they've enjoyed their trips here
+001971511	Not that his life is anything as exciting as that of the cinematic hero
+	not that his life is anything as exciting as that of the cinematic hero
+001971512	Let these pictures speak for themselves
+	let these pictures speak for themselves
+001971513	Head down here to check out full list of deals
+	Head down here to check out full list of deals
+001971514	Any adjustments are likely to be very gradual
+	any adjustments are likely to be very gradual
+001971515	As such I like to see the library show more resilience in future in this respect
+	as such I Like to see the library show more resilience in the ** in future in this respect
+001971516	But offering more shelters will not solve the problem
+	but offering more shelters will not solve the problem
+001971517	It can be quite daunting to dive straight into a text and for Shakespeare students are scared of the language
+	IT can be quite daunting to dive straight into A text and for ** forth Shakespeare students are scared of the language
+001971518	Accidents do occur sometimes during training like when I'm trying a new stunt
+	accidents do occur sometimes during training like when I'm trying A new stunt
+001971519	Like Chen received eight fewer votes
+	like Chen received eight fewer votes
+001971520	He wore really tight jeans and an ugly scarf
+	he wore really tight jeans and an ugly scarf
+001971521	In India we've created a miracle
+	in India we've created A miracle
+001971522	As they saw it what was central was continued access to the Chinese language
+	as they saw IT what was central was continued access to the Chinese language
+001971523	Neighbourhood senior centres and nursing homes also make it a point to bring festive cheer to their older residents
+	neighbourhood senior centres and nursing homes also make IT A point to bring festive cheer to their older residents
+001971524	In the last two years eight Indonesian domestic helpers were also deported after they were found to be radicalised
+	in the last two years eight Indonesians domestic helpers were also deported after they were found to be radicalised
+001971525	Funds will go towards outreach activities to educate the public about the importance of palliative care
+	funds will go towards outreach activities to educate the public about the importance of palliative care
+001971526	As his cancer marched on he finally agreed to chemotherapy which shrank it for a period
+	as his cancer marched on he finally agreed to chemotherapy which shrank IT for A period
+001971527	Imagine the reactions of overseas Singaporeans when they switched on the news or read their newspapers
+	imagine the reactions of overseas Singaporeans when they switched on the news or read their newspapers
+001971528	A few thousand will head overseas mostly to British and Australian universities
+	A few thousand will Head overseas mostly to British and Australian universities
+001971529	Good collaboration is not of course just the responsibility of individuals
+	good collaboration is not of course just the responsibility of individuals
+001971530	More new routes will be announced later
+	more new routes will be announced later
+001971531	And it can take a lot of effort to shop prepare meals cook and then clean
+	and IT can take A lot of effort to shop prepare meals cook and then clean
+001971532	These accidents could have been prevented if companies do not compromise the safety of their workers
+	these accidents could have been prevented if companies do not compromise the safety of their workers
+001971533	Members of the public are advised not to speculate as investigations are ongoing
+	members of the public are advised not to speculate as investigations are going
+001971534	Growth was supported by stronger expansion in public sector construction activities
+	growth was supported by stronger expansion in public sector construction activities
+001971535	The right balance is necessary between the old and the new
+	the right balance is necessary between the old and the new
+001971536	In working out these tighter regulatory measures we're mindful not to add to overall regulatory costs
+	in working out these tighter regulator measures we're mindful not to add to overall regulator costs
+001971537	Both victims suffered multiple knife wounds
+	both victims suffered multiple knife wounds
+001971538	I thought that was something very meaningful in a career beyond just simply working for the money
+	I thought that was something very meaningful in A career beyond just simply working for the money
+001971539	For some strange reason it's a good way of getting him to comply
+	for some strange reason it's A good way of getting him to comply
+001971540	He then scolded her and ordered her to sweep the floor
+	he then scolded her and ordered her to sweep the floor
+001971541	Even if the job didn't pay well I would take it for the experience
+	even if the job didn't pay well I could take IT for the experience
+001971542	Airlines are also consolidating scaling back capacity after growing rapidly
+	airlines are also consolidating scaling back capacity after growing rapidly
+001971543	These dogs have also contributed to Singapore's safety and security while on active duty
+	these dogs have also contributed to Singapore's safety and security while on active duty
+001971544	But he said the company is considering adding more ride options such as upscale cars that would boost revenue
+	but he said the company is considering adding more ride options such as upscale cars that could boost revenue
+001971545	And if you are not supporting people will ask what is wrong with you
+	and if you are not supporting people will ask what is wrong with you
+001971546	As a young boy it was difficult in the beginning
+	as A young boy IT was difficult in the beginning
+001971547	Avoiding these foods may be a wise lifestyle change
+	avoiding these foods may be A wise lifestyle change
+001971548	The measures need parliamentary approval
+	the measures need parliamentary approve
+001971549	How many Singaporeans does it take to change a light bulb
+	how many Singaporeans does IT take to change A light bulb
+001971550	Several unforeseen events depressed travel demand creating a difficult operating environment for many airlines in the region
+	several unforeseen events depressed travel demand creating A difficult operating environment for many airlines in the region
+001971551	If none of this barely makes any sense to you we're almost there
+	if none of this barely makes any sense to you we're almost there
+001971552	But the others all Malaysians are at large
+	but the others all Malaysians are at large
+001971553	I see this as a significant opportunity at a time of great change in our industry
+	I see this as A significant opportunity at A time of great change in our industry
+001971554	It will be the first study of its kind
+	IT will be the first study of its kind
+001971555	Chew's mom was in tears and said that she was under tremendous stress the past few days
+	chew's mom was in tears and said that she was under tremendous stress the past few days
+001971556	She was made to maintain the position for half an hour with a small plastic bottle shoved into her mouth
+	she was made to maintain the position for half an hour with A small plastic bottle shoved into her mouth
+001971557	That three points caused the club to be relegated from the Premier League for one season
+	that three points caused the club to be relegated from the premier league for one season
+001971558	A police spokesman said investigations are under way
+	A Police spokesman said investigations are under way
+001971559	But it's worth seeing if there's still something we can do to turn things around
+	but it's worth seeing if there's still something we can do to do things around
+001971560	But the family's trouble did not end there
+	but the family's trouble did not end there
+001971561	This would pave the way for a smooth leadership transition
+	this would pave the way for A smooth leadership transition
+001971562	I would like to acknowledge all caregivers for their tireless efforts and dedication
+	I would like to acknowledge all caregivers for their tireless efforts and dedication
+001971563	Every accident is one accident too many
+	every accident is one accident too many
+001971564	All new employees have to undergo a compulsory basic security orientation programme followed by a specific safety and security programme
+	all new employees have to undergo A compulsory basic security orientation programme followed by A specific safety and security programme
+001971565	Also they are contentious issues where achieving consensus will be elusive
+	also they are contentious issues where achieving consensus will be elusive
+001971566	As workers gain skills their salaries should rise
+	as workers gain skills their salaries should rise
+001971567	Are our companies bold enough to invest in new technology and markets in the face of an impending cyclical slowdown
+	are our companies bold enough to invest in new technology and markets in the face of an impending cyclical slowdown
+001971568	I am thrilled when young people are interested in my work and ask how they can join the profession
+	I am thrilled when young people are interested in my work and ask how they can join the profession
+001971569	Apart from shellfish collecting and illegal fishing other animals in Singapore have also been unscrupulously poached
+	apart from shellfish collecting the illegal fishing other animals in Singapore have also been unscrupulously poached
+001971570	An abnormal shuffling gait in its hind limbs has resulted in abrasions on its paw pads too
+	an abnormal shuffling gait in its hind limbs has resulted in abrasions on its paw pads too
+001971571	He sportingly closed his eyes and made a wish before cutting the cake
+	he sportively closed his eyes and made A wish before cutting the cake
+001971572	But it's important to note that this should be taken with a pinch of salt
+	but it's important to note that this should be taken with A pinch of salt
+001971573	As sketchers we just sketch as we see
+	as sketchers we just sketch as we see
+001971574	I thought more people would be in favour of taxing multiple cars but there weren't really a consensus on it
+	I thought more people would be in favour of taxing multiple cars but there weren't really A consensus on IT
+001971575	Of course none of this will work if families in Singapore are not willing to open their homes
+	of course none of this will work if families in Singapore are not willing to open their homes
+001971576	For those who wish to physically pen their pledges
+	for those who wish to physically pen their pledges
+001971577	I'm sure we will stay on course to work with Singapore for generations to come
+	I'm sure we will stay on course to work with Singapore for generations to come
+001971578	And there are rich findings at the end of the rainbow
+	<NON/> and these are rich findings at the end of the rainbow
+001971579	Before she left she asked her husband to write a letter saying what he felt about her
+	<NON/> before she left she asked her husband to write A letter saying about ** how he felt
+001971580	The company also makes valves and pumps for the oil and gas industry
+	the company also makes valves and pumps for the oil and gas industry
+001971581	He inspired us gave us courage kept us together and brought us here
+	he inspired us gave us courage kept us together and brought us here
+001971582	But we need to also remember that some aspects remain consistent
+	but we need to also remember that some aspects remain consistent
+001971583	The government hasn't decided on the date for the executions but moving the prisoners usually indicates they could be imminent
+	the government hasn't decided on the date for the executions but moving the prisoners usually indicates they could be **
+001971584	I think the happier you are the more energy you will have
+	I think the happier you are the more energy you will have
+001971585	But what if your watch could increase in value instead
+	but what if your watch could increase in value instead
+001971586	Higher US interest rates make bullion less attractive to investors since gold does not pay interest
+	higher U S interest rates make bullion less attractive to investors since golds does not pay interest
+001971587	Bamboo poles have since fallen from his block many times because of strong winds
+	bamboo poles have since fallen from his block many times because of strong winds
+001971588	Over the past six decades Malaysia has achieved significant progress and development
+	over the past six decades Malaysia has achieved significant progress and ** development
+001971589	And forecasts are that sales of the iconic American brand will this year overtake total shipments of Swiss watches
+	and forecasts are that sales of the iconic American brand will this year overtake total shipments of Swiss watches
+001971590	It also comes with auxiliary and optical inputs for those who prefer a wired connection
+	IT also comes with ** and optical inputs for those who prefer A wired connection
+001971591	There were three hints provided by the government about the possible site
+	there were three hints provided by the government about the possible site
+001971592	But going the temporary way seems to be what those interviewed prefer
+	but going to the ** way seems to be what those interviewed prefer
+001971593	Tan who will be sentenced next month faces a jail term of up to three years and a fine
+	Tan who will be sentenced next month faces A jail term of up to three years and A fine
+001971594	Each of them participated and functioned in their own way as crucial cogs in the machinery
+	each of them participated and functioned in their own way as ** cogs in the machinery
+001971595	Besides shopping a variety of services like nails tattoo hair and beauty services are offered at reasonable and competitive prices
+	besides shopping A variety of services like nails tattoo hair and beauty services are offered at reasonable competitive prices
+001971596	Five students stay behind at Pendant Hut as they are not feeling well
+	five students stay behind at Pendant hut as they are not feeling well
+001971597	And because they themselves are from disadvantaged backgrounds they know there are others who are like them as well
+	and because they themselves are from disadvantaged backgrounds they know there are others who are like them as well
+001971598	Concierge services at Paragon mall were alerted and the police were contacted
+	concierge services at Paragon Mall were alerted and the Police were contacted
+001971599	CPR is given and prisoner is sent to hospital for emergency treatment
+	C P R is given and prisoner is sent to hospital for emergency treatment
+001971600	But then the business took a turn for the worse and all that went away
+	but then the business took A turn for the worse and all that went away
+001971601	But right now it is everybody's game
+	but right now IT is everybody's game
+001971602	But they rarely drink as there is water in the leaves
+	but they rarely drink as there is water in the leaves
+001971603	Abandoned and vulnerable to being captured or culled they are left to an unknown fate
+	abandoned and vulnerable to being captured or culled they are left to an unknown fate
+001971604	He allegedly hanged victims after giving them alcohol or sleeping pills or strangling them until they fainted
+	he allegedly hanged ** victims after giving them alcohol or sleeping pills or strangling them until they fainted
+001971605	The course is also fully sponsored for them
+	the course is also fully sponsored for them
+001971606	But experts here say cannabis is harmful
+	but experts here say cannabis is harmful
+001971607	Take time to explore the entire Hellenic Republic at a leisurely pace
+	take time to explore the entire Hellenic republic at A leisurely pace
+001971610	Because this dish is newly launched the food challenge was started to attract customers to try it
+	because this dish is newly launched the food challenge was started to attract customers to try IT
+001971611	Training grants reliability incentives lower diesel costs and higher revenue contributed to this large difference
+	training grants reliability incentives lower diesel costs and higher revenue contributed to this large difference
+001971612	This is to ensure that cleaners receive wages that commensurate with their skills training and productivity
+	this is to ensure that cleaners receive wages that commensurate with their skills training and productivity
+001971613	Everyone will be celebrating national day and my son's birthday at the same time
+	everyone will be celebrating National Day and my son's birthday at the same time
+001971614	But doctors say most patients are reluctant to do so
+	but doctors say most patients are reluctant to do so
+001971615	But for those who are considering children it helps to know such support exists
+	but for those who are considering children IT helps to know such support exists
+001971616	In response Low issued two apologies after the first one was deemed not sincere enough
+	in response low issued two apologies after the first one was deemed not sincere enough
+001971617	But an increase in orders from small and medium enterprises and personal orders has helped make up for the shortfall
+	but an increase in orders from small and medium enterprises and personal orders has helped make up for the shortfall
+001971618	She also paid for his car insurance road tax and shopping and gave him money to repay his debts
+	she also paid for his car insurance road tax and shopping and gave him money to repay his debts
+001971619	I'm worried that lower prices will mean more people competing for flats
+	I'm worried that lower prices will mean more people competing for **
+001971620	Of course if you are able to wait for Black Friday the entire internet will be on sale
+	of course if you are able to wait for Black Friday the entire Internet will be on sale
+001971621	At its opening the Singapore Zoo was staffed by keepers with no prior training in zoology
+	at its opening the Singapore Zoo was staffed buys keepers with no prior training in ** zoology
+001971622	If you are an IT geek come to see many things interesting there
+	if you are an I T geek come to see many things interesting there
+001971623	In other matters such consultation is optional
+	in other matters such consultation is optional
+001971624	But in terms of stakes the stakes are here
+	but in terms of stakes the stakes are here
+001971625	A version of the portrait that shows the Queen with her eyes gently shut is likewise on display here
+	A version of the portrait that shows the queen with her eyes gently shut is likewise on display here
+001971626	He has since been charged with culpable homicide not amounting to murder
+	he has since been charged with culpable homicide not amounting to murder
+001971627	Instead the market will probably go through a long protracted recovery process
+	instead the market will probably go through A long protracted recovery process
+001971628	Whatever is happening to the dollar and the yield curve you've got to be watching that
+	whatever is happening to the dollar and the yield curve you've got to be watching that
+001971629	The link to the site's Facebook page however remains unchanged
+	the link to the site's Facebook page however remains unchanged
+001971630	There is more chance of getting injured in this field
+	there is more chance of getting injured in this field
+001971631	A police statement said preliminary investigations showed that the incident arose from a business dispute
+	A Police statement said preliminary investigations showed that the incident arose from A business dispute
+001971632	It will end with an outdoor movie screening
+	IT will end with an outdoor movie screening
+001971633	Analysts expect the antipodean currencies to continue to do well
+	analysts expect the antipodean currencies to continue to do well
+001971634	And patients should have the right to refuse
+	and patients should have the right to refuse
+001971635	But I'm excited at the prospect of serving this team
+	but I'm excited at the at the prospect of serving this team
+001971636	In his mitigation plea defence lawyer Nasser Ismail argued that there were no particular injuries to the children
+	in his mitigation plea defence lawyer Nasser Ismail argued that there were no particular injuries to the children
+001971637	And we're feeling our way into that future
+	and we're feeling our way into that future
+001971638	I think that will be a great help to the industry
+	I think that will be A great help to the industry
+001971639	Certificate of entitlement premiums ended higher across the board in the latest tender yesterday
+	certificate of entitlement premiums ended yesterday across the board in the latest tender yesterday
+001971640	I don't want him to be made the bad guy
+	I don't want him to be made the bad guy
+001971641	The recommendations include refreshing standard operating procedures for infection control as well as improving surveillance and outbreak response systems
+	the recommendations include refreshing standard operating procedures for infection control as well as improving surveillance and outbreak response systems
+001971642	And that is what is driving growth today
+	and that is what is driving growth today
+001971643	Financial muscle will be needed to develop finds in a region with little infrastructure
+	financial muscle will be needed to develop finds in A region with little infrastructure
+001971644	But who would argue against a cancellation policy when you are making a booking
+	but who would argue against A cancellation policy when you are making A booking
+001971645	Because why should we make other people's mortal enemies our mortal enemies
+	because why should we make others people's more mortal enemies our mortal enemies
+001971646	His personality was brash and his powers were developing
+	his personality was brash and his powers were developing
+001971647	But many are starting to recognise that play is the best way for children to learn
+	but many are starting to recognise that play is the best way for children to play
+001971648	Half of Singaporeans say they find it annoying when other people use their mobile phones during mealtimes
+	half of Singaporeans say they find IT annoying when other people using their mobile phones during mealtimes
+001971649	A vibrant innovation ecosystem is important as Singapore sets its sights on becoming a world leader in this space
+	A vibrant innovation ecosystem is important as Singapore sets its sights on becoming A world leader in this space
+001971650	His daughter is an administrator and his wife is a housewife
+	his daughter is an administrator and his wife is A housewife
+001971651	But there was a catch
+	but there was A catch
+001971652	The fear of deportation was a major tool in slashing society membership
+	the fear of deportation was A major tool in slashing society membership
+001971653	Nowadays people walk in to our stores without feeling ashamed
+	nowadays people walk in to our stores without feeling ashamed
+001971654	The Justice Department did not immediately respond to request for comment
+	the justice department did not immediately respond to request for comment
+001971655	The rest of the island will remain open to the public
+	the rest of the island will remain open to the public
+001971656	And maybe that's his farewell gift to us to show how far we've come as one people as one nation
+	and maybe that's his farewell gift to us to show how far we've come as one people as one nation
+001971657	But if it hasn't then we want to ask why
+	but if IT hasn't then we want to ask why
+001971658	The last title had already been disposed off based on an earlier review of books
+	the last title had already been disposed off based on an earlier review of books
+001971659	But do not mistake her for a tomboy
+	but do not mistake her for A tomboy
+001971660	He asked my father to take care of his afterlife preparations
+	he asked my father to take care of his afterlife preparations
+001971661	But no country did worse than Equatorial Guinea which scored zero
+	but no country did worse than equatorial Guinea which scored zero
+001971662	Engineers can also train there to learn skills for the green maritime industry
+	engineers can also train there to learns learn learn skills for the green maritime industry
+001971663	He has since made his Twitter private
+	he has since made his Twitter private
+001971664	I'm very proud to live in one of Singapore's special blocks and will never sell it off
+	I'm very proud to live in one of Singapore's special blocks and will never sell IT off
+001971665	The simplicity of the tax will undoubtedly be a virtue in its implementation and also in assessing its efficacy
+	the simplicity of the tax will undoubtedly be A virtue in its implementation and also in assessing its efficacy
+001971666	Late or incomplete nomination papers will disqualify a candidate
+	late or incomplete nomination papers will disqualify A candidate
+001971667	She later said that she wanted to help as she had received the same assistance from others in the past
+	she later said that she wanted to help as she had received the same assistance from others in the past
+001971668	He suffered double vision among other things and underwent surgery to repair the right eye socket fracture
+	he suffered double vision among other things and underwent surgery to repair the right eye socket ** fracture
+001971669	AVA managed to contact him yesterday and to visit him today
+	A V A managed to contact him yesterday and to visit him today
+001971670	The Tripoli factions sometimes clash in turf battles or over killings or detentions of their members
+	the Tripoli factions sometimes clash in turf battles or over killings or detentions of their ** members
+001971671	A lot of it has to do with school leaders
+	A lot of IT has to do with school leaders
+001971672	Let's take a look at the barrage of brickbats thrown at the organisers
+	let's take A look at the barrage of brickbats thrown at the organisers
+001971673	Back when there was little or no sterilisation programme in place cats multiplied unchecked
+	back when there was little or no <SPK/> sterilisation programme in place cats multiplied unchecked
+001971674	Intermarriages are increasingly common in China as the country becomes more cosmopolitan and developed
+	intermarriages are increasingly common in China as the country becomes more cosmopolitan and developed
+001971675	Further Adapt and Grow initiatives will help workers facing career transitions to stay employed and employable
+	further adapt and grow initiatives will help workers face career transitions to stay employed and employable
+001971676	The domestic worker eventually ran away and sought a stranger's help
+	the domestic worker eventually ran away and sought A stranger's help
+001971677	But the challenge for them is how do you bring in the younger consumers
+	but the challenge for them is how do you bring in the young consumers
+001971678	Reading Lisa's unedited writings was like sailing through a fog
+	reading Lisa's unedited writings was like sailing through A fog
+001971679	Finally do bring ear plugs if you are taking in the roaring aerial displays
+	finally do bring ear plugs if you are taking in the roaring aerial displays
+001971680	The current talks may still fall apart or the terms and timing may change
+	the current talks may still fall apart or the terms and timing may change
+001971681	I am worried as I also get some bleeding now and then
+	I am worried as I also get some bleeding now and then
+001971682	BMW has warned the recall could possibly spread to other countries as well
+	B M W has warned the recall could possibly spread to other countries as well
+001971683	Banks still need funding and they need to entice investors
+	banks still need funding and they need to entice investors
+001971684	But now after so many years I'm attracted to this life
+	but now after so many years I'm attracted to this life
+001971685	Although he is the principal cellist in his school band it was his first time performing backed by an orchestra
+	although he is the principal cellist in his school Band IT was his first time performing backed by an orchestra
+001971686	If you have very sophisticated comprehensive benefits benefits need to be costed and charged reflected in the premiums
+	if you have very <SPK/> sophisticated comprehensive benefits benefits need to be costed and charged reflected in the premiums
+001971687	It is only a matter of time
+	IT is only A matter of time
+001971688	Below is the transcript of the exchange
+	below is the transcript of the exchange
+001971689	Now that's a real pair of helping hands
+	now that's A real pair of helping hands
+001971690	I talk to the Singaporeans when they come
+	I talk to the Singaporeans when they come
+001971691	Has also greatly reduced the amount of feedback we received from those staying in the vicinity
+	has also greatly reduced the amount of feedback we received from those staying in the vicinity
+001971692	Our vessels are equipped with global positioning systems so their locations are clearly indicated
+	our vessels are equipped with global positioning systems so their locations are clearly indicated
+001971693	Clearly the president has something to hide
+	clearly the president has something to hide
+001971694	Inequalities have been exacerbated with many middle class families unable to afford property
+	inequalities have been exacerbated with many middle class families unable to afford property
+001971695	How much can the Government alone do
+	how much can the government alone do
+001971696	But he did not stop there
+	but he did not stop there
+001971697	Basically Tinder is where instant gratification flourishes
+	basically Tinder is where instant gratification flourishes
+001971699	He added that the Government will continue to look at how these schemes can be made more accessible to businesses
+	he added that the government will continue to look at how these schemes can be made more accessible to businesses
+001971701	The good thing is that it's venom if properly diluted helps erase bad memories
+	the good thing is that it's venom is properly diluted helps erase bad memories
+001971702	You have to go back to the financial crisis days to see this kind of volatility
+	you have to go back to the financial crisis days to see this kind of volatility
+001971703	It was certainly a refreshing change from the norm
+	IT was certainly A refreshing change from the norm
+001971704	A number of strategists are looking at how to arbitrage the tax changes
+	A number of strategists are looking at how to arbitrage the tax changes
+001971705	He collects newspapers or electronic items like fans TV sets and radios
+	he collects newspapers or electronic items like fans T V sets and radios
+001971706	They did not panic and that's a good start
+	they did not panic and that's A good start
+001971707	I'm extremely honoured to be part of this team and am proud of their work
+	I'm extremely honoured to be part of this team and am proud of their work
+001971708	All this harping on identity is to underline and underscore that we do not have one
+	all this harping on identity is to underline and underscore that we do not have one
+001971709	A good balance of staying active and eating well
+	A good <SPK/> A good balance of staying active and eating well
+001971710	It is perhaps hard to imagine then that National Service was once actually frowned upon by the population
+	IT is perhaps hard to imagine then that National Service was once actually frowned upon by the population
+001971711	As investigation is still ongoing we will not be able to comment further
+	an investigation is still ongoing we will not be able to comment further
+001971712	It's not a moment of grief
+	it's not A moment of grief
+001971713	I didn't go drinking or take my family to lavish Indian restaurants
+	I didn't go drinking or take my family to lavish Indian restaurants
+001971714	According to them family ties ensure harmony both in the pool and at home
+	according to them family ties ensure harmony both in the pool and at home
+001971715	As well as innovative decor food courts have been introducing new technologies to make things easier for themselves and patrons
+	as well as innovative decors food courts have been introducing new technologies to make things easier for themselves and patrons
+001971716	Many of the installations were also designed with sustainability in mind
+	many of the installations were also designed with ** in mind
+001971717	Market conditions seems to support this confidence among developers to perhaps now look at en bloc sales
+	market conditions seems to support this confidence among developers to perhaps now look at en bloc sales
+001971718	Similar initiatives by private companies should also be encouraged through government funding or resource sponsorship
+	similar initiatives by private companies should also be encouraged through government funding or resource sponsorship
+001971719	I believe the party will always put the candidate in the best fit
+	I believe the party will always put the candidate in the best fit
+001971720	Almost all areas of Singapore received below average rainfall in the first two weeks of this month
+	<FIL/> almost all areas of Singapore received below average rainfall in the first two weeks of this month
+001971721	I will give more thought to how much I give out from now
+	I will give more thought to how much I give out from now
+001971722	But he is well aware that nothing could be worse for an artist's career than early spectacular success
+	but he is well aware that nothing could be worse for an artist's career than early spectacular success
+001971723	As mandated by law there has to be a list of workers and companies must be forced to comply
+	as mandated by law there has to be A list of workers and companies must be forced to comply
+001971724	A polyclinic could be a place where you could provide home nursing
+	A polyclinic could be A place where you could provide home nursing
+001971725	A spokesman for the bank said the branch will remain closed temporarily
+	A spokesman for the bank said the branch will remain closed temporarily
+001971726	I think that there is no need for argument
+	I think that there is no need for an argument
+001971727	Assisi says it is the only one in the hospice sector which requests that its volunteers help in nursing care
+	Assisi says IT is the only one in the hospice sector which requests that its volunteers help in nursing care
+001971728	Just remember to pack some mints if you go with a hot date
+	just remember to pack some mints if you go with A hot date
+001971729	Didn't you feel any apprehension about dealing with those challenges
+	didn't you feel any apprehension about dealing with those challenges
+001971730	But he gave assurance that old favourites will remain on the menu
+	but he gave assurance that old favourites will remain on the menu
+001971731	The report's findings led to a parliamentary debate in February over the lapses
+	the report's findings led to A parliamentary debate in February over the lapses
+001971732	It's the perfect way to end the year don't you think
+	it's the perfect way to end the year don't you think
+001971733	How did the violence soar
+	how did the violence soar
+001971734	Lastly strong partnerships will need to be forged within Singapore and around the world
+	lastly strong partnerships will need to be forged within Singapore and around the world
+001971735	And police confirmed that a Pine Grove resident has filed a report over alleged threatening messages
+	and Police confirmed that A pine grove resident has filed A report over alleged threatening messages
+001971736	In Singapore similar measures have been taken to curb sugar intake
+	in Singapore similar measures have been taken to curb sugar intake <NON/>
+001971737	It is quite challenging for us
+	IT is quite challenging for us
+001971738	He decided against it in the end and left his girlfriend in bed until she stopped breathing
+	he decided against IT in the end and left his girlfriend in bed until she stopped breathing
+001971739	UK's biggest publicly traded mall owners are also combining forces
+	UK's biggest publicly traded mall owners are also combining forces
+001971740	I think we are well on our way with continuing our progress
+	I think we are well on our way with continuing our progress
+001971741	I thought it might be nice to see familiar faces when you come home
+	I thought IT might be nice to see familiar faces when you come home
+001971742	He went to the master bedroom and started shaking the window grilles
+	he went to the master bedroom and started shaking the window grilles
+001971743	Not only will they be selling at minimal levels but they will also give up very high dividend yields
+	not only will they be selling A minimal levels but they will also give up very high dividend yields
+001971744	Moreover the data sets are often produced by private companies focused on something other than economic analysis
+	moreover the data sets are often produced by private companies focused on something other than economic analysis
+001971745	She also said that each cage is shared by two children
+	she also said that each cage is shared by two children
+001971746	Other people spend time analysing what the influential are doing
+	other people spend time analysing what the influential are doing
+001971747	Hey you can sit down
+	hey you can sit down
+001971748	Now large companies are a visible clientele
+	now large companies are A visible clientele
+001971749	Both leaders reaffirmed that both countries are fully committed to the success of the project
+	both leaders reaffirmed that both countries are fully committed to the success of the project
+001971750	It was almost a madness mantra given the number of times these two things got mentioned throughout the rally
+	IT was almost A madness mantra given the number of times these two things got mentioned throughout the rally
+001971751	Again there is a role for outreach and education here
+	again there is A role of outreach and education here
+001971752	Every movement I do in the house they are following watching me scolding me she told the court
+	every movement I do in the house they are following watching me scolding me she told The Court
+001971753	I am just one of the helpers
+	I am just one of the helpers
+001971754	The training comprises three tiers of qualifications designed to map the skills gaps and progression pathways
+	the training come comprises three tiers of qualifications designed to map the skills gaps and progression pathways
+001971755	The allocation of air time is determined by the number of candidates fielded by the party
+	the allocation of air time is determined by the number of candidates fielded by the party
+001971756	Everyone's favourite kitty character is back
+	everyone's favourite kitty character is back
+001971757	Low said that this current episode should be put in the proper perspective
+	low said that this current episode should be put in the proper perspective
+001971758	But it was a great help
+	but IT was A great help
+001971759	But this comes at a time when falling enrolment in mature estates are forcing mergers between established schools
+	but this comes at A time when falling enrolment in mature estates are forcing mergers between established schools
+001971760	Adrian has since left her care after being with her six months
+	Adrian has since left her care after being with her six months
+001971761	Public transport is the way to go
+	public transport is the way to go
+001971762	In addition I've been busy with work lately so I haven't been very active on my social media accounts
+	in addition I've been busy with work lately so I haven't been very active on my social media accounts
+001971763	He could inherit greatness or he could be picking it up from the company his dad keeps
+	he could inherit greatness or he could be picking IT up from the company his dad keeps
+001971764	Charisma is something that you can't teach
+	charisma is something that you can't teach
+001971765	I replied that I had no money to give him
+	I replied that I had no money to give him
+001971766	Alright now you have to play the game of elimination
+	alright now you have to play the game of elimination
+001971767	He was both a visionary and a radical thinker
+	he was both A visionary and A radical thinker
+001971768	After more than six months the children could recognise the sounds that accompany the letters of the alphabet
+	after more than six months the children could recognise the sounds that accompany the letters of the alphabet
+001971769	Another recommends holding the shares while none says sell
+	another recommends holding the shares while none says sells
+001971770	In areas where the satellite coverage is weak such as tunnels beacons will be used to augment signal strength
+	in areas where the satellite coverage is weak such as tunnels beacons will be used to augment signal strength
+001971771	But it was business as usual for bilateral relations
+	but IT was business as usual for bilateral ** relations
+001971772	He said he seldom saw the father but noticed that he seemed to be frequently at home in recent weeks
+	he said he seldom saw the father but noticed that he seemed to be frequently at home in recent weeks
+001971773	One great way two to enjoy
+	one great way two to enjoy
+001971774	The lifeguards also monitor the water condition check tide tables and test the water by swimming in it
+	the lifeguards also monitor the water condition check tide tables and test the water by swimming in IT
+001971775	For men more than a third reported misuse of alcohol and the same figure reported frequently waking up during sleep
+	for men more than A third reported misuse of alcohol and the same figure reported frequently waking up during sleep
+001971776	It is an offence to secretly dispose of a child's dead body and hide the birth of the child
+	IT is an offence to secretly dispose of A child's dead body and hide the birth of the child
+001971777	The removal proceedings under the Charities Act are separate and independent of the criminal proceedings
+	the removal proceedings under the charities act are separate and independent of the criminal proceedings
+001971778	He often observed exotic animals and plants and commissioned detailed drawings of the natural world to document
+	he often observed exotic animals and plants and commissioned detailed drawings of the natural world to document
+001971779	Better diagnostics tools will also reduce the systemic cost
+	better diagnostics tools will also reduce the systemic cost
+001971780	A common reason cited is that they prefer to encourage students to do community work by providing opportunities and funding
+	A common reason cited is that they prefer to encourage students to do community work by providing opportunities and funding
+001971781	Having grown up in a frugal family I learnt that every dollar saved is a dollar earned
+	having growing up in A frugal family I learnt that every dollar saved is A dollar earned
+001971782	He pointed out that measures like improving safety and security in buildings and facilities can help to prevent attacks
+	he pointed out that measures like improving safety and security in buildings and facilities can help to prevent attacks
+001971783	But her doubt soon changed to anger realising she was letting the staring man make her feel upset and uncomfortable
+	but her doubt soon changed to anger realising she was letting the staring man make her feel upset and uncomfortable
+001971784	The index was on track to end the week slightly lower
+	the index was on track to end the week slightly lower
+001971785	He parked right next to the van
+	he parked right next to the van
+001971786	Mr Trump's trade policies are also undermining previously robust consumer and corporate confidence
+	Mister Trump's trade policies are also undermining previously robust consumer and corporate confidence
+001971787	Then there are growing concerns about the state of the nation and the world
+	then there are growing concerns about the state of the nation and the world
+001971788	It will save you a ton of money
+	IT will save you A ton of money
+001971789	I didn't want to implicate my friend
+	I didn't want to implicate my friend
+001971790	At this space the constant visual cues are items they are familiar with items related to the activities
+	at this space the constant visual cues are items they are familiar with items related to the activities
+001971791	Hundreds of bears were created and displayed in the city that year
+	hundreds of bears were created and displayed in the city that year
+001971792	I believe that teenagers have much to learn from how he lived his life
+	I believe that teenagers have much to learn from how he lived his life
+001971793	It gave no breakdown on the numbers killed or injured
+	IT gave no breakdown on the numbers killed or injured
+001971794	It encourages them to choose healthier meals and exercise more
+	IT encourages them to choose healthier meals and exercise more
+001971795	Family bonding and support goes beyond our immediate families
+	family bonding <SPK/> and support goes beyond our immediate families
+001971796	Being overly spoilt and doting their only daughter
+	being overly spoilt and doting their only daughter
+001971797	A dozen youth were charged and eventually sent to jail
+	A dozen youth were charged and eventually sent to jail
+001971798	Full or partial vision loss can lower work participation increase absenteeism and cause preventable deaths
+	full or partial vision loss can lower work participation increase absenteeism and cause preventable deaths
+001971799	Does she ever miss the fact that she is not in school with them
+	does she ever miss the fact that she is not in school with them
+001971800	And that's all that matters
+	and that's all that matters

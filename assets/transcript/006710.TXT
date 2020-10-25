@@ -1,0 +1,708 @@
+﻿006710001	Mary and her family were moving to another city.
+	Mary and her family were moving to another city
+006710002	With the movers hired to settle the rest of their luggage and furniture, they decided to take a short tour first of the harbour that was near their new home.
+	with the movers hired to settle the rest of their luggage and furniture they decided to take A short tour first of the harbour that was near their new home
+006710003	They brought some clothes and three days’ worth of food and water in their car.
+	they brought some clothes and three days' worth of food and water in their car <NON/>
+006710004	On the way to their destination, they drove past a hill that overlooked vast fields of sunflowers.
+	on the way to their destination they drove past A hill that overlooked vast fields of sunflowers
+006710005	Enthusiastically, they got out of the car and took a lot of pictures as they hiked up a gentle slope towards the top of the hill.
+	enthusiastically they took out of the car and took A lot of pictures as they hiked up A ** gentle slope towards the top of the hill
+006710006	When they reached, they saw a huge tree and sat beneath the foliage.
+	when they reached they saw A huge tree and sat beneath the foliage
+006710007	They fed their hungry stomachs with the egg and ham sandwiches that Mary’s mother had made.
+	they fed their hungry stomachs with the egg and Ham Sandwiches that Mary's mom had made
+006710008	After their satisfying lunch, the family took a nap with the grass as their bed.
+	after their satisfying lunch the family took A nap with the grass as their bed
+006710009	When they woke up from their rest, it was already mid-afternoon.
+	when they woke up from their rest IT was already mid afternoon
+006710010	As they walked back, they were shocked to see a pack of stray dogs circling around the car.
+	as they walked back they were shocked to see A pack of stray dogs circling around the car
+006710011	It seemed that they had smelt the food that were left in the boot.
+	IT seemed that they had smelt the food that were left in the boot
+006710012	Just as they were trying to find a tool or two that they could use to fend off the dogs, one of the dogs spotted them.
+	just as they were trying to find A tool or two that they were could use to fend off the dogs one of the dogs spotted them
+006710013	Soon, the menacing pack began to approach the poor outnumbered family.
+	soon the menacing pack began to approach the poor outnumbered family
+006710014	Afraid of getting bitten, Mary hid behind her father and screamed, while he threw rocks in an attempt to scare them away.
+	afraid of getting bitten Mary hid behind her father and screamed while he threw rocks in an attempt to scare them away
+006710015	Suddenly, a gun shot was fired from a distance, which sent the dogs fleeing in an instant.
+	suddenly A gun shot was fired from A distance which sent the dogs fleeing in an instant
+006710016	An old man who was putting down his gun appeared from the sunflower fields and hurried the shaken family to be on their way before the dogs return.
+	an old man who was putting down his gun appeared from the sunflower fields and hurried the shaken family to be on their way before the dogs return
+006710017	He told them that it was rare for tourists to make a stop at this area.
+	he told them IT was rare for tourists to make A stop at this area
+006710018	Mary’s father thanked the old man and passed him an untouched box of sandwiches.
+	Mary's father thanked the old man and passed him an untouched box of sandwiches
+006710019	Finally, they went back to their car and their hearts ached upon seeing the visible scratches and bite marks that had been inflicted.
+	finally they went back to their car and their hearts ached upon seeing the visible scratches and bite marks that has been inflicted
+006710020	Mary fell asleep on her mother’s lap, beat from the whole ordeal.
+	Mary fell asleep on her mother's lap beat from the whole ordeal
+006710021	I was the third one to perform.
+	I was the third one to ** perform
+006710022	We watched the drama unfold before our eyes.
+	we watched the drama unfold before our eyes
+006710023	I felt happy upon hearing the good news from my parents.
+	I felt happy upon hearing the good news from my parents
+006710024	Flourless cakes are not always better for health.
+	Flourless Cakes are all not always better for health
+006710025	You can bake shortbread cookies just with sugar, butter, and flour.
+	you can bake Shortbread Cookies just with sugar butter and flour
+006710026	My uncle is thirty years younger than me.
+	my uncle is thirty years younger than me
+006710027	I attached a mirror to my closet door.
+	I attached A mirror to my closet door
+006710028	Something seems to be bothering him.
+	something seems to be bothering him
+006710029	He was the president of the dance club in my school.
+	he was the president of the dance club in my school
+006710030	After a hot day, all I want to do is take a bath.
+	after A hot day all I want to do is take A bath
+006710031	The thief was careful to not leave his tracks in the snow.
+	the thief was careful not to leave his tracks in the snow
+006710032	She browsed through the catalogues while waiting for her turn.
+	she browsed the ** through the catalogues while <NON/> waiting for her turn
+006710033	It’s a little cruel to be so blunt but that’s the working world for you.
+	it's A little to be too so blunt but that's the working world for you
+006710034	He thought he’s brave for saying the truth but he’s actually just adding fuel to the fire.
+	he thought he's brave for saying the truth but he's actually just adding fuel to the fire
+006710036	I believe that visitation hours are over.
+	I believe that visitation hours are over
+006710037	We now have to walk twenty minutes farther just to get a cup of coffee.
+	<SPK/> we now have to walk twenty minutes farther just to get A cup of coffee
+006710038	This is your last chance to join the lucky draw!
+	this is your last chance to join the lucky draw
+006710039	Everyone’s hoping to find the cure for cancer.
+	everyone's hoping to find the cure for cancer
+006710040	He became very fit ever since his break-up last year.
+	he became very fit ever since his break up last year
+006710041	I need your help.
+	I need your help
+006710042	I live in Singapore.
+	I live in Singapore
+006710043	She always keeps her desk neat and tidy.
+	she always keeps her desk neat and tidy
+006710045	She is a deep sleeper.
+	she is A deep sleeper
+006710046	He is a real nit-picker.
+	he is A real nit picker
+006710047	The watermelon has ripened.
+	the watermelon has ripened
+006710048	After driving for ten years, her car is still in tip-top condition.
+	after driving for ten years her car is still in tip top condition
+006710049	My father fired the star worker.
+	my father fired the star worker
+006710050	The children wipe their noses on the towel.
+	the children wipe their noses on the towel
+006710052	Our sports teams have achieved remarkable feats this year.
+	our teams have achieved remarkable feats this year
+006710053	Tell him to zip his lip.
+	tell him to zip his lip
+006710054	I like listening to rap.
+	<NON/> I Like listening to rap
+006710055	Mozart composed great music pieces.
+	Mozart composed great music pieces
+006710056	We know more about space than the seasons and the seas.
+	we know about space than the seasons and the seas
+006710057	The witch put a spell on the prince, but it was the wrong one.
+	the witch put A spell on the prince but IT was the wrong one
+006710058	A murder had already been plotted a month ago.
+	A murder had been plotted mind ago
+006710059	I had a lot of questions about the assignment.
+	I had A lot of questions about the assignment
+006710060	Hold your bat steady and focus your eyes on the ball.
+	hold your bat steady and focus your eyes on the ball
+006710061	Polar bears are on the brink of extinction.
+	Polar Bears are on the brink of extinction
+006710062	Sakura flowers bloom around April.
+	Sakura Flowers bloom around April
+006710063	Rubber boots are not popular in Singapore despite our rainy weather.
+	rubber boots are not popular in Singapore despite the our rainy weather
+006710064	The butler poured the guest a glass of water.
+	the butler poured the ** guest A <SPK/> glass of water
+006710065	The criminal paid a heavy price for his crime.
+	the criminal paid A heavy price for his crime
+006710066	You can’t compare apples to oranges.
+	you can't A compare apples to oranges
+006710067	Let’s dissect this problem part by part.
+	let's dissect this problem part by part
+006710068	There’s something about hotel beds that makes them extra cosy.
+	there's something about hotel beds that makes them extra cosy
+006710070	She scooped herself a big bowl of corn soup.
+	she scooped herself A big bowl of Corn Soup
+006710071	The fly was caught in the spider’s web.
+	the fly was caught in the spider's web
+006710072	Fresh graduates are always anxious about their first job.
+	fresh graduates are always anxious about their first job
+006710073	There is speculation that a housing bubble may occur.
+	there is <NON/> speculation that A housing bubble may occur
+006710074	Rising college debt has been a widely discussed matter.
+	rising ** college debt has been A widely discussed matter
+006710075	Chilli crab is a famous dish in Singapore.
+	Chilli Crab is A famous dish in Singapore
+006710076	His flexible thinking led him to solve a number of the world’s hardest math problems.
+	his flexible thinking led him to solve A number of the world's hardest math problems
+006710077	To get better at maths, practise more.
+	to get better at maths practise more
+006710078	A child prodigy, James eventually became a respected judge.
+	A child prodigy James eventually became A respected judge
+006710079	Many beautiful dresses were showcased at the gala.
+	many beautiful dresses were showcased at the gala
+006710080	Some cuddling could cheer her up.
+	some cuddling could cheer her up
+006710081	The land’s deed was sold to the old lady.
+	the land's deed was sold to the old lady
+006710082	The coach trained the young gymnast twice as hard as the competition neared.
+	the coach trained the young gymnast twice as hard as the competition neared
+006710083	I dreamt of becoming a doctor when I was a child.
+	I dreamt of becoming A doctor when I was A child
+006710084	Twins often have a unique chemistry with each other.
+	twins often have A unique chemistry with each other
+006710085	It is more important to study smart than to study hard.
+	IT is more important to study smart than to study hard
+006710086	The oak tree stood strong against the test of time.
+	the oak tree stood strong against the test of time
+006710087	The baker used a whole block of butter for this recipe.
+	the baker used A whole block of butter for this recipe
+006710088	He did not have much, but he had a kind and loving heart.
+	he did not have much but he had A kind and loving heart
+006710089	The clever and amazing use of lighting made the musical performance a truly magical one.
+	the clever and amazing use of lighting made the musical performance A truly magical one
+006710090	It was a miracle that he recovered from his life-threatening accident.
+	IT was A miracle that he recovered from his life threatening accident
+006710091	They tried to keep it a secret, but he was able to figure everything out.
+	they tried to keep IT A secret but he was able to figure everything out
+006710092	In this game, you must escape from ghosts and zombies while finding the way out from the foggy maze.
+	in this game you must escape from ghosts and zombies while trying to find the way out from the foggy maze
+006710093	She lazed her whole morning away on a deck chair by the beach.
+	she lazed her whole morning away on A deck chair by the beach
+006710094	There was a switch in the venue for the football match.
+	there was A switch in the ** venue for the football match
+006710095	Most youths today think that their future is uncertain.
+	most youths today think that their future is uncertain
+006710096	The couple went on an enriching adventure together.
+	the couple went on an enriching adventure together
+006710097	The butcher was also a skilled cook in the kitchen.
+	the butcher was also A skilled cook in the kitchen
+006710098	The girl’s experiences gave her an edge over her peers of the same age.
+	the girl's experiences gave her <NON/> an edge over her peers of the same age <NON/>
+006710099	This kind of packaging can pose a danger to animals.
+	this kind of packaging can pose A danger to animals
+006710100	The student skated onto the stage to receive his certificate
+	the student skated onto the stage to receive his certificate
+006710101	But no, I'm not disciplined.
+	but no I'm not disciplined
+006710102	And there is nobody here.
+	and there is no one here
+006710103	Did he ever go back to meet those teachers?
+	did he ever go back to meet those teachers
+006710104	Relations between us have improved much more since then.
+	relations between us have improved much more since then
+006710105	In sum, will these changes in the education system improve social mobility?
+	in sum will these changes in the education system improve social mobility
+006710106	Not everyone likes our strategy, but so far so good.
+	not everyone likes our strategy but so far so good
+006710107	Also, what kind of moisturiser would be the most suitable?
+	also what kind of moisturiser would be the most suitable
+006710108	Cars making a turn don't know who to stop for.
+	cars making A turn don't know who to stop for
+006710109	It's too early to say when a ruling is expected.
+	it's too early to say when A ruling is expected
+006710110	She won two awards last night.
+	she won two awards last night
+006710111	As long as nothing bad happens, it's all good.
+	as long as nothing bad happens it's all good
+006710112	At the end of the pilot, the amount of sick leave being taken further declined.
+	at the end of the pilot the amount of sick leave being taken further <SPK/> declined
+006710113	The case is still under review.
+	the case is still under review
+006710114	The victim was later hospitalised four days due to his injuries.
+	the victim was later hospitalised four days due to his injuries
+006710115	Sometimes we needed to offer several products, which made things complicated.
+	sometimes we needed to offer several products <SPK/> which made things complicated
+006710116	Mr Lee added that the private security industry is also another important partner in ensuring Singapore's safety and security.
+	Mister lee added that the private security industry is also an important partner in ensuring Singapore's safety and security
+006710117	She will join executives from global companies such as L'Oreal for various activities such as interviews.
+	she will join executives from global companies such as L'Oreal for various activities such as interviews
+006710118	Each trial lasts three months and start as and when patients come on board the study.
+	each trial lasts three months and start as and when ** patients come on board the study
+006710119	Police said investigations for both cases are ongoing.
+	Police said investigations for both cases are ongoing
+006710120	During the break, market participants can continue to enter and manage their orders.
+	during the break market participants can continue to enter and manage their orders
+006710122	And even once those hurdles are passed, the trade talks won't be easy.
+	and even once those hurdles are passed the trade talks won't be easy
+006710124	Government measures might also have a bearing on resale prices.
+	government measures might also have A bearing on ** resale prices
+006710125	The tail risk is higher.
+	the tail risk is higher
+006710126	The student welfare officers will also tap social services agencies and community resources where necessary.
+	the student welfare officers will also tap social services agencies and community resources where necessary
+006710127	Every action, every policy, must be decided by this yardstick.
+	every action every policy must be decided by this yardstick
+006710128	Both survival and quality of life would be adversely affected.
+	both survival and quality of life would be adversely affected
+006710129	More money that you cannot physically see or touch but less burden for your folks.
+	more money that you cannot physically see or touch but less burden for your folks
+006710130	Another set of challenge comes from the proliferation of robotics and technology.
+	another set of challenge comes from the ** of pro robotics and technology
+006710131	He got a massive shock, but we're used to the attention now.
+	he got A massive shock but we're used to the attention now
+006710132	Of course, if possible, we hope to make it a yearly event.
+	of course if possible we hope to make IT A yearly event
+006710133	The Euro extended gains in the local platform while bond yields fell.
+	the euro extended gains in the local platform while Bond yields fell
+006710135	China stunned the finance world last week when it unveiled plans to allow foreign control of its financial institutions.
+	China stunned the finance world last week when IT unveiled plans to allow foreign control of its financial institutions <SPK/>
+006710137	North Korea just doesn't feel close enough for the average Singaporean to care about.
+	North Korea just doesn't feel close enough for the average Singaporean to care about
+006710138	Current high levels of speculative interest in oil may have also contributed to the move lower.
+	current high levels of speculative interest in oil may have contributed to the move lower
+006710139	Judge Tan has called for a report to access his suitability for a mandatory treatment order.
+	Judge Tan has called for A report to access his suitability for A mandatory treatment order
+006710140	Even so, that isn't likely in the short term.
+	even so that isn't likely in the short term
+006710141	Arts students today, however, have more options and opportunities.
+	arts students today however have more options and opportunities
+006710142	By treating workers as contractors, not employees, it can keep costs low without taking cars off the road.
+	by treating workers as contractors not employees IT can keep costs low without taking cars off the road
+006710143	Besides the difference in cost, Dr Lam mentioned the benefits of going through the programme as a group.
+	besides the difference in cost Doctor Lam mentioned the benefits of going through the programme as A group
+006710144	Here are six key takeaways from his address to the nation.
+	here are six key takeaways from his address to the nation
+006710145	But in the second round, Steven punched him a few times.
+	but in the second round Steven punched him A few times
+006710146	Additionally, learn and examine the different growth drivers for your business.
+	additionally learn and examine the different growth drivers for your business
+006710147	If you can provide information regarding this video, do leave a comment below.
+	if you can provide information regarding this video do leave A comment below
+006710148	But the Republic's two main public bus operators seem to be open to the idea.
+	but the republic's two main public bus operators seem to be open to the idea
+006710149	In resolving a train service disruption, for example, the approach should go beyond infrastructural solutions.
+	in resolving A train service disruption for example the approach should go beyond infrastructural solutions
+006710150	Despite some mixed economic signals from the US, consumer confidence has strengthened and consumer spending is driving the economy.
+	despite some mixed economic signals from the U S consumer <SPK/> confidence has strengthened and consumer spending is driving the economy
+006710151	A really good opportunity for the kids to witness science unfolding right before their eyes, right outside their home.
+	A really good opportunity for the kids to witness science unfolding right before their eyes right outside their home
+006710152	As a result, as developers launch more dwelling units in the coming months, the sales volume would rise correspondingly.
+	as A result as developers launch more dwelling units in the coming months <SPK/> the sales volume would rise correspondingly
+006710153	One reason is that employers are looking for applicants with strong experience, even prior to graduation.
+	one reason is that employers are looking for applicants with strong experience even prior to graduation
+006710154	Do you have a return ticket?
+	do you have A return ticket
+006710155	A lot of people are bemoaning the state of the retail industry nowadays especially with online shopping becoming increasingly popular.
+	A lot of people are bemoaning the state of the retail industry nowadays <SPK/> especially <NON/> with online shopping becoming increasingly popular
+006710156	Because lives could have been lost.
+	because lives could have been lost
+006710157	The prosecution appealed only against the sentence for the spitting charge, which was increased to eight weeks yesterday.
+	the prosecution appealed only against the sentence for the spitting charge which was increased to eight weeks yesterday
+006710158	Commercial breaks could be yet another factor, given that they are unique to TV viewing, though their role is unclear.
+	commercial breaks could be yet another factor given that they are unique to T V viewing though their role is unclear
+006710159	In addition, more seats will be provided for commuters waiting for trains.
+	in addition more seats will be provided for commuters waiting for trains
+006710160	Everybody wants the same thing, which is to be treated with respect.
+	everybody wants the same thing which is to be treated with respect
+006710161	He also had a strong team of officials working across ministries and adopting a national perspective.
+	he also has A strong team of officials working across ministries and adopting A national perspective
+006710162	A masked man charges forward on the deck of a vessel, knife in hand.
+	A masked man charges forward on the deck of A vessel knife in hand
+006710163	Depending on the stage of economic development, the emphasis of government policies will differ.
+	depending on the stage of economic development the emphasis of government policies will differ
+006710164	So be sure to get your cameras ready!
+	so be sure to get your cameras ready
+006710165	The enforcement operations were conducted as concerns remain that more needs to be done to reduce workplace injuries and fatalities.
+	the enforcement operations were conducted as concerns remain that more needs to be done to reduce workplace injuries and **
+006710166	It remains to be seen whether the efforts will warm Americans up to the tax overhaul.
+	IT remains to be seen whether the efforts will warm Americans up to the tax overhaul
+006710167	He never told me why and I never bothered to ask him.
+	he never told me why and I never bothered to ask him
+006710168	A common lament among residents is that complaints and requests can bounce between agencies instead of being quickly resolved.
+	A common ** lament among residents is that complaints and requests can bounce between agencies instead of being quickly resolved
+006710169	He is also in favour of subsidising medical insurance premiums for those who lead a healthy lifestyle.
+	he is also in favour of subsidising medical insurance premiums for those who lead A healthy lifestyle
+006710170	Most of the Indian municipalities don't have enough manpower, vehicles, infrastructure and revenue to support the segregation.
+	most of the Indian municipalities <SPK/> don't have enough manpower vehicles infrastructure and revenue to support the segregation
+006710171	Conveyance fees are similar regardless of the type of HDB flat that you are buying or selling.
+	conveyance fees are similar regardless of the type of H D B flat that you are buying or selling
+006710172	Once my application was successful, I emailed human resources and they gave me their approval.
+	once my application was successful I emailed human resources and they gave me their approval
+006710173	Establishing a framework for law firms to grow, and promoting the use of Singapore law.
+	establishing A framework for law firms to grow and promoting the use of Singapore law
+006710176	Having had to spell in front of the whole school helped steel her.
+	having had to spell in front of the whole school helped steel her
+006710177	Although the videos were not shared, they were found in Chang's other devices.
+	although the videos were not shared they were found in Chang's other devices
+006710178	And I, like many Singaporeans, dread seeing a line at the taxi stand.
+	and I Like many Singaporeans dread seeing A line at the taxi stand
+006710179	China's mobile payment is ubiquitous and is light years ahead of the competition.
+	China's mobile payment is ubiquitous and is light years ahead of the competition
+006710180	He also asked his friend to flash his police security pass.
+	he also asked his friend to flash his Police security pass
+006710182	He brought wealth, peace and stability to Singapore and the region.
+	he brought wealth peace and stability to Singapore and the region
+006710183	Financial compensation is not the only issue the property owners face.
+	<NON/> financial compensation is not the only issue the property owners face
+006710184	The man then started to give excuses to avoid her visit.
+	the man then started to give excuses to avoid her visit
+006710185	Interested parties may apply to the court to be declared legal parents within two years of the date of discovery.
+	interested parties may apply to The Court to be declared legal parents within two years of the date of discovery
+006710186	But I didn't bring any extra clothes with me, I didn't prepare a getaway car near the house.
+	but I didn't bring any extra clothes with me I didn't prepare A getaway car near the house
+006710187	In politics, you need a tender heart and a thick skin, not a hard heart and thin skin.
+	in politics you need A tender heart and A thick skin not A hard heart and thin skin
+006710188	All that free time does not equal more fun.
+	all that free time does not equal more fun
+006710189	Children from needy families did not need to pay.
+	children from needy families did not need to pay
+006710190	He is in fact its head of card centre.
+	he is in fact its Head of card centre
+006710191	As for motorists, about half were willing to share roads with cyclists, while almost a third were not.
+	as for motorists about half were willing to share roads with cyclists while A almost A third were not
+006710192	For these domestic buyers, mortgage affordability is a greater concern and this looks set to constrain price growth.
+	for these domestic buyers mortgage affordability is A greater concern and this looks set to constrain price growth
+006710193	He soon discovered that life was not a bed of roses in the picturesque capital city.
+	he soon discovered that life was not A bed of roses in the picture <NON/> queues <NON/> capital city
+006710194	But they are all real living people, men of my generation, fierce men on both sides.
+	but they are all real living people men of my generation fierce men on both sides
+006710195	It was quite intense in terms of time spent, but it's definitely worth it.
+	IT was quite intense in terms of time spent but it's definitely worth IT
+006710196	How has our country changed and grown?
+	how has our country changed and grown
+006710197	Given the current limits to technology, this project would serve as a first step.
+	given the current limits to technology this project would serve as A first step
+006710199	Nevertheless, he hopes that people will enjoy the show and pick up the craft.
+	nevertheless he hopes that people will enjoy the show and pick up the craft
+006710200	But in recent years, issues have emerged.
+	but in recent years issues have emerged
+006710201	Ping An of China became the world's largest insurer by market value this year.
+	Ping an of China became the world's largest insurer by market value this year
+006710204	And the site the building sits on has an even longer history.
+	and the site the building sits on has an even longer history
+006710205	And your economic ties are complemented by major strategic and security interests.
+	and your economic ties are complemented by major strategic and security interests
+006710208	Many passengers wanting to travel to Malaysia are believed to be affected.
+	many passengers wanting to travel to Malaysia are believed to be affected
+006710209	Don't expect me to sign your cheques, she said at one point.
+	don't expect me to sign your cheques she said at one point
+006710213	At all times, you should wrap your food items properly, to ensure quality and prevent freezer burn.
+	at all times you should wrap your food items properly to ensure quality and prevent freezer burn
+006710214	No other laws have such provisions for such a situation.
+	no other laws have such provisions for such A situation
+006710215	Instead, only those washing machines with one or more ticks will be allowed for sale.
+	instead only those washing machines with one or more ticks will be allowed for sale
+006710216	It is unsurprising, therefore, that the negative reaction was limited to the comments that the accused received on social media.
+	IT is unsurprising therefore that the negative reaction was limited to the comments that the accused received on social media
+006710218	And a leader needs to make known his views and stance to others in authority.
+	and A leader needs to be make known his views and stance to others in authority
+006710219	For him, being a volunteer barber not only helps senior citizens in the area but allows him to stay active.
+	for him being A volunteer barber not only helps senior citizens in the area but allows him to stay active
+006710220	Later, he says he has broken up with both women.
+	later he says his has broken up with both woman
+006710221	According to Singapore Pools, this will be a cascade draw.
+	according to Singapore pools this will be A cascade draw
+006710222	Let's make it clear here.
+	let's make IT clear here
+006710223	We ended up having to go to an overseas underwriter.
+	we ended up having to go to an overseas underwriter
+006710224	Being able to read and write are core skills that will make it easier for them to pursue lifelong learning.
+	being able to read and write are core skills that will make IT easier for them to pursue lifelong learning
+006710225	A slight improvement in the haze conditions may be expected.
+	A slight improvement in the haze conditions may be expected
+006710226	But they also warned of the danger of the private sector following suit, given the tight labour market.
+	and they also warned of the danger of the private sector following suit given the tight labour market
+006710227	Alternative routes are in place to divert Internet traffic if one part of the network is cut off.
+	alternative routes are in place to divert Internet traffic if one part of the network is cut off
+006710228	Here, the goal is to make public transport a choice mode, rather than a mode of no choice.
+	here the goal is to make public transport A choice mode rather than A mode of no choice
+006710229	And he said that Christians have also played a key role helping Singapore maintain racial and religious harmony.
+	and he said that Christians have also played A key role helping Singapore maintain <SPK/> racial and religious harmony
+006710230	Never mind that significant progress has been made through schemes that promote flexible working arrangements in local companies.
+	never mind that significant progress has been made through schemes that promote flexible working arrangements in local companies
+006710231	As you can see clearly, crime rate hasn't actually gone down that obviously.
+	as you can see clearly crime rate hasn't actually gone down that obviously
+006710232	If you're still fit and able to contribute, growing old can be fulfilling.
+	if you're still fit and able to contribute growing old can be fulfilling
+006710233	I want to create art with my experience to encourage discussion and contemplation.
+	I want to create art with my experience to encourage discussion and contemplation
+006710234	Every country, large or small, developed or developing, has a part to play.
+	every country large or small developed or developing has A part to play
+006710235	Among other things, the range of flats available on the market has widened.
+	among other things the range of flats available on the market has widened
+006710236	Everyone thinks the trades here are in decline, but that is not true.
+	everyone thinks the trades here are in decline but IT is not true
+006710237	As the lift was moving up, he saw a ghastly figure that kept appearing on the other side of the window.
+	as the lift was moving up he saw A ghastly figure that kept appearing on the other side of the window
+006710239	Another member who was present at the meeting felt the atmosphere of the club was changing.
+	another member who was present at the meeting felt the atmosphere of the club was changing
+006710240	He knew how to put me at ease.
+	he knew how to put me at ease
+006710241	She had accepted his friend request through Facebook as she badly needed someone to talk to.
+	she had accepted his friend request through Facebook as she badly needed someone to talk to
+006710242	It will run through the town centre and housing developments along it, including the upcoming one.
+	I will run through the Town centre and housing developments along IT including the upcoming one
+006710243	However, is probably fair to say that not everyone is familiar with what's on the record.
+	however is probably fair to say that not everyone is familiar with what's on the record
+006710244	Her family does not let them do so unless they are accompanied, lest they fall down.
+	her family does not let them do so unless they are accompanied lest they fall down
+006710246	The sea of sameness continues to erode the impact that new models have on the market.
+	the sea of sameness continues to erode the impact that new models have on the market
+006710247	After he returned home from the hospital, he refused to eat and was reluctant to do his daily exercises.
+	after he returned home from the hospital he refused to eat and was reluctant to do his daily exercises
+006710248	His view was that the entire affair was more a political exercise than an academic search for the truth.
+	his view was that the entire affair was more A political exercise than an A academic search for the truth
+006710249	Currently, investors in Singapore have to trade through a broker who has an account opened with a Malaysian broker.
+	currently investors in Singapore have to trade through A broker who has an account opened with an A Malaysian broker
+006710250	As such, some schools use them to develop leadership qualities for selected groups of students, such as student leaders.
+	as such some schools use them to develop leadership qualities for selected groups of students such as student leaders
+006710251	He insists that home cooks make a recipe at least once and preferably twice exactly as it is written.
+	he insists that home cooks make A recipe at least once and preferably twice exactly as IT is written
+006710253	And even with power not everything desirable will always be feasible.
+	and even with power not everything desirable will always be feasible
+006710254	I did a quick and unscientific check of my own recently.
+	I did A quick and unscientific check of my own recently
+006710255	Again, there is no hard and fast rule to this question.
+	again there is no hard and fast rule to this question
+006710256	The rest of her estate went to her doctor and nephew.
+	the rest of her estate went to her doctor and nephew
+006710257	The questions he raised and the solutions he offered are invaluable.
+	the questions he raised and the solutions he <NON/> offered are invaluable
+006710258	I think finding potential directors is not going to be difficult.
+	I think finding potential directors is not going to be difficult
+006710259	It could also exhaust itself to death searching for its family.
+	IT could also exhaust itself to death searching for its family
+006710260	So it's your chance to try these games before anybody else.
+	so it's your chance to try these games before anybody else
+006710262	As long as there's conviction from the top, it should happen.
+	as long as there's conviction from the top IT should happen
+006710263	But add a handwritten note to the gift so there is a personal touch.
+	but add A handwritten note to the gift so there is A personal touch
+006710264	Here are more reasons why a zombie race beat a regular one hands down.
+	here are more reasons why A zombie race beat A regular one hands down
+006710265	She also claimed that the husky was purchased as an investment and intended as a show dog.
+	she also claimed that the husky was purchased as an investment and intended as A show dog
+006710267	The restaurant's management spends a lot of time sitting down with the staff to emphasise this point.
+	the restaurant's management spends A lot of time sitting down with the staff to emphasise this point
+006710268	For example, Prof Yap made an effort to remember an interesting fact about everyone she worked with.
+	for example Prof yap made an effort to remember an interesting fact about everyone she worked with
+006710269	In its statement, the police advised members of the public to be careful when befriending strangers online.
+	in its statement the Police advised members of the public to be careful when befriending with strangers online
+006710270	But the teller looked at the computer screen and went into an office without telling me why.
+	but the teller looked at the computer screen and went into an office <SPK/> without telling me why
+006710271	But I wasn't so much upset that my son was hit as concerned about the teacher's behaviour.
+	but I wasn't so much upset that my son was hit as concerned about the teacher's behaviour
+006710273	Had the maintenance work been done, the pumps would have been activated as required as part of the maintenance procedure.
+	had the maintenance work been done the pumps would have been activated as required as part of the maintenance procedure
+006710274	I wanted to send him off.
+	I wanted to send him off
+006710275	But we also love him unconditionally.
+	but we also love him unconditionally
+006710276	Eight of them have since died.
+	eight of them have since died
+006710277	Indeed, if we all showed a little kindness, helpfulness and consideration on the road, we'll all be good.
+	indeed if we all showed A little kindness helpfulness and consideration on the road we'll all be good
+006710278	I didn't even receive a government scholarship to continue my studies at a Korean university.
+	I didn't even receive A government scholarship to continue my studies at A Korean university
+006710280	He was barred from contesting in the previous two general elections due to the charge.
+	he was barred from contesting in the previous two general elections due to the charge
+006710283	Singapore's authorities were not too cool with the book.
+	Singapore's authorities were not too cool with the book
+006710284	But the proposal has been rejected, and the existing system of quotas on specific business sectors will continue.
+	but the proposal has been rejected and the existing system of quotas on specific business sectors will continue
+006710285	Singapore was not alone in its youth population not being as optimistic about future prospects.
+	Singapore was not alone in its youth population not being as optimistic about future prospects
+006710286	According to earlier reports, he had planned to use the proceeds to buy a home with his fiancee.
+	according to earlier reports he had planned to use the proceeds to buy A home with his fiancee
+006710287	From there I learnt that sterilisation is very important.
+	from there I learnt that sterilisation is very important
+006710288	But at the same time, all her professional accomplishments aside, Tan's relatives say she was giving beyond compare.
+	but at the same time all her professional accomplishments aside Tan's relatives say she was giving beyond compare
+006710289	Many generations, many older Singaporeans built what we have.
+	many generations many older Singaporeans built what we have
+006710290	He said she seldom spoke Mandarin, despite being able to understand the language quite well.
+	he said she seldom spoke Mandarin despite being able to understand the language quite well
+006710291	Building up its defence capabilities is an important part of the equation.
+	building up its defence ** is an important part of the equation
+006710292	And supplements, while helpful, may not be absorbed by the body as well as nutrients from natural food.
+	and supplements while helpful may not be absorbed by the body as well as nutrition <SPK/> from natural food
+006710294	Many parents choose to save for their children’s education through endowment plans.
+	many parents choose to save for their children's education through endowment plans
+006710295	Or being last to the party.
+	or being last to the party
+006710296	I'm a premium customer in a couple of banks.
+	I'm A premium customer in A couple of banks
+006710297	Despite this, change is barely visible on the ground.
+	despite this change is barely visible on the ground
+006710298	Our plan is to be disruptive.
+	our plan is to be disruptive
+006710299	It will be a long but rewarding journey as we strive to further enhance the standards of Singapore football.
+	IT will be A long but rewarding journey as we strive to further enhance the standards of Singapore football
+006710300	A training programme he plans to implement across all departments includes lessons on how to take photographs for visitors.
+	A training programme he plans to implement across all departments includes lessons on how to take photographs for visitors
+006710301	Throughout her career, she has developed a profound understanding of digital audiences and how to build businesses around them.
+	throughout her career she has developed A profound understanding of digital audiences and how to build businesses around them
+006710302	He added that the ministry will continue to engage stakeholders and closely monitor the implementation of the new law.
+	he added that the ministry will continue to engage stakeholders and closely monitor the implementation of the new law
+006710303	A festival should not be judged by the size of the turnout, but by the hearts that it ignited.
+	A festival should not be judged by the size of the turnout but by the hearts IT ignited
+006710304	And the driver doesn't get booking fee either, why would I go through the trouble of pairing with you.
+	and the driver doesn't get booking fee either why would I go through the trouble of pairing with you
+006710305	And officials would need to drop an old habit of letting prices boom whenever the economy needs a boost.
+	and officials would need to drop an old habit of letting prices boom whenever the economy needs A boost
+006710306	I mean, we can't actually fly on broomsticks and chase after balls that roam on their own, can we?
+	I mean we can't actually fly on broomsticks and chase after balls that roam on their own can we
+006710307	It also added that the company is currently investigating this incident as a possible lightning strike.
+	IT also added that the company is currently investigating this incident as possible lightning strike
+006710308	Coupled with more developmental programmes, this shows social workers there is a career pathway for them.
+	coupled with more developmental programmes this shows social workers there is A career pathway for them
+006710309	The centre will hold special classes during curriculum time, as well as school events and functions.
+	the centre will hold special classes during curriculum time as well as school events and functions
+006710310	I have many residents who live in private estates who are asset rich but cash poor.
+	I have many residents who live in private estates who are asset rich but cash poor
+006710311	He prepared himself for the competition by familiarising himself with the software and taking sample tests.
+	he prepared himself for the competition by familiarising himself with the software and taking sample tests
+006710313	My dad promised me that we will go and watch this match if I studied hard.
+	my dad promised me that we will go and watch this match if did I studied hard
+006710314	Nobody realises they're there, but they have to train hard for their roles.
+	nobody realises they're there but they have to train hard for their roles
+006710315	The story is and will be about US monetary policy and dollar direction.
+	the story is and will be about U S monetary policy and dollar direction
+006710316	After about five minutes, he heard a choking sound coming from the room.
+	after about five minutes he heard A choking sound coming from the room
+006710317	An assessment will be carried out after it is removed from the gate.
+	an Assessment will be carried out after IT is removed from the gate
+006710318	Disbursements were entered into the system by an officer without any independent checks.
+	disbursements were entered into an the system by an officer without any independent checks
+006710319	But he pointed out that the ones who perform well earn good money.
+	but he pointed out that the ones who perform well earn good money
+006710320	Is a way of upholding the values of our community and our culture.
+	is A way of upholding the values of our community and our culture
+006710321	As for the individuals involved in the bribery scheme, investigations are still ongoing.
+	as for the individuals involved in the bribery scheme <SPK/> investigations are still ongoing
+006710322	Also, no more tomato ketchup as a bottle takes months to use up.
+	also no more Tomato Ketchup as A bottle takes months to use up
+006710323	And like plants, we all reach maturity at different times.
+	and like plants we all reach maturity at different times
+006710324	But most caught begging have homes to go back to.
+	but most caught begging have homes to go back to
+006710325	But Tan suffered tears to the skin on his soles of his feet as a result of the prolonged walking.
+	but Tan suffered tears to the skin on his soles of his feet as A result of the prolonged <SPK/> walking
+006710326	Can you just smell the holiday spirit in the air?
+	can you just smell the holiday spirit in the air
+006710327	But there will sometimes be one or two artists performing.
+	but there will sometimes be one or two artists performing
+006710329	Fourteen other charges will be considered when he is sentenced.
+	fourteen other charges will be considered when if he is sentenced
+006710330	Also, there was no incentive to keep using it, and the excitement of tracking my expenses fizzled out pretty quickly.
+	also there was no incentive to keep using IT and the excitement of tracking my expenses fizzled out pretty quickly
+006710331	Now, expectations are for not less than half that projection.
+	now expectations are for not less than half that projection
+006710333	His condition did not improve, but worsened during the hospitalisation.
+	his condition did not improve but worsened during the hospitalisation
+006710335	Lost quite a number of votes, and dropped one place.
+	lost quite A number of votes and dropped one place
+006710337	It appeared that the sole purpose of the applications was to try and delay the execution which had been set.
+	IT appeared that the sole purpose of the applications was to try and delay the execution which has been set
+006710338	Be less controlling about what goes out in the media.
+	be less controlling about what goes out in the media
+006710339	But he ran past me, she recalls with a laugh.
+	but he ran past me he recalls with A laugh
+006710340	He said Cornell wife and family were shocked by it.
+	he said Cornell wife and family were shocked by IT
+006710341	Government aims to issue rules by middle of this year.
+	government aims to issue rules by middle of this year
+006710342	He also thanked everyone who donated to support Lee's family.
+	he also thanked everyone who donated to support Lee's family
+006710344	But it does have pockets of nature that are thriving.
+	but IT does have pockets of nature that are thriving
+006710345	It had a deputy and an assistant finance manager, but the latter left the position last month.
+	IT had A deputy and an assistant finance manager but the latter <SPK/> left the position last month
+006710346	After over five decades of prominence in Singapore, Lee ultimately had nothing left to prove to anyone.
+	after over five decades of prominence in Singapore lee ultimately had nothing left to prove to anyone
+006710347	He said that as close neighbours, there will always be ups and downs in the bilateral relationship.
+	he said that as close neighbours there will always be ups and downs in the bilateral relationship
+006710349	It gives us comfort to know that there are specially trained people to attend to my mother.
+	IT gives us comfort to know that there are specially trained people to attend to my mother
+006710350	A few days before Christmas last month, I had torn a tendon under the most ridiculous circumstances.
+	A few days before Christmas last month I had torn A tendon under the most ridiculous <SPK/> circumstances
+006710351	Experts say that consumers should be extra vigilant about the content they access on their mobile phone.
+	experts say that consumers should be extra vigilant about the content they access on their mobile phone
+006710352	Our biggest advantage is to be able to market our project as a Canadian source of supply.
+	our biggest advantage is able to market our project as A Canadian source of supply
+006710353	As he was drinking, he spotted the boy, who cannot be named as he is a minor.
+	as he was drinking he spotted the boy who cannot be named as he is A minor
+006710354	The fieldwork was undertaken in all markets between March and last month this year.
+	the fieldwork was undertaken in all markets between March and last month this year
+006710355	He declines but I take a bite.
+	he declines but I take A bite
+006710357	In addition, customers don't have to wait long periods of time for incoming shipments.
+	in addition customers don't have to wait long periods of time for incoming shipments
+006710358	Could it be an issue of trust?
+	could IT be an issue of trust
+006710359	The data is usually only updated several weeks after each Parliament session is over.
+	the data was usually only updated several weeks after each parliament session is over
+006710360	He said the deal will transform the company into a stronger, more streamlined business.
+	he said the deal will transform the company into A stronger more streamlined business
+006710361	It is a virtuous cycle of growth.
+	IT is A virtuous cycle of growth
+006710362	Since then, he has used his page to regularly update Singaporeans on his activities.
+	since then he has used his page to regularly update Singaporeans on his activities
+006710363	He's a great player and a great athlete and has been playing well recently.
+	he's A great player and A great athlete and has been playing well ** recently
+006710364	Bad for you if it's a loan.
+	bad for you if it's A loan
+006710365	For animals without arms and legs, it's amazing how successful and widespread they are.
+	for animals without arms and legs it's amazing how successful and widespread they are
+006710366	Eh, who are you to tell me?
+	eh who are you to tell me
+006710367	And my answer is, well, he's right.
+	and my answer is well he's right
+006710368	The figures will reflect the strength of the economy as the quarter winds down.
+	the figures will reflect the strength of the economy as the quarter winds down
+006710369	The stock market plunge caused by the jump in yields has been the trigger.
+	the stock market plunge caused by the jump in yields has been the trigger
+006710370	The Chinese and Indians are also here.
+	the Chinese and Indians are also here
+006710371	He then saw that water had leaked onto the entire floor of the restaurant.
+	he then saw that water had leaked onto the entire floor of the restaurant
+006710373	Check out the full film online here.
+	check out the full film online here
+006710374	A social enterprise is not a charity.
+	A social enterprise is not A charity
+006710375	I went to the venue a day in advance to rehearse for the shoot.
+	I went to the venue A day in advance to rehearse for the shoot
+006710377	I sincerely hope that the multilateral trading system would be maintained in coming years.
+	I sincerely hope that the multilateral trading system would be maintained in coming years
+006710378	He also shouted for help while checking the rooms of his mother and brother.
+	he also shouted for help while checking the rooms of his mother and brother
+006710380	That would phase out over three years starting in year six, rather than be permanent as initially proposed.
+	that would phase out over three years starting in year six rather than to be permanent as initially proposed
+006710382	Employment opportunities for the retrenched, and helping the elderly age with dignity and as few worries as possible.
+	employment opportunities for the retrenched and helping the elderly age with dignity and as few worries as possible
+006710384	He speaks about this calmly, not in the fiery manner in which some others on the scene do.
+	he speaks about this calmly not in the fiery manner in which some others on the scene do
+006710385	Dr Nair said it is far from easy for unmarried women to walk out of their abusive relationships.
+	doctor Nair said IT is far from easy for unmarried woman to walk out of their abusive relationships
+006710386	For family members to lose their home, after losing their loved one, would be too heartbreaking to bear.
+	for family members to lose their home after losing their loved one would be too heartbreaking to bear
+006710387	The landmark policy revision, the first in a decade, will start with students graduating in June this year.
+	the landmark policy revision the first in A decade will start with students graduating in June this year
+006710388	It would take some time for the positive economic outlook to translate to job volume and construction contracts.
+	IT would take some time for the positive economic outlook to translate to job volume and construction contracts
+006710389	And there are certain experiences that I hold as a mom, as a Christian, as a social entrepreneur.
+	and there are certain experiences that I hold as A mom as A Christian as A social entrepreneur
+006710390	Especially so, considering the fact that all the ministers on the ministerial committee eventually still report to him.
+	especially so considering the fact that all the ministers on the ministerial committee eventually still report to him
+006710392	An event can be important, or resonate strongly with an individual, although that person is not directly affected.
+	an event can be important or resonate strongly with an individual although that person is not directly affected
+006710393	But it fell in a storm, not from rot or decay.
+	but IT fell in A storm not from rot or decay
+006710394	But it is not about turning away from palm oil completely.
+	but IT is not about turning away from palm oil completely
+006710395	Doing so would only be a waste of time and energy.
+	doing so would only be A waste of time and energy
+006710398	To catch a thief, you need to out the culprit first.
+	to catch A thief you need to out the culprit first
+006710399	He was always so supportive of whatever I chose to do.
+	he was always so supportive of whatever I chose to do
+006710400	At least two households have moved out because of the noise.
+	at least two households have moved out because of the noise

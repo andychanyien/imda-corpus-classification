@@ -1,0 +1,790 @@
+﻿006810001	Mary and her family were moving to another city.
+	Mary and her family were moving to another city
+006810002	With the movers hired to settle the rest of their luggage and furniture, they decided to take a short tour first of the harbour that was near their new home.
+	with the movers hired to settle the rest of their luggage and furniture <SPK/> they decided to take A short tour first of the harbour that was near their new home
+006810003	They brought some clothes and three days’ worth of food and water in their car.
+	they brought some clothes and three days' worth of food and water in their car <NON/>
+006810004	On the way to their destination, they drove past a hill that overlooked vast fields of sunflowers.
+	on the way to their destination they drove past A hill that overlooked vast fields of sunflowers
+006810006	When they reached, they saw a huge tree and sat beneath the foliage.
+	when they reached they saw A huge tree and sat beneath the foliage
+006810007	They fed their hungry stomachs with the egg and ham sandwiches that Mary’s mother had made.
+	they fed their hungry stomachs with the egg and Ham Sandwiches that Mary's mother had made
+006810008	After their satisfying lunch, the family took a nap with the grass as their bed.
+	after their satisfying lunch the family took A nap with the grass as their bed
+006810009	When they woke up from their rest, it was already mid-afternoon.
+	when they woke up from their rest IT was already mid afternoon
+006810010	As they walked back, they were shocked to see a pack of stray dogs circling around the car.
+	as they walked back they were shocked to see A pack of stray dogs circling around the car
+006810011	It seemed that they had smelt the food that were left in the boot.
+	IT seemed that they had smelt the food that were left in the boot
+006810012	Just as they were trying to find a tool or two that they could use to fend off the dogs, one of the dogs spotted them.
+	just as they were trying to find A tool or two that they could use to fend off the dogs one of the dogs spotted them
+006810013	Soon, the menacing pack began to approach the poor outnumbered family.
+	soon the menacing pack began to approach the poor outnumbered family
+006810014	Afraid of getting bitten, Mary hid behind her father and screamed, while he threw rocks in an attempt to scare them away.
+	afraid of getting bitten Mary hid behind her father and screamed while he threw rocks in an attempt to scare them away
+006810015	Suddenly, a gun shot was fired from a distance, which sent the dogs fleeing in an instant.
+	suddenly A gun shot was fired from A distance which sent the dogs fleeing in an instant
+006810016	An old man who was putting down his gun appeared from the sunflower fields and hurried the shaken family to be on their way before the dogs return.
+	an old man who was putting down his gun appeared from the sunflower fields and hurried the shaken family to be on their way before the dogs return
+006810017	He told them that it was rare for tourists to make a stop at this area.
+	<NON/> he told them that IT was rare for tourists to make A stop at this area <NON/>
+006810018	Mary’s father thanked the old man and passed him an untouched box of sandwiches.
+	Mary's father thanked the old man and passed him an untouched box of sandwiches
+006810019	Finally, they went back to their car and their hearts ached upon seeing the visible scratches and bite marks that had been inflicted.
+	finally they went back to their car and their hearts ached upon seeing the visible scratches and bite marks that had been inflicted
+006810020	Mary fell asleep on her mother’s lap, beat from the whole ordeal.
+	Mary fell asleep on her mother's lap beat from the whole ordeal
+006810021	I was the third one to perform.
+	I was the third one to perform
+006810022	We watched the drama unfold before our eyes.
+	we watched the drama unfold before our eyes
+006810023	I felt happy upon hearing the good news from my parents.
+	I felt happy upon hearing the good news from my parents
+006810024	Flourless cakes are not always better for health.
+	Flourless Cakes are not always better for health
+006810025	You can bake shortbread cookies just with sugar, butter, and flour.
+	you can bake Shortbread Cookies with just sugar butter and flour
+006810027	I attached a mirror to my closet door.
+	I attached A mirror to my closet door
+006810028	Something seems to be bothering him.
+	something seems to be bothering him
+006810029	He was the president of the dance club in my school.
+	he was the president of the dance club in my school
+006810030	After a hot day, all I want to do is take a bath.
+	after A hot day all I want to do is take A bath
+006810031	The thief was careful to not leave his tracks in the snow.
+	the thief was careful to not leave his tracks in the snow
+006810032	She browsed through the catalogues while waiting for her turn.
+	she browsed through the catalogues while waiting for her turn
+006810033	It’s a little cruel to be so blunt but that’s the working world for you.
+	it's A little cruel to be so blunt but that's working the world for you
+006810034	He thought he’s brave for saying the truth but he’s actually just adding fuel to the fire.
+	he thought he's brave for saying the truth but he's actually just adding fuel to the fire
+006810035	I think I’ll make a move first.
+	I think I'll make A move first
+006810036	I believe that visitation hours are over.
+	I believe that visitation hours are over
+006810037	We now have to walk twenty minutes farther just to get a cup of coffee.
+	we now have to walk twenty minutes farther just to get A cup of coffee
+006810038	This is your last chance to join the lucky draw!
+	this is your last chance to join the lucky draw
+006810039	Everyone’s hoping to find the cure for cancer.
+	everyone's hoping to find the cure for cancer
+006810040	He became very fit ever since his break-up last year.
+	he became very fit ever since his break up last year
+006810041	I need your help.
+	I need your help
+006810042	I live in Singapore.
+	I live in Singapore
+006810043	She always keeps her desk neat and tidy.
+	she always keeps her desk neat and tidy
+006810044	The pot calls the kettle black.
+	the pot calls the kettle black
+006810045	She is a deep sleeper.
+	she is A deep sleeper
+006810046	He is a real nit-picker.
+	he is A real nit picker
+006810047	The watermelon has ripened.
+	the watermelon has ripened
+006810048	After driving for ten years, her car is still in tip-top condition.
+	after driving for ten years her car is still in tip top condition
+006810049	My father fired the star worker.
+	my father hi fired the star worker
+006810050	The children wipe their noses on the towel.
+	the children wipe their noses on the towel
+006810051	Water drips from the cracks.
+	water drips from the cracks
+006810052	Our sports teams have achieved remarkable feats this year.
+	our sports teams have achieved remarkable feats this year
+006810053	Tell him to zip his lip.
+	tell him to zip his lip
+006810054	I like listening to rap.
+	I Like listening to rap
+006810055	Mozart composed great music pieces.
+	Mozart composed great music pieces
+006810057	The witch put a spell on the prince, but it was the wrong one.
+	the witch put A spell on the prince but IT was the wrong one
+006810058	A murder had already been plotted a month ago.
+	A murder had already been plotted A month ago
+006810059	I had a lot of questions about the assignment.
+	I had A lot of questions about the assignment
+006810060	Hold your bat steady and focus your eyes on the ball.
+	hold your bat steady and focus your eyes on the ball
+006810061	Polar bears are on the brink of extinction.
+	Polar Bears are on the brink of extinction
+006810062	Sakura flowers bloom around April.
+	Sakura Flowers bloom around April
+006810063	Rubber boots are not popular in Singapore despite our rainy weather.
+	rubber boots are not popular in Singapore despite our rainy weather
+006810064	The butler poured the guest a glass of water.
+	the butler poured the ** guest A glass of water
+006810065	The criminal paid a heavy price for his crime.
+	the criminal paid A heavy price for his crime
+006810066	You can’t compare apples to oranges.
+	you can't compare apples to oranges
+006810067	Let’s dissect this problem part by part.
+	let's dissect this problem part by part
+006810068	There’s something about hotel beds that makes them extra cosy.
+	there's something about hotels beds that makes them extra cosy
+006810069	Birds have been found to be our modern-day dinosaurs.
+	birds have been found to be our modern day dinosaurs
+006810070	She scooped herself a big bowl of corn soup.
+	she scooped herself A big bowl of Corn Soup
+006810071	The fly was caught in the spider’s web.
+	the fly was caught in the spider's web
+006810072	Fresh graduates are always anxious about their first job.
+	fresh graduates are always anxious about their first job
+006810073	There is speculation that a housing bubble may occur.
+	there is speculation that A housing bubble may occur
+006810074	Rising college debt has been a widely discussed matter.
+	rising college debt has been A widely discussed matter
+006810075	Chilli crab is a famous dish in Singapore.
+	Chilli Crab is A famous dish in Singapore
+006810076	His flexible thinking led him to solve a number of the world’s hardest math problems.
+	his flexible thinking led him to solve A number of the world's hardest math problems
+006810077	To get better at maths, practise more.
+	to get better at maths practise more
+006810078	A child prodigy, James eventually became a respected judge.
+	A child prodigy James eventually became A respected judge
+006810079	Many beautiful dresses were showcased at the gala.
+	many beautiful dresses were showcased at the gala
+006810080	Some cuddling could cheer her up.
+	some cuddling could cheer her up
+006810081	The land’s deed was sold to the old lady.
+	the land's deed was sold to the old lady
+006810082	The coach trained the young gymnast twice as hard as the competition neared.
+	the coach trained the young gymnast twice as hard as the competition neared
+006810083	I dreamt of becoming a doctor when I was a child.
+	I dreamt of becoming A doctor when I was A child
+006810084	Twins often have a unique chemistry with each other.
+	twins often have A unique chemistry with each other
+006810085	It is more important to study smart than to study hard.
+	IT is more important to study smart than to study hard
+006810086	The oak tree stood strong against the test of time.
+	the oak tree stood strong against the test of time
+006810087	The baker used a whole block of butter for this recipe.
+	the baker used A whole block of butter for this recipe
+006810088	He did not have much, but he had a kind and loving heart.
+	he did not have much but he had A kind and loving heart
+006810089	The clever and amazing use of lighting made the musical performance a truly magical one.
+	the clever and amazing use of lighting made the musical performance A truly magical one
+006810090	It was a miracle that he recovered from his life-threatening accident.
+	IT was A miracle that he recovered from his life threatening accident
+006810091	They tried to keep it a secret, but he was able to figure everything out.
+	they tried to keep IT A secret but he was able to figure everything out
+006810092	In this game, you must escape from ghosts and zombies while finding the way out from the foggy maze.
+	in this game you must escape from the ghosts and zombies while finding the way out from the foggy maze
+006810093	She lazed her whole morning away on a deck chair by the beach.
+	she lazed her whole morning away on A deck chair by the beach
+006810094	There was a switch in the venue for the football match.
+	there was A switch in the venue for the football match
+006810095	Most youths today think that their future is uncertain.
+	most youths today think that their future is uncertain
+006810096	The couple went on an enriching adventure together.
+	the couple went on an enriching adventure together
+006810097	The butcher was also a skilled cook in the kitchen.
+	the butcher was also A skilled cook in the kitchen
+006810098	The girl’s experiences gave her an edge over her peers of the same age.
+	the girl's experiences gave her an edge over her peers of the same age
+006810099	This kind of packaging can pose a danger to animals.
+	this kind of packaging can pose A danger to the animals
+006810100	The student skated onto the stage to receive his certificate
+	the student skated onto the stage to receive his certificate
+006810101	And let the children decide what they really want to say.
+	and let the children decide what they really want to say
+006810102	But they will name their child only after someone who has died.
+	but they will name their child only after someone who has died
+006810103	Even if you don't read these magazines, you've probably seen her work.
+	even if you don't read these magazines you've probably seen her work
+006810104	Because you know, the entire school is pretty much their home.
+	because you know the entire school is pretty much their home
+006810105	If they can't come here, where can they go to?
+	if they can't come here where can they go to
+006810106	A few days later, he would move them around again.
+	A few days later he would move them around again
+006810107	But of course there is no such thing as a free meal.
+	but of course there is no such thing as A free meal
+006810108	At the same time, employers must value staff and develop them to take on higher responsibilities.
+	at the same time employers must value staff and develop them to take on higher responsibilities
+006810109	And when this happens despite the safeguards, the Government should provide financial support.
+	and when this happens despite the safeguards the government should provide financial support
+006810110	As the matter is now under police investigation, it is not appropriate to comment further.
+	as the matter is now under Police investigation IT is not appropriate to comment further
+006810111	But for the drivers, it's difficult.
+	but for the drivers IT is difficult
+006810112	And they fly too close to the sun.
+	and they fly too close to The Sun
+006810113	How many times was it said?
+	how many times was IT said
+006810114	In fact, do not expect to go through any tunnels at all.
+	in fact do not expect to go through any tunnels at all
+006810115	More details will be revealed in the next two to three months.
+	more details will be revealed in the next two to three months
+006810116	After all, he doesn't have kids.
+	after all he doesn't have kids
+006810117	For example, Despite the cost of living, have you noticed how it remains so popular?
+	for example despite the cost of living have you noticed how IT remains so popular
+006810118	I believe most Singaporeans support the and prefer the current situation to four years ago.
+	I believe most Singaporeans support the and prefer the current situation to four years ago
+006810119	By trying to be something to everyone, you may end up being nothing to anyone.
+	by trying to be something to everyone you may end up being nothing to anyone
+006810120	He continued to teach us lessons in life even in his later years.
+	he continued to teach us life lessons in life even in his later years
+006810121	Mr Lee then learnt to read on his own.
+	Mister lee then learnt to read on his own
+006810122	He added that it will alleviate the need for high numbers of foreign labour in the long run.
+	he added that IT will alleviate the need for high numbers of foreign labour in the long run
+006810123	He was able to see and position Singapore several steps ahead of the others.
+	he was able to see and position Singapore several steps ahead of the others
+006810124	It has caused major impact on the health, society and economy of our region.
+	IT has caused major impact on the health society and economy of our region
+006810125	Both are also popular within the party.
+	both are also popular within the party
+006810126	The number of men involved in the robberies have gone down though.
+	the number of men involved in the robberies have gone down though
+006810127	He raised his arm to protect himself, but did not fight back.
+	he raised his arm to protect himself but did not fight back
+006810128	A trial date is expected to be set and it could start as early as next week.
+	A trial date is expected to ** be set and IT could start as early as next week
+006810129	He also stressed the need to avoid the money politics seen in many countries, where money changes hands for votes.
+	he also stressed the need to avoid the money politics seen in many countries where money changes hands for votes
+006810130	I think quite a lot of students will be interested.
+	I think quite A lot of students will be interested
+006810131	We are open to anything.
+	we are open to anything
+006810132	I don't feel that there's a difference in terms of social community if you add public housing there.
+	I don't feel that there's A difference in terms of social community if you add public housing there
+006810133	A commentary on why Singapore should look to space for more economic opportunities.
+	A commentary on why Singapore should look to space for more economic opportunities
+006810134	But the growth will not be without risk.
+	but the growth will not be without risk
+006810135	We have the opportunity to continue our learning.
+	we have the opportunity to continue our learning
+006810136	But does not go to sleep just yet.
+	but does not go to sleep just yet
+006810137	But efforts were taken to protect the environment.
+	but efforts were taken to protect the environment
+006810138	I have tried my level best to put everything in place.
+	I have tried my level best to put everything in place
+006810139	Chinese workers are also more likely to be paid in cash.
+	Chinese workers are also more likely to be paid in cash
+006810141	At this point, I am going to focus on putting food on the table.
+	at this point I am going to focus on putting food on the table
+006810142	I'm not so sure we can just brush aside six minutes just like that.
+	I'm not so sure we can just brush aside six minutes just like that
+006810143	Here are five things about what he said that you're better off not knowing.
+	here are five things about what he said that you're better off not knowing
+006810144	And he says last night at the rally, even good people make mistakes, you must give them a second chance.
+	and he says last night at the rally even good people make mistakes you must give them A second chance
+006810145	And there cannot be too far a gap between a law and what people want.
+	and there cannot be too far A gap between A law and what people want
+006810146	I'll keep it on the boil for as long as I live.
+	I'll keep IT on the boil for as long as I live
+006810147	I have no inside information on whether that is true or not, but it's possible.
+	I have no inside information on whether that is true or not but it's possible
+006810148	After speaking to him, she told me and my wife what happened.
+	after speaking to him she told me and my wife what happened
+006810149	Do you find this is necessary?
+	do you find this is necessary
+006810150	At first she didn't understand it.
+	at first she didn't understand IT
+006810151	And that's the problem right there.
+	and that's the problem right there
+006810152	So he began building his own.
+	so he began building his own
+006810153	After making his case for the past, he looked towards the future.
+	after making his case for the past he looked towards the future
+006810154	I had never done it before.
+	I had never done IT before
+006810155	But we won't know until the policy issues are discussed and settled.
+	but we won't know until the policy issues are discussed and settled
+006810156	My children have been looking forward to this event.
+	my children have been looking forward to this event
+006810157	Being in a new place however, allowed me to find new local ways to have fun with people.
+	being in A new place however allowed me to find new local ways to have fun with people
+006810158	But every Singaporean also has a role to play.
+	but every Singaporean also has A role to play
+006810159	Many of them hope to speak up for the groups they represent.
+	many of them hope to speak up for the groups they represent
+006810160	Nevertheless, infrastructure is an issue that the government needs to work on.
+	nevertheless infrastructure is an issue that the government needs to work on
+006810161	He added that measures to help employees return to work earlier will also be implemented.
+	he added that measures to help employees return to work earlier will also be implemented
+006810162	But we are not ashamed to tell people about our team members.
+	but we are not ashamed to tell people about our Team Members
+006810163	I want to try doing a project which will benefit more people.
+	I want to try doing A project which will benefit more people
+006810164	And Singapore companies, by that time, had some experience working overseas already.
+	and Singapore companies by that time had some experience working overseas already
+006810165	If we had stayed out for another half an hour, we might have got caught in the whole thing.
+	if we had stayed out for another half an hour we might have got caught in the whole thing
+006810166	If they can share services, they can share resources, all these will bring down their cost.
+	if they can share services they can share resources all these will bring down their cost
+006810167	It's not that it's dangerous, you just have to be a bit careful.
+	it's not that it's dangerous you just have to be A bit careful
+006810168	For them, this new market could be a way to regain lost ground.
+	for them this new market could be A way to regain lost ground
+006810169	This makes sense because defence is a very important part of our nation.
+	this makes sense because defence is A very important part of our nation
+006810170	For some of us, that answer is still relevant now.
+	for some of us that answer is still relevant now
+006810171	The area is also at an early stage of development.
+	the area is also at an early stage of development
+006810172	It gives me less to think about.
+	IT gives me less to think about
+006810173	For people lucky enough to have friends.
+	for people lucky enough to have friends
+006810174	He also left his personal contact number.
+	he also left his personal contact number
+006810175	I asked for time to improve on the results and was given three months.
+	I asked for time to improve on the results and was given three months
+006810176	The bad news would be for commuters.
+	the bad news would be for the commuters
+006810177	After all, the eyes are as much on them as the main show itself.
+	after all the eyes are as much on them as the main show itself
+006810178	Being able to do so will be another small step on Singapore's road to a more productive future.
+	being able to do so will be another small step on Singapore's road to A more productive future
+006810179	All parents should also spend quality and quantity time with their children to build good relationships with them.
+	all parents should also spend quality and quantity time with their children to build good relationships with them
+006810180	If driving is expensive, even if ownership is not, people will choose to use other means of transport.
+	if driving is expensive even if ownership is not people will choose to use other means of transport
+006810181	The victim took the opportunity to leave the hotel room and made a police report that same morning.
+	the victim took the opportunity to leave the hotel room and made A Police report that same morning
+006810182	But the other part is helping workers to access such jobs.
+	but the other part is helping workers to access ** jobs
+006810183	How does Singapore sell herself to the rest of the world?
+	how does Singapore sell herself <SPK/> to the rest of the world
+006810184	In other words, I did have a heads up that may be a short term.
+	in other words I did have A heads up that may be A short term
+006810185	I was thinking to marry both my love for sports and my love for kids.
+	I was thinking to marry both my love for sports and my love for the kids
+006810186	I've been talking about this a long time, a lot longer than my political career.
+	I've been talking about this A long time A lot longer than my political career
+006810187	At a time when businesses are generally going through challenges, how have you been affected?
+	at A time when businesses are generally going through challenges how have you been affected
+006810188	I gave my card to her mother and I remember the look on her face.
+	I gave my card to her mother and I remember the look on her face
+006810189	If we continue to encourage that, more and more residents will be willing to participate.
+	if we continue to encourage that more and more residents will be willing to participate
+006810190	A company, for example, can be successful only if it is innovative and makes its products special to customers.
+	A company for example can be successful only if IT is innovative and makes its products special to customers
+006810191	If the community is not aware of psychiatric conditions, they may think that they can cope with these things themselves.
+	if the community is not aware of psychiatric conditions they may think that they can cope with these things themselves
+006810192	That was not enough to buy the property.
+	that was not enough to buy the property
+006810193	Everybody is already upset, and something like this comes along, it can easily become a problem.
+	everybody is already upset and something like this comes along IT can easily become A problem
+006810194	But we have decided to go on Friday in the morning instead.
+	but we have decided to go on Friday in the morning instead
+006810195	This was the first time the girl sang in front of everyone.
+	this was the first time the girl sang in front of everyone
+006810196	As a result, doctors could then treat the poor for little or even nothing, if needed.
+	as A result doctors could then treat the poor for little or even nothing if needed
+006810197	And could we take it to different markets?
+	<STA/> and could we take IT to different markets
+006810198	But I haven't heard from her any more.
+	but I haven't heard from her any more
+006810199	And they will come to the classroom with useful and important industry knowledge that other teachers simply do not have.
+	and they will come to the classroom with useful and important industry knowledge that other teachers simply do not have
+006810200	Everyone was comfortable and had a good time.
+	everyone was comfortable and had A good time
+006810201	I am ready to be surprised by him.
+	<SPK/> I am ready to be surprised by him
+006810202	I initially wanted to do this as soon as possible, but I just couldn't do it.
+	<SPK/> I initially wanted to do this as soon as possible but I just couldn't do IT
+006810203	And so it is well beyond our dreams.
+	and so IT is well beyond our dreams
+006810204	It is a good way to increase their interest in this subject.
+	<SPK/> IT is A good way to increase their interest in this subject
+006810205	But she now takes the opportunity to educate people about her condition.
+	<SPK/> but she now takes the opportunity to educate people about her condition
+006810206	Are there cases where even after the toilet is built in the home, people don't use it?
+	are there cases where even after the toilet is built in the home people don't use IT
+006810207	A lot of people with disabilities are single or elderly with no one to care for them.
+	<SPK/> A lot of people with disabilities are single or elderly with no one to care for them
+006810208	He said the first bus was full, but the second bus had only three passengers on board.
+	<SPK/> he said than the first bus was full <SPK/> but the second bus had only three passengers on board
+006810209	But if someone gets a heart attack, usually his whole family would come around to support him.
+	but if someone gets A heart attack usually his whole family would come around to support him
+006810210	But the group today is a far cry from when it first started.
+	but the group today is A far cry from when IT first started
+006810211	But no one wants to talk about these students or how they fare.
+	<SPK/> but no one wants to talk about these students or how they fare
+006810212	It became clear to him that there was a demand for imported flowers.
+	IT became clear to him that there was A demand for imported flowers
+006810213	If this were to happen, it would happen very late in the day.
+	if this were to happen IT would happen very late in the day
+006810214	And when we process the placentas, we process only one at a time.
+	<SPK/> and when we process the placentas we process only one at A time
+006810215	But it used to be a much more multiracial team in those days.
+	but IT used to be A much more multiracial team in those days
+006810216	It is only fair that the charges that they pay are the same.
+	IT is only fair that the charges that they pay are the same
+006810217	Do you have the boots to cover your shoes?
+	<SPK/> do you have the boots to cover your shoes
+006810218	It is something that is of deep importance to China and us and we want it to succeed.
+	IT is something that is of deep importance to China and us and we want IT to succeed
+006810219	It is not known where the two will stand.
+	IT is not known where the two will stand
+006810220	Going to the police was out of the question.
+	going to the Police was out of the question
+006810221	At least can schedule a court hearing, but whether or not the owners turn up is another matter.
+	at least can schedule A court hearing but whether or not the owners turn up is another matter
+006810222	The police were called in and arrested the man.
+	the Police were called in and arrested the man
+006810223	And again, and it's not nature for the animals.
+	<SPK/> and again <SPK/> and it's not nature for the animals
+006810224	And so we must stay ahead of the game.
+	and so we must stay ahead of the game
+006810225	And what's in it for drivers who join now?
+	<SPK/> and what's in IT for the drivers who join now
+006810226	Both parties have been out in full force walking the ground these past weeks.
+	both parties have been out in full force walking the ground these past weeks
+006810227	But ultimately, it is for Singaporeans alone to decide how our system should work.
+	but ultimately IT is for Singaporeans alone to decide how our system should work
+006810228	Privacy is not a big issue for them, security is more of their concern.
+	<SPK/> privacy is not A big issue for them security is more of their concern
+006810229	And then when you finish your national service, you can come back in again.
+	<SPK/> and then when you finish your National Service you can come back in again
+006810230	Also, in times of threats, the last thing Singaporeans should do is go on Facebook and start another page.
+	also in times of threats the last thing Singaporeans should do is to go on Facebook and start another page
+006810231	The team will use the money to grow the business.
+	<SPK/> the team will use the money to grow the business
+006810232	Can we put in place another kind of social support?
+	<SPK/> can we put in place another kind of social support
+006810233	Customers would call and ask where they could meet me and try on my things.
+	customers would call and ask where they could meet me and try on my things
+006810234	It is unclear how long this will remain the case.
+	IT is unclear how long this will remain the case
+006810235	And you just met him.
+	and you just met him
+006810236	The boy looks to be five or six years old.
+	the boy looks to be five or six years old
+006810237	One important theme which, we will study together, will be the future of our community.
+	one important theme which we will study together will be the future of our community
+006810238	It's a problem of people who are qualified on paper not having the right skills.
+	<SPK/> it's A problem of people who are qualified on paper not having the right skills
+006810239	If a deal is reachable, it would likely end up at a lower level than that.
+	<SPK/> if A deal is reachable IT would likely end up at A lower level than that
+006810240	The hospital also did not raise the problem to the ministry for more than three months.
+	the hospital also did not raise the problem to the ministry for more than three months
+006810241	A few months ago, near Christmas time, there was another flood.
+	<SPK/> A few months ago near Christmas time <SPK/> there was another flood
+006810242	All of the items are up for sale at one shot.
+	all of the items are up for sale at one shot
+006810243	Even if you rent out the whole flat, it doesn't matter.
+	even if you rent out the whole flat IT doesn't matter
+006810244	I ended up spending more time than I thought I would.
+	I ended up spending more time than I thought I would
+006810245	But as we set up our own families, we talked less.
+	<SPK/> but as we set up our own families we talked less
+006810246	But I don't know how you freeze that moment of time.
+	but I don't know how you freeze at that moment of time
+006810247	I saw my uncle and my cousins a lot growing up.
+	<SPK/> I saw my uncle and my cousins A lot growing up
+006810248	But with it came a lot of press and pressure too.
+	but with IT came A lot of press and pressure too
+006810249	It wasn't on the back of really strong fundamentals coming through.
+	IT wasn't on the back of really strong fundamentals coming through
+006810251	A week ago I had my head down after two laps.
+	A week ago I had my Head down after two laps
+006810252	But the water could not reach the fire on the roof.
+	but the water could not reach the fire on the roof
+006810253	And by good, I mean we bring in things that are not easily available in other stores.
+	<SPK/> and by good I mean we bring in things that are not easily available in other stores
+006810254	And there are things outside of us, such as our health and reputation, that we can't control.
+	but there are things outside of us such as our health and reputation that we can't control
+006810255	I'm confident that it will be something after it's completed and we are very proud of it.
+	<SPK/> I'm confident that IT will be something that it's completed and we are very proud of IT
+006810256	I felt very relieved when I managed to get into the show.
+	<NON/> I felt very relieved when I managed to get into the show
+006810257	As you walk around, you can feel the pulse of the people.
+	as you walk around you can feel the pulse of the people
+006810258	Businesses may have no choice but to pass them on to customers.
+	businesses have no choice but to pass them on to customers
+006810259	But that's only if you click on the post and read further.
+	but that's only if you click on the post and read further
+006810260	But now these are allegations that are much more serious than that.
+	but now these are allegations that are much more serious than that
+006810261	And that's when it hit me.
+	and that's when IT hit me
+006810262	The accident will require more investigation, but in any case the worker cannot be brought back to life.
+	the accident will require more investigation <SPK/> but in any case the worker cannot be brought back to life
+006810263	As long as we have storage space, we will keep using them.
+	as long as we have storage space we will keep using them
+006810264	But it did not reveal the number of schools that do so.
+	but IT did not reveal the number of schools that do so
+006810265	But there could be other reasons.
+	<NON/> but there could be other reasons
+006810266	Relatives from Malaysia could also find their way easily to her home once they got off the train.
+	relatives from Malaysia could also find their way easily to her home once they got off the train
+006810267	For those who cannot find spices from home, they make do with what the supermarket has to offer.
+	for those who cannot find spices from home <SPK/> they make do with what the supermarket has to offer
+006810268	As I grew older, I learnt that life has to go on.
+	as I grew older <SPK/> I learnt that life has to go on
+006810269	He said it was his duty to nominate the next best person.
+	he said that IT was his duty to nominate the next best person
+006810270	But at the same time we must evolve with the times, our policies have to change with circumstances.
+	but at the same time we must evolve with the times <SPK/> our policies have to change with circumstances
+006810271	But the way I see it, we are human and have feelings.
+	but the way I see IT we are human and have feelings
+006810272	By the third day, he could not breathe and was so lethargic.
+	by the third day he could not breathe and was so lethargic
+006810273	From the coming week, these Pioneers will receive letters to tell them how much they will be getting.
+	from the coming week these pioneers will receive letters to tell them how much they will be getting
+006810274	I know it's weird but we want to provide a personal touch.
+	we know it's weird but we want to provide A personal touch
+006810275	After this article, you will have.
+	after this article you will have
+006810276	It's a fantastic opportunity but also a challenge at the same time.
+	it's A fantastic opportunity but also A challenge at the same time
+006810277	He said Mr Franco should be released in the next few days.
+	<NON/> he said Mister Franco should be released in the next few days
+006810278	At the end of the day, you'll just be living for yourself.
+	at the end of the day you'll just be living for yourself
+006810279	But did you know that many of the places that you're familiar with are named after old British men?
+	but did you know that many of the places you're familiar with are named after old British men
+006810280	And it will be convenient for people to come from all over Singapore, even tourists who want to visit.
+	<SPK/> and IT will be convenient for people <SPK/> to come from all over Singapore even tourists who want to visit
+006810281	Although the girl knew that her stepfather's actions were wrong, she did not know how to make him stop.
+	although the girl knew that her stepfather's actions were wrong <SPK/> she did not know how to make him stop
+006810282	And this is why we need governments to turn their attention to early years education and care of children.
+	and this is why we need governments to turn their attention to early years education and care of children
+006810283	Our athletes are training hard and ready to fly the Singapore flag high.
+	our athletes are training hard and ready to fly the Singapore flag high
+006810284	This should never have happened, is not acceptable, and I take full responsibility.
+	this should never have happened is not acceptable <SPK/> and I take full responsibility
+006810285	It will then later take off from there as part of ongoing trials.
+	IT will then later take off from there as part of the ongoing trials
+006810286	Day and night they think about how to keep Singapore and Singaporeans safe.
+	<SPK/> day and night they think about how to keep Singapore and Singaporeans safe
+006810287	And then when the players actually come how can we actually leverage it.
+	and then when the players actually come how can we actually leverage IT
+006810288	If you think you know the roads like the back of your hand.
+	if you think you know the roads like the back of your hand
+006810289	As he fell on his right side, a sharp pain ran through him.
+	as he fell on his right side A sharp pain ran through him
+006810290	I think it's a matter of finding good people who are willing to give their time and energy to serve.
+	<SPK/> I think it's A matter of finding good people who are willing to give their time and energy to serve
+006810291	I need a small amount for the medical treatment, the man told her, saying that it was for a friend.
+	I need A small amount for the medical treatment the man told her saying that IT was for A friend
+006810292	At this point, it is important to read up on the course curriculum and career prospects of the different courses.
+	at this point is important to read up on the course curriculum and career prospects of the different courses
+006810293	He said she could not be identified by this bit of information and saw no reason to keep it secret.
+	he said she could not be identified by this bit of information and saw no reason to keep IT A secret
+006810294	It is one of the issues where India and China have worked together on the global stage in the past.
+	<SPK/> IT is one of the issues where India and China have worked together on the global stage in the past
+006810295	At the same time, the pull of public transport has to be beefed up.
+	at the same time the pull of public transport has to be beefed up
+006810296	But he told me, I want you to help me make the brand international.
+	<SPK/> but he told me I want you to help me make the brand International
+006810297	Even when it's not campaign period, we have a lot of things to do.
+	even when it's not campaign period we have lot of things to do
+006810298	Because Singapore is not just a city.
+	<SPK/> because Singapore is not just A city
+006810299	Eventually, the companies will be able to pass on the benefits to their workers.
+	eventually the companies will be able to pass on the benefits to their workers
+006810300	But the opportunity seems to be there.
+	but the opportunity seems to be there
+006810301	It was a big decision to make.
+	IT was A big decision to make
+006810302	If we achieve that, then we would have done the best for our patients.
+	if we achieve that <SPK/> then we would have done the best for our patients
+006810303	But this changed after my children came.
+	<SPK/> but this changed after my children came
+006810304	Because of technology, a lot of services can be provided from elsewhere as well.
+	because of technology <SPK/> A lot of services can be provided from elsewhere as well
+006810305	But bring food into the picture and it could be a whole different story.
+	but bring food into the picture and IT could be A whole different story
+006810306	But this was not a war zone.
+	but this was not A war zone
+006810307	But I don't want that for myself.
+	but I don't want that for myself
+006810308	Some parents who did not benefit from the policy said they understood its merits.
+	some parents who did not mention from the policy said they understood its merits
+006810309	But he said the country now needs to find a balance between conservation and development.
+	but he said that the country now needs to find A balance between conservation and development
+006810310	Each of us must play our part, to make personal choices that protect the environment.
+	each of us must play our part to make personal choices that protect the environment
+006810311	But for those who are a bit slower, they wait and we do it together.
+	but for those who are A bit slower they wait and we do IT together
+006810312	At one point, it was estimated that it would take five hours to get in.
+	at one point IT was estimated that IT would take five hours to get in
+006810313	But we thought it was just her teenage years, so we were not too concerned.
+	and we thought IT was just her ** years so we were not too concerned
+006810314	At first we were a bit worried, because we didn't plan for the second one.
+	at first we were A bit worried because we didn't plan for the second one
+006810315	It is not the first time that the restaurant is giving back to the community.
+	IT is not the first time that the restaurant is giving back to the community
+006810316	If they are successful, consumers may be able to use this product within a year.
+	if they are successful consumers may be able to use this product within A year
+006810317	He said it hopes to double the number of employees in the next three years.
+	he said IT hopes to double the number of employees in the next three years
+006810318	But some feel this is not enough and want the authorities to better compensate them.
+	but some feel this is not enough and want the authorities to better compensate them
+006810319	And he was probably the very first artist in Malaya to do have done so.
+	and he was probably the very first artist in Malaya to have do have done so
+006810320	But I have never really experienced what it feels like to be short of water.
+	but I have never really experienced what IT feels like to be short of water
+006810321	A student may think how they perform doesn't matter, so why put in the effort?
+	A student may think how they perform doesn't matter so why put in the effort
+006810322	And at first it was just my top but after that he started moving down.
+	and at first IT was just my top but after that he started moving down
+006810323	She said that many of her guests had left by the time the cake arrived.
+	she said that many of her guests had left by the time the cake arrived
+006810324	And I agreed with her out of love.
+	and I agreed with her out of love
+006810325	I wouldn't say they did the wrong thing.
+	I wouldn't say they did the wrong thing
+006810326	In certain cases, there is the urgency to do so because their parents are of age.
+	in certain cases there is the urgency to do so because their parents are of age
+006810327	Be careful who you meet online as they might not be who you think they are.
+	be careful who you meet online as they might not be who you think they are
+006810328	But it's good to be on the bank.
+	but it's good to be on the bank
+006810329	And secondly, it is about looking at what is happening out there, learning from the world.
+	and secondly IT is about looking at what is happening out there learning from the world
+006810330	But this is not to say that what happens on social media should be easily dismissed.
+	but this is not to say that what happens on social media should E be easily dismissed
+006810331	But the long waiting time of three to four years might cause unpredictability for some relationships.
+	but the long waiting time of three to four years might cause unpredictability for some relationships
+006810332	A few years ago, there was little for women their age to do on the weekends.
+	A few years ago there was little for women their age to do on the weekends
+006810333	It's a dance in the classroom because students don't always want to sit down and read.
+	it's A dance in the classroom because students don't always want to sit down and read
+006810334	Emboldened by the fact that she was asleep, the burglar continued to break into her house.
+	emboldened by the fact that she was asleep the burglar continued to break into her house
+006810335	Because of my so called past debt, maybe still haunts me today but not so much.
+	because of my so called past debt <SPK/> maybe still haunts me today but not so much
+006810336	He then gave the phone to a friend.
+	he then gave the phone to A friend
+006810337	After cancer, I still work hard, but I now draw the line at too much work.
+	after cancer I still work hard but I now draw The Line at too much work
+006810338	But at what cost has this progress come?
+	but at what cost has this progress come
+006810339	And how we've been able to do it is because we run direct services as well.
+	and how we have been able to do so IT is because we run direct services as well
+006810340	He went to bed after a long day.
+	he went to bed after A long day
+006810341	The suspects are being held for investigations for murder and will be taken to court tomorrow.
+	the suspects are held for investigations for murder and will be taken to court tomorrow
+006810342	I will need to know what he's been arrested for and whether he will be charged.
+	I will need to know what he's been arrested for and whether he will be charged
+006810343	Having kids go through the sameness of experience is very important when they are very young.
+	having kids to go through the sameness of experience is very important when they are very young
+006810344	A lot of people have been waiting, and their car is almost going to be scrapped.
+	A lot of people have been waiting and their car is almost going to be scrapped
+006810345	A joint venture company is expected to be set up by the second half of the year.
+	A joint venture company is expected to be set up by the second half of the year
+006810346	I don't know about others but seriously, I will not buy even though it is for charity.
+	I don't know about others but seriously I will not buy even though IT it is for charity
+006810347	I also only choose the best brands of meat to sell, based on my years of experience.
+	I also only choose the best <FIL/> brands of meat to sell <SPK/> based on my years of experience
+006810348	Caregivers are likely to open up more to those who have walked the long, hard road before.
+	caregivers are likely to open up more to those who have walked the long hard road before
+006810349	Either one of us had to identify him, and I told my wife not to go in.
+	either one of us had to identify him and I Told my wife not to go in
+006810350	How can we help Singaporeans to deepen their skills throughout life, and not just while in school?
+	how can can we help Singaporeans to deepen their skills throughout life and not just while in school
+006810351	If it had not been found, it would have turned cancerous within the next year or two.
+	if IT had not been found IT would have turned cancerous within the next year or two
+006810352	I told him that in that case he should tell the editors, and put it on record.
+	I Told him that in that case he should tell the editors and put IT on record
+006810353	For example, parents can ask their children questions like what part flowers play in the different cultures.
+	for example <SPK/> parents can ask their children questions like what part flowers play in the different cultures
+006810354	The number who will turn to the rental market instead of buying is unlikely to be big.
+	the number who will turn to the rental market instead of buying is unlikely to be big
+006810355	I rejected them because I'm taking this one year off to put my full focus on it.
+	I rejected them because I'm taking this one year off to put my full focus on IT
+006810356	He really wanted us to bond as a family.
+	he really wanted us to Bond as A family
+006810357	But that problem is for another app to solve.
+	but that problem is for another app to solve
+006810358	We continue to take care of our residents to the best of our ability and that's our priority.
+	he continue to take care of our residents to the best of our ability and that's our priority
+006810359	It is also perfect for those who might want to cap off their day with a few drinks.
+	IT is also perfect for those who might want to cap off their day with A few drinks
+006810360	But what I want to leave is a legacy.
+	but I what I want is to leave A legacy
+006810361	If we can eat right, we can age well.
+	if we can eat right we can age well
+006810362	And if you believe that will happen, there is a bridge I can let you have really cheap.
+	and if you believe that will happen there is A bridge I can let you have really cheap
+006810363	Some of them are only found on the island.
+	some of them are only found on this island
+006810364	Every parent is different and for us, for me at least, I make sure that they read widely.
+	every parent is different and for us for me at least I make sure that they read widely
+006810365	It was when the train left the station that he realised there was a body on the tracks.
+	IT was when the train left the station that he realised there was A body on the tracks
+006810366	But with another big event on the horizon, there is no time for him to celebrate just yet.
+	but with another event on the horizon <SPK/> there is no time for him to celebrate just yet
+006810367	It would only cost you a bit of data.
+	IT would only cost you A bit of data
+006810368	And so I was very, very shocked by this.
+	and so I was very very shocked by this
+006810369	But he stressed that it will consider doing so.
+	but he stressed that IT will consider doing so
+006810370	But surely there is more to this man, no?
+	<SPK/> but surely there is more to this man no
+006810371	But that didn't make a big, important member happy.
+	but that didn't make A big important member happy
+006810372	Our Singaporeans can come by not only to watch the Games but they can also experience the sports.
+	our Singaporeans can come by not only to watch the games but they can also experience the sports
+006810373	But they know they are not like normal kids.
+	but they know they are not like normal kids
+006810374	If I'm not there, I can't do the pilot anymore because where do you get the resources from?
+	if I'm not there I can't do the pilot anymore because where do you get the resources from
+006810375	As students spend most of their time in the classroom, I want to create a homely environment for them.
+	as students ** spend most of their time in the classroom I want to create A homely environment for them
+006810376	He also said that if her brother needed help in the meantime, the ministry would look into the case.
+	he also said that if her brother needs help in the meantime the ministry would look into the case
+006810377	And if you want to save cost as well, use our list to find a perfect deal for you.
+	and if you want to save cost as well <SPK/> use our list to find A perfect deal for you
+006810378	But if I might ask one thing, if you are going to act like us, please, do it well.
+	but if I might ask one thing if you are going to act like us please do IT well
+006810379	And there is a lot of potential that can be unleashed, if they are set on the right path.
+	and there is A lot of potential that can be unleashed if they are set <NON/> on the right path
+006810380	I still see some of them around here sometimes, and they are surprised to see me all grown up.
+	I still see some of them around here sometimes and they are surprised to see me all grown up
+006810381	I will always do the right thing for our country and put the safety of the American people first!
+	I will always do the right thing for our country and put the safety of the American people first
+006810382	For a start, students will be able to take up internships at the facility for up to six months.
+	for A start students will be able to take up internships at the facility for up to six months
+006810383	Imagine if it had been my sister saying these things about me, what do you think would have happened?
+	imagine IT had been my sister saying all these things about me what do you think would have happened
+006810384	He claims he cannot protect her while she is in the home and that she would be bullied inside.
+	he claims he cannot protect her while she is in the home and that she would be bullied inside
+006810385	Because the game has not started, and I want to give my best to try to win every match.
+	because the game has not started and I wants to give my best to try to win every match
+006810386	A lot of people recognise me when I am out.
+	A lot of people recognise me when I am out
+006810387	It's usually not a good thing for a relationship when one person makes a lot more money than their partner.
+	it's usually not A good thing for A relationship when one person makes A lot more money <SPK/> than their partner
+006810388	Most people will never start a company in their lives.
+	most people will never start A company in their lives
+006810389	I completely support that if you have something to fall back on, but you have to think of your family.
+	I completely support that if you have something to fall back on but you have to think of your family
+006810390	I think he needs some private space now and that's something for him to decide in the goodness of time.
+	I think he needs some private space now and that's something for him to decide in the goodness of time
+006810391	But this didn't stop people from trying to find a way out, and they finally managed to open one window.
+	but this didn't stop people from trying to find A way out and they finally managed to open one bindow
+006810392	And together we can be a force for positive change.
+	and together we can be A force for positive change
+006810393	He then stood by with bottles of water in case the fire could not be put out by the extinguisher.
+	he then stood by with bottles of water in case the fire could not be put out by the extinguisher
+006810394	As long as they pay a good price, it's fine.
+	as long as they pay A good price it's fine
+006810395	He added that any cooperation had to be on terms in which all sides got a fair share of profits.
+	he added that any cooperation had to be on terms in which all sides got A fair share of profits
+006810396	We have to work with the talent which we have.
+	we have to work with the talent which we have
+006810397	It will improve your experience the more it knows you.
+	IT will improve your experience the more IT knows you
+006810398	But I try to put it out of my mind.
+	but I try to put IT out of my mind
+006810399	But the thing is, looking good goes beyond the clothes you wear or the amount of makeup you put on.
+	but the thing is looking good goes beyond the clothes you wear or the amount of makeup you put on <NON/>
+006810400	I feel that I'm raring to go each morning now.
+	I feel that I'm raring to go each morning now
