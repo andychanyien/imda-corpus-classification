@@ -1,7 +1,7 @@
 id,filepath,duration,class_label
 1400066,./assets/audio_train/1400066_apples.wav,0.7593197278911564,apples
 1400062,./assets/audio_train/1400062_flowers.wav,0.7773242630385487,flowers
-1400049,./assets/audio_train/1400049_worker.wav,0.571156462585034,worker
+1400049,./assets/audio_train/1400049_worker.wav,0.5173242630385487,worker
 1400051,./assets/audio_train/1400051_water.wav,0.4800907029478458,water
 1400049,./assets/audio_train/1400049_father.wav,0.44807256235827664,father
 1410066,./assets/audio_train/1410066_apples.wav,0.37197278911564624,apples
