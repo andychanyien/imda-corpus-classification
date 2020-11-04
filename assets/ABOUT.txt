@@ -10,6 +10,9 @@ Parts 1 and 2 were recorded in quiet rooms using 3 microphones: a headset/ stand
 
 Part 3's recordings were split into 2 environments. In the Same Room environment where speakers were in same room, the recordings were done using 2 microphones: a close-talk mic and a boundary mic. In the Separate Room environment, speakers were separated into individual rooms. The recordings were done using 2 microphones in each room: a standing mic and a telephone. 
 
+Part 4 contains recordings of 2 different natures. 
+Under Codeswitching, speakers were encouraged as best as possible to switch from Singapore English to their Mother Tongue languages. These recordings were done under two environments. In the Same Room recordings, speakers sit at least two metres apart and record using their mobile phones. In the Different Room environment, speakers would speak through each other via Zoom on their laptops, and recording using their mobile phones. 
+Under Topics Based, speakers were made to speak following the 4 styles: Debate, Finance topics, Positive Emotion and Negative Emotions. All recordings were done in a Separate room session, via Zoom, where the audio is recorded using the mobile phone. 
 
 
 Directory Structure
@@ -32,6 +35,25 @@ Summary of Part 3 data organization:
     /Scripts Separate: Orthographic transcripts saved in TextGrid format 
     /Audio Separate IVR: Audio files in WAV format recorded using the telephone, sampled at 16kHz
     /Audio Separate StandingMic: Audio files in WAV format recorded using the standing mic, sampled at 16kHz
+
+Summary of Part 4 data organisation:
+- Codeswitching
+   - Same Room environment, files organized by speaker number:
+    /Scripts Same Room: Orthographic transcripts saved in TextGrid format
+    /Audio Same Room: Audio files in WAV format recorded using the mobile phone mic, sampled at 16kHz
+   - Different Room environment, files organized by speaker number and session number:
+    /Scripts Diff Room: Orthographic transcripts saved in TextGrid format 
+    /Audio Diff Room: Audio files in WAV format recorded using the mobile phone, sampled at 16kHz
+
+- Topics Based
+  - Debate, files organised by speaker number:
+   /Scripts Debate: Orthographic transcripts saved in TextGrid format
+   /Audio Debate: Audio files in WAV format recorded using the mobile phone mic, sampled at 16kHz
+  - Finance + Emotions, files organised by speaker number:
+   /Scripts Finance + Emotions: Orthographic transcripts saved in TextGrid format
+   /Audio Finance + Emotions: Audio files in WAV format recorded using the mobile phone mic, sampled at 16kHz
+
+
 
 The LEXICON subdirectory contains 2 files:
 - Phonetic Inventory: containing a description of the identified phones of Singapore English

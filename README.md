@@ -2,15 +2,30 @@
 
 ## Problem Statement
 
-Speech recognition programmes have the ability to convert voice to text, mostly by building a Speech-To-Text (STT) model using Machine Learning. This type of STT programmes are common seen in smart phones or other websites which are have speech-enabled inputs. However, many of these "off-the-shelves" speech recognition programmes have difficulty recognising Singaporean accented English as they are not trained with Singaporean speeches. Furthermore, Singaporeans do not speak with one universal accent, making it even more challenging for speech recognition models.
+Speech recognition programmes have the ability to convert voice to text, mostly by building a Speech-To-Text (STT) model using Machine Learning. This type of STT programmes are commonly seen in smart phones or other websites which have speech-enabled inputs. However, **many of these "off-the-shelves" speech recognition programmes have difficulty recognising Singaporean accented English as they are not trained with Singaporean speeches. Furthermore, Singaporeans do not speak with one universal accent, making it even more challenging for speech recognition models.**
 
 I would like to find out if it is possible for machines to understand Singaporean accent. In data science terms, I wish to find out if its possible for machines to classify Singaporean accents corrently.
 
-To investigate this, a multi-classification model will be built, with a total of 5 classes. The machine learning algorithm used will be mainly neural networks, consisting of a regular Feedforward Neural Network, a Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN). 
+To investigate this, a multi-classification model will be built, with a total of 5 classes. The machine learning algorithm used will be mainly neural networks, consisting of a regular Feedforward Neural Network, a Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN).
 
-This is my Capstone Project for my Data Science Immersive (DSI) course, conducted by General Assembly. It is a developing project and is expected to complete by 10 November 2020.
+The audio features which will be explored are their Mel-Frequency Cepstral Coefficients (MFCCs) and Mel-Spectrograms. The training data will be preprocessed differently based on these features and subsequently be fed into the Neural Networks.
 
-Data source:
+**Measurement of Success:**
+
+The main metric for evaluation is mainly accuracy. The higher the accuracy, the better the model is at classifying the singaporean-accented words into the 5 classes.
+
+**Relevance for Stakeholders:**
+
+A simple speech classification model can be scaled up to recognise more words or even commands to build a speech recognition engine. There will be businesses which could benefit from it. For example, call centres could build an Automated Attendant which is trained with Singaporean-accented commands, allowing callers to navigate the menu system without pressing physical buttons. Such navigation systems can also be implemented for placing orders at a restaurants.
+
+This can also be scaled up to build a complex speech recognition models based on phonetics to comprehend long sentences, allowing for real-time transcribing. For example, providing subtitles for live performances or live TV-shows. This will enhance the experience of audiences and increase watch-rate.
+
+*Secondary Audience*
+
+Furthermore, this will improve accessibility for some visually impaired or physically challenged people, who have difficulty interacting with physical touch menus. 
+
+
+**Data source:**
 
 Singapore IMDA National Speech Corpus (NSC)
 
