@@ -4,15 +4,17 @@
 
 Speech recognition programmes have the ability to convert voice to text, mostly by building a Speech-To-Text (STT) model using Machine Learning. This type of STT programmes are commonly seen in smart phones or other websites which have speech-enabled inputs. However, **many of these "off-the-shelves" speech recognition programmes have difficulty recognising Singaporean accented English as they are not trained with Singaporean speeches. Furthermore, Singaporeans do not speak with one universal accent, making it even more challenging for speech recognition models.**
 
-I would like to find out if it is possible for machines to understand Singaporean accent. In data science terms, I wish to find out if its possible for machines to classify Singaporean accents corrently.
+I would like to find out if it is possible for machines to understand Singaporean accent. In data science terms, I wish to find out **how accurately can machine learning algorithms classify Singaporean-accented English** and the potential scaling it up as a business solution..
 
-To investigate this, a multi-classification model will be built, with a total of 5 classes. The machine learning algorithm used will be mainly neural networks, consisting of a regular Feedforward Neural Network, a Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN).
+To investigate this, a **multi-classification model** will be built, with a total of **5 classes**. The machine learning algorithm used will be mainly neural networks, consisting of a regular **Feedforward Neural Network, a Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN).**
 
 The audio features which will be explored are their Mel-Frequency Cepstral Coefficients (MFCCs) and Mel-Spectrograms. The training data will be preprocessed differently based on these features and subsequently be fed into the Neural Networks.
 
 **Measurement of Success:**
 
-The main metric for evaluation is mainly accuracy. The higher the accuracy, the better the model is at classifying the singaporean-accented words into the 5 classes.
+The main metric for evaluation is the average weighted **accuracy**. The higher the accuracy, the better the model is at classifying the singaporean-accented words into the 5 classes. Additional metrics for consideration includes **Precision** and **Recall** to identify if the machine learning algorithm would mistake words that sounds similar.
+
+Computational time as well
 
 **Relevance for Stakeholders:**
 
