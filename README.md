@@ -1,5 +1,19 @@
 # Singaporean Speech Classification with Neural Networks - Capstone Project
 
+## Table of Content
+
+* [Libraries and System Configurations](#Libraries-and-System-Configurations)
+* [Full Problem Statement](#Problem-Statement)
+* [Executive Summary](#Executive-Summary)
+* [Data Dictionary](#Data-Dictionary)
+* [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+
+
+
+
+## Libraries and System Configurations
+
+
 ## Problem Statement
 
 Speech recognition programmes have the ability to convert voice to text, mostly by building a Speech-To-Text (STT) model using Machine Learning. This type of STT programmes are commonly seen in smart phones or other websites which have speech-enabled inputs. However, **many of these "off-the-shelves" speech recognition programmes have difficulty recognising Singaporean accented English as they are not trained with Singaporean speeches. Furthermore, Singaporeans do not speak with one universal accent, making it even more challenging for speech recognition models.**
@@ -10,11 +24,11 @@ To investigate this, a **multi-classification model** will be built, with a tota
 
 The audio features which will be explored are their Mel-Frequency Cepstral Coefficients (MFCCs) and Mel-Spectrograms. The training data will be preprocessed differently based on these features and subsequently be fed into the Neural Networks.
 
-**Measurement of Success:**
+**Metrics of Evaluation:**
 
-The main metric for evaluation is the average weighted **accuracy**. The higher the accuracy, the better the model is at classifying the singaporean-accented words into the 5 classes. Additional metrics for consideration includes **Precision** and **Recall** to identify if the machine learning algorithm would mistake words that sounds similar.
+The main metric for evaluation is the average weighted **Accuracy** on both validation set and unseen data. The higher the accuracy, the better the model is at classifying the singaporean-accented words into the 5 classes. Additional metrics for consideration includes **Precision** and **Recall** to identify if the machine learning algorithm would mistake words that sounds similar.
 
-Computational time as well
+As speed is also an important factor for real-time transcription or Speech-to-text translation, **Computational Time** will also be used to evaluate the model, based on pre-processing time and training time.
 
 **Relevance for Stakeholders:**
 
@@ -26,9 +40,132 @@ This can also be scaled up to build a complex speech recognition models based on
 
 Furthermore, this will improve accessibility for some visually impaired or physically challenged people, who have difficulty interacting with physical touch menus. 
 
-
 **Data source:**
 
 Singapore IMDA National Speech Corpus (NSC)
 
 https://www.imda.gov.sg/programme-listing/digital-services-lab/national-speech-corpus
+
+## Executive Summary
+
+**Goal**
+
+- Build a Multiclassification Model
+- Determine how accurate can machine learning algorithm classify Singaporean-accented English
+- Explore the possibilities of scaling it up to a speech recognition system which can potentially be implemented in businesses
+
+**Metrics**
+
+- Accuracy on validation dataset and unseen dataset
+- Computational time
+
+**Data Used**
+
+- [National Speech Corpus provided by the Singapore Infocomm Media Development Authority (IMDA)](https://www.imda.gov.sg/programme-listing/digital-services-lab/national-speech-corpus)
+
+**Findings**
+
+- It is difficult to classify speeches accurately based on raw sound waves alone due to the complexity of audio signals
+- Decomposing sound waves into MFCCs allows the neural network to understand the unique characteristics of each label.
+- Classification of audio with images is also very possible as patterns among each class is quite evident when comparing their Mel-Spectrogram.
+
+**Features for Model**
+
+- Mel-Frequency Cepstral Coefficients
+    - Mean, Standard Deviations, Delta and Delta-Delta
+    - Padded Sequences
+- Mel-Spectrograms
+    - Images
+
+**Models Developed** 
+
+7 multiclassification models were developed and tested
+- 3 regular Feedforward Neural Network (FNN)
+- 2 Convolutional Neural Network (CNN)
+- 2 Recurrent Neural Network (RNN)
+
+**Model Evaluation and Selection**
+
+Top 3 Models:
+1. RNN with Gated Recurrent United (RNN - GRU), with padded sequence (98% val. accuracy, 97% unseen accuracy, 4mins training time)
+2. CNN model, with Mel-Spectrogram images (99% val. accuracy, 96% unseen accuracy, 6mins training time)
+3. RNN with Long-Short Term Memory (LSTM), with padded sequence (97% val. accuracy, 93% unseen accuracy, 3mins training time)
+
+**Conclusion**
+
+- In general, neural networks are able to classify Singporean-accented English with very high accuracy
+- RNN models are most efficient with sequential data, best for real-time transcription.
+- CNN models are also highly accurate, could be used if the objective is only classification
+
+*Limitations*
+
+- audio recordings are in controlled environment, result might differ if there is background noises
+- speakers are all proficient English speakers, to consider having a more inclusive dataset with less proficient speakers
+
+
+## Conclusions and Recommendations
+
+Based on the results, Neural Networks can classify Singaporean-accented English with at least 90% accuracy. The best model for the multiclassification is the Recurrent Neural Network with GRU layers (Model 7). It has successfully classified the speeches with an average accuracy of 98% on validation dataset and generalised to unseen data with an accuracy of 97%, with the highest efficiency. Image classification with CNN uses more preprocessing and processing time, even though it also returned high accuracy.
+
+The RNN (GRU) Model definitely has the potential to be scaled up and be implemented as a business solution. It can be trained to recognise more words or commands and with larger dataset. This also means that building a more complex speech recognition model which can accurately and efficiently recognise Singaporean-accented speeches is very possible.
+
+**Recommendation for Implementation**
+
+- MFCC sequential data should be used on sequential models (such as Recurrent Neural Network) for real-time transcription or classification as it has proved to be the most efficient way to process them.
+
+- Mel-spectrogram images should be used for when accuracy is more important but computational time is not important. For example, trying to sort audio recordings or classifying speech patterns.
+
+**Limitations**
+
+- The recordings that were used in this project were recorded in a controlled environment, with a good quality microphone in a quiet room (most probably in a studio). However, we cannot expect the audio input environment to always be quiet enough to isolate the speaker's speech. For practical application, the dataset could perhaps be expanded to include speeches recorded in a noisier environment. Perhaps, another model that can cancel background noises could be built to filter noises out of the recordings first before running through the RNN.
+
+- All of the recordings are also scripted, and are not based on spontaneous conversations, hence, they are almost free from mispronunciation. The audio data was collected from people with good english proficiency as they were able to read from the script. This way, the classification models or speech recognition models could be biased towards proficient English speakers. One possibility would be for data collect of people with lower english proficiency as they may pronounce the same words slightly differently.
+
+**Suggestion for Further Research**
+
+Data Scientists interested in audio classification and speech classification of Singaporean-accented speech can explore the following to build a more inclusive and accurate model.
+
+- Explore further preprocessing techniques for MFCC. The MFCC turns out to be a great determinant in classifying the speeches. 
+
+- Increase the training dataset. After doubling the training data from 400 to 800, it increased the accuracy of RNN model by a few percentage points.
+
+- Expand the training set to include less proficient English speakers
+
+- Build a model that can classify speeches in noisy environments.
+
+## Libraries Used
+|Feature|Type|Description|
+|---|---|---|
+
+
+## Data Dictionary
+
+Dataset: transcript_0.csv
+Description:
+
+|Feature|Type|Description|
+|---|---|---|
+|**id**|int|The given ID of each audio data, containing information about the which recording session, speaker id and transcript id|
+|**text**|str|The actual transcription of their recording, provided by IMDA|
+|**speaker**|int|Speaker identification number, ranging from 1 to beyond 1000|
+|**session**|int|The recording session number, 0 being the first recording and 1 being the second recording session and so on|
+|**line**|int|The transcript ID|
+|**wordcount**|int|The number of words based on the transcription|
+
+Dataset: train.csv & test.csv
+Description:
+
+|Feature|Type|Description|
+|---|---|---|
+|**id**|int|The given ID of each audio data, containing information about the which recording session, speaker id and transcript id|
+|**filepath**|str|The relative file path of the audio files in this repo|
+|**duration**|float|The duration of each audio clip in seconds (0.5 means 0.5 seconds)|
+|**class_label**|str|Label of the audio clip ("apples" means it is a recording of someone pronouncing "apple")|
+|**mfccs_mean**|np.array, float|The average of 40 Mel-Frequency Cepstral Coefficients across time (Sum of each MFCC per timestep, diveded by timesteps)|
+|**mfccs_std**|np.array, float|The standard deviation of 40 Mel-Frequency Cepstral Coefficients across time (Standard deviation of each MFCC across the whole duration)|
+|**mfccs_delta_mean**|np.array, float|The difference in magnitutde between a specific timestep and the previous timestep|
+|**mfccs_delta_std**|np.array, float|The difference between the delta at a specific timestep and the previous timestep|
+|**combined_mfccs**|np.array, float|An array combining the 4 features above|
+|**mfcc_pad**|np.array, int|The Mel-Frequency Cepstral Coefficients across timesteps but post-padded to the length of the audio flip with the longest duration|
+|**mfcc_pad_combined**|np.array, int|An array combining the Mel-Frequency Cepstral Coefficients, its delta and delat-delta, post-padded to the length of the audio flip with the longest duration|
+|**mel**|np.array, float|The plotting data of the Mel-Frequency Spectrogram|
