@@ -52,24 +52,24 @@ root:.
 |   README.md
 |       
 +---assets
-|   |		ABOUT.txt
+|   |      ABOUT.txt
 |   |   
 |   +---audio_test
-|   |		101 audio files (in .WAV) 
+|   |      101 audio files (in .WAV) 
 |   |         
 |   +---audio_train
-|   |		1049 audio files (in .WAV) 
+|   |      1049 audio files (in .WAV) 
 |   |         
 |   +---images
 |   |  
 |   +---spec_test
-|   |		101 mel-spectrograms (in .png)
+|   |      101 mel-spectrograms (in .png)
 |   |   
 |   +---spec_train
-|   |       1049 mel-spectrograms (in .png)
+|   |      1049 mel-spectrograms (in .png)
 |   |  
 |   \---transcript
-|			2034 transcripts (in .txt)
+|          2034 transcripts (in .txt)
 |           
 \---datasets
     |   test.csv
