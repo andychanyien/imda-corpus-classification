@@ -42,10 +42,45 @@ Singapore IMDA National Speech Corpus (NSC)
 
 https://www.imda.gov.sg/programme-listing/digital-services-lab/national-speech-corpus
 
+## Repo Structure
+```
+root:.
+|   1 Data Collection & Scoping.ipynb
+|   2 Audio EDA.ipynb
+|   3 Preprocessing and Modelling.ipynb
+|   git command mass extraction.xlsx
+|   README.md
+|       
++---assets
+|   |		ABOUT.txt
+|   |   
+|   +---audio_test
+|   |		101 audio files (in .WAV) 
+|   |         
+|   +---audio_train
+|   |		1049 audio files (in .WAV) 
+|   |         
+|   +---images
+|   |  
+|   +---spec_test
+|   |		101 mel-spectrograms (in .png)
+|   |   
+|   +---spec_train
+|   |       1049 mel-spectrograms (in .png)
+|   |  
+|   \---transcript
+|			2034 transcripts (in .txt)
+|           
+\---datasets
+    |   test.csv
+    |   train.csv
+    \---transcripts_session_0.csv
+```
+
 ## Libraries and System Specifications
 
-System Specifications
-===
+**System Specifications**
+
 The notebooks are done in a virtual environment with the following configurations.
 
 It is highly recommended that users create a virtual environment for this repo, especially if users intend to use GPU for tensorflow.
@@ -72,6 +107,7 @@ Users who do not use GPU can simply substitute the library with the CPU version 
 ## Data Dictionary
 
 Dataset: transcript_0.csv
+
 Description: This is the transcript of recordings from session 0, which is the first session.
 
 |Feature|Type|Description|
@@ -84,6 +120,7 @@ Description: This is the transcript of recordings from session 0, which is the f
 |**wordcount**|int|The number of words based on the transcription|
 
 Dataset: train.csv & test.csv
+
 Description: training dataset generated from the audio files, containing metadata about each audio files. The test set contains unseen data which will be used to evaluate the model.
 
 |Feature|Type|Description|
@@ -181,11 +218,8 @@ The RNN (GRU) Model definitely has the potential to be scaled up and be implemen
 Data Scientists interested in audio classification and speech classification of Singaporean-accented speech can explore the following to build a more inclusive and accurate model.
 
 - Explore further preprocessing techniques for MFCC. The MFCC turns out to be a great determinant in classifying the speeches. 
-
 - Increase the training dataset. After doubling the training data from 400 to 800, it increased the accuracy of RNN model by a few percentage points.
-
 - Expand the training set to include less proficient English speakers
-
 - Build a model that can classify speeches in noisy environments.
 
 
