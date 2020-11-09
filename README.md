@@ -2,16 +2,12 @@
 
 ## Table of Content
 
-* [Libraries and System Configurations](#Libraries-and-System-Configurations)
 * [Full Problem Statement](#Problem-Statement)
-* [Executive Summary](#Executive-Summary)
+* [Libraries and System Specification](#Libraries-and-System-Specifications)
 * [Data Dictionary](#Data-Dictionary)
+* [Executive Summary](#Executive-Summary)
 * [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
-
-
-
-## Libraries and System Configurations
 
 
 ## Problem Statement
@@ -46,6 +42,65 @@ Singapore IMDA National Speech Corpus (NSC)
 
 https://www.imda.gov.sg/programme-listing/digital-services-lab/national-speech-corpus
 
+## Libraries and System Specifications
+
+System Specifications
+===
+The notebooks are done in a virtual environment with the following configurations.
+
+It is highly recommended that users create a virtual environment for this repo, especially if users intend to use GPU for tensorflow.
+
+Anaconda Client Version: 1.7.2
+Python Version: 3.6.12
+GPU: GeForce GTX 1660 Super
+
+|Library|Description|Version No|
+|---|---|---|
+|Librosa|For processing audio files and extracting audio features|0.8.0|
+|Keras-gpu|For tensorflow neural networks, note that this is the GPU version|2.3.1|
+|Tensorflow-gpu|For tensorflow neural networks, note that this is the GPU version|2.1.0|
+|iPython|Mainly for `ipython.display` to enable audio playback. This is not mandatory for modelling|7.16.1|
+|Pillow|For processing image data for the CNN Model|8.0.0|
+|NLTK|For processing transcript, for stopwords feature, one can use other stopwords libraries|3.5|
+|Numpy|Data Science essential, for creating numpy arrays and for manipulating matrices|1.19.1|
+|Pandas|To view the data in a dataframe and for analysing the datasets|1.1.3|
+|Scikit-learn|Used quite extensively to build the model, process the features and even for vectorising the transcript|0.23.2|
+|Matplotlib|For plotting graphs during EDA and for creating Mel-Spectrograms for the CNN model, note that this is also a dependency for Librosa's waveplot method|3.3.1|
+
+Users who do not use GPU can simply substitute the library with the CPU version with the same version number.
+
+## Data Dictionary
+
+Dataset: transcript_0.csv
+Description: This is the transcript of recordings from session 0, which is the first session.
+
+|Feature|Type|Description|
+|---|---|---|
+|**id**|int|The given ID of each audio data, containing information about the which recording session, speaker id and transcript id|
+|**text**|str|The actual transcription of their recording, provided by IMDA|
+|**speaker**|int|Speaker identification number, ranging from 1 to beyond 1000|
+|**session**|int|The recording session number, 0 being the first recording and 1 being the second recording session and so on|
+|**line**|int|The transcript ID|
+|**wordcount**|int|The number of words based on the transcription|
+
+Dataset: train.csv & test.csv
+Description: training dataset generated from the audio files, containing metadata about each audio files. The test set contains unseen data which will be used to evaluate the model.
+
+|Feature|Type|Description|
+|---|---|---|
+|**id**|int|The given ID of each audio data, containing information about the which recording session, speaker id and transcript id|
+|**filepath**|str|The relative file path of the audio files in this repo|
+|**duration**|float|The duration of each audio clip in seconds (0.5 means 0.5 seconds)|
+|**class_label**|str|Label of the audio clip ("apples" means it is a recording of someone pronouncing "apple")|
+|**mfccs_mean**|np.array, float|The average of 40 Mel-Frequency Cepstral Coefficients across time (Sum of each MFCC per timestep, diveded by timesteps)|
+|**mfccs_std**|np.array, float|The standard deviation of 40 Mel-Frequency Cepstral Coefficients across time (Standard deviation of each MFCC across the whole duration)|
+|**mfccs_delta_mean**|np.array, float|The difference in magnitutde between a specific timestep and the previous timestep|
+|**mfccs_delta_std**|np.array, float|The difference between the delta at a specific timestep and the previous timestep|
+|**combined_mfccs**|np.array, float|An array combining the 4 features above|
+|**mfcc_pad**|np.array, int|The Mel-Frequency Cepstral Coefficients across timesteps but post-padded to the length of the audio flip with the longest duration|
+|**mfcc_pad_combined**|np.array, int|An array combining the Mel-Frequency Cepstral Coefficients, its delta and delat-delta, post-padded to the length of the audio flip with the longest duration|
+|**mel**|np.array, float|The plotting data of the Mel-Frequency Spectrogram|
+
 ## Executive Summary
 
 **Goal**
@@ -61,7 +116,7 @@ https://www.imda.gov.sg/programme-listing/digital-services-lab/national-speech-c
 
 **Data Used**
 
-- [National Speech Corpus provided by the Singapore Infocomm Media Development Authority (IMDA)](https://www.imda.gov.sg/programme-listing/digital-services-lab/national-speech-corpus)
+- Audio files extracted from [National Speech Corpus provided by the Singapore Infocomm Media Development Authority (IMDA)](https://www.imda.gov.sg/programme-listing/digital-services-lab/national-speech-corpus)
 
 **Findings**
 
@@ -133,39 +188,6 @@ Data Scientists interested in audio classification and speech classification of 
 
 - Build a model that can classify speeches in noisy environments.
 
-## Libraries Used
-|Feature|Type|Description|
-|---|---|---|
 
 
-## Data Dictionary
 
-Dataset: transcript_0.csv
-Description:
-
-|Feature|Type|Description|
-|---|---|---|
-|**id**|int|The given ID of each audio data, containing information about the which recording session, speaker id and transcript id|
-|**text**|str|The actual transcription of their recording, provided by IMDA|
-|**speaker**|int|Speaker identification number, ranging from 1 to beyond 1000|
-|**session**|int|The recording session number, 0 being the first recording and 1 being the second recording session and so on|
-|**line**|int|The transcript ID|
-|**wordcount**|int|The number of words based on the transcription|
-
-Dataset: train.csv & test.csv
-Description:
-
-|Feature|Type|Description|
-|---|---|---|
-|**id**|int|The given ID of each audio data, containing information about the which recording session, speaker id and transcript id|
-|**filepath**|str|The relative file path of the audio files in this repo|
-|**duration**|float|The duration of each audio clip in seconds (0.5 means 0.5 seconds)|
-|**class_label**|str|Label of the audio clip ("apples" means it is a recording of someone pronouncing "apple")|
-|**mfccs_mean**|np.array, float|The average of 40 Mel-Frequency Cepstral Coefficients across time (Sum of each MFCC per timestep, diveded by timesteps)|
-|**mfccs_std**|np.array, float|The standard deviation of 40 Mel-Frequency Cepstral Coefficients across time (Standard deviation of each MFCC across the whole duration)|
-|**mfccs_delta_mean**|np.array, float|The difference in magnitutde between a specific timestep and the previous timestep|
-|**mfccs_delta_std**|np.array, float|The difference between the delta at a specific timestep and the previous timestep|
-|**combined_mfccs**|np.array, float|An array combining the 4 features above|
-|**mfcc_pad**|np.array, int|The Mel-Frequency Cepstral Coefficients across timesteps but post-padded to the length of the audio flip with the longest duration|
-|**mfcc_pad_combined**|np.array, int|An array combining the Mel-Frequency Cepstral Coefficients, its delta and delat-delta, post-padded to the length of the audio flip with the longest duration|
-|**mel**|np.array, float|The plotting data of the Mel-Frequency Spectrogram|
