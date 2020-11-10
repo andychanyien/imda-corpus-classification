@@ -3,11 +3,12 @@
 ## Table of Content
 
 * [Full Problem Statement](#Problem-Statement)
+* [Repo Structure](#Repo-Structure)
 * [Libraries and System Specification](#Libraries-and-System-Specifications)
 * [Data Dictionary](#Data-Dictionary)
 * [Executive Summary](#Executive-Summary)
 * [Conclusions and Recommendations](#Conclusions-and-Recommendations)
-
+* [Sources and Other Useful Resources](#Sources-and-Other-Useful-Resources)
 
 
 ## Problem Statement
@@ -52,24 +53,24 @@ root:.
 |   README.md
 |       
 +---assets
-|   |      ABOUT.txt
+|   |   ABOUT.txt
 |   |   
 |   +---audio_test
-|   |      101 audio files (in .WAV) 
+|   |   101 audio files (in .WAV) 
 |   |         
 |   +---audio_train
-|   |      1049 audio files (in .WAV) 
+|   |   1049 audio files (in .WAV) 
 |   |         
 |   +---images
 |   |  
 |   +---spec_test
-|   |      101 mel-spectrograms (in .png)
+|   |   101 mel-spectrograms (in .png)
 |   |   
 |   +---spec_train
-|   |      1049 mel-spectrograms (in .png)
+|   |   1049 mel-spectrograms (in .png)
 |   |  
 |   \---transcript
-|          2034 transcripts (in .txt)
+|       2034 transcripts (in .txt)
 |           
 \---datasets
     |   test.csv
@@ -81,7 +82,7 @@ root:.
 
 **System Specifications**
 
-The notebooks are done in a virtual environment with the following configurations.
+The results in these notebooks were achieved in an Anaconda virtual environment with the following configurations.
 
 It is highly recommended that users create a virtual environment for this repo, especially if users intend to use GPU for tensorflow.
 
@@ -89,20 +90,20 @@ Anaconda Client Version: 1.7.2
 Python Version: 3.6.12
 GPU: GeForce GTX 1660 Super
 
-|Library|Description|Version No|
+|**Library**|Description|Version No.|
 |---|---|---|
-|Librosa|For processing audio files and extracting audio features|0.8.0|
-|Keras-gpu|For tensorflow neural networks, note that this is the GPU version|2.3.1|
-|Tensorflow-gpu|For tensorflow neural networks, note that this is the GPU version|2.1.0|
-|iPython|Mainly for `ipython.display` to enable audio playback. This is not mandatory for modelling|7.16.1|
-|Pillow|For processing image data for the CNN Model|8.0.0|
-|NLTK|For processing transcript, for stopwords feature, one can use other stopwords libraries|3.5|
-|Numpy|Data Science essential, for creating numpy arrays and for manipulating matrices|1.19.1|
-|Pandas|To view the data in a dataframe and for analysing the datasets|1.1.3|
-|Scikit-learn|Used quite extensively to build the model, process the features and even for vectorising the transcript|0.23.2|
-|Matplotlib|For plotting graphs during EDA and for creating Mel-Spectrograms for the CNN model, note that this is also a dependency for Librosa's waveplot method|3.3.1|
+|**Librosa**|For processing audio files and extracting audio features|0.8.0|
+|**Keras-gpu**|For tensorflow neural networks, note that this is the GPU version|2.3.1|
+|**Tensorflow-gpu**|For tensorflow neural networks, note that this is the GPU version|2.1.0|
+|**iPython**|Mainly for `ipython.display` to enable audio playback. This is not mandatory for modelling|7.16.1|
+|**Pillow**|For processing image data for the CNN Model|8.0.0|
+|**NLTK**|For processing transcript, for stopwords feature, one can use other stopwords libraries|3.5|
+|**Numpy**|Data Science essential, for creating numpy arrays and for manipulating matrices|1.19.1|
+|**Pandas**|To view the data in a dataframe and for analysing the datasets|1.1.3|
+|**Scikit-learn**|Used quite extensively to build the model, process the features and even for vectorising the transcript|0.23.2|
+|**Matplotlib**|For plotting graphs during EDA and for creating Mel-Spectrograms for the CNN model, note that this is also a dependency for Librosa's waveplot method|3.3.1|
 
-Users who do not use GPU can simply substitute the library with the CPU version with the same version number.
+Users who do not use GPU can simply use the CPU library with the same version number.
 
 ## Data Dictionary
 
@@ -110,7 +111,7 @@ Dataset: transcript_0.csv
 
 Description: This is the transcript of recordings from session 0, which is the first session.
 
-|Feature|Type|Description|
+|**Feature**|Type|Description|
 |---|---|---|
 |**id**|int|The given ID of each audio data, containing information about the which recording session, speaker id and transcript id|
 |**text**|str|The actual transcription of their recording, provided by IMDA|
@@ -123,13 +124,13 @@ Dataset: train.csv & test.csv
 
 Description: training dataset generated from the audio files, containing metadata about each audio files. The test set contains unseen data which will be used to evaluate the model.
 
-|Feature|Type|Description|
+|**Feature**|Type|Description|
 |---|---|---|
 |**id**|int|The given ID of each audio data, containing information about the which recording session, speaker id and transcript id|
 |**filepath**|str|The relative file path of the audio files in this repo|
 |**duration**|float|The duration of each audio clip in seconds (0.5 means 0.5 seconds)|
 |**class_label**|str|Label of the audio clip ("apples" means it is a recording of someone pronouncing "apple")|
-|**mfccs_mean**|np.array, float|The average of 40 Mel-Frequency Cepstral Coefficients across time (Sum of each MFCC per timestep, diveded by timesteps)|
+|**mfccs_mean**|np.array, float|The average of 40 Mel-Frequency Cepstral Coefficients across time (Sum of each MFCC per timestep, divided by timesteps)|
 |**mfccs_std**|np.array, float|The standard deviation of 40 Mel-Frequency Cepstral Coefficients across time (Standard deviation of each MFCC across the whole duration)|
 |**mfccs_delta_mean**|np.array, float|The difference in magnitutde between a specific timestep and the previous timestep|
 |**mfccs_delta_std**|np.array, float|The difference between the delta at a specific timestep and the previous timestep|
@@ -222,6 +223,40 @@ Data Scientists interested in audio classification and speech classification of 
 - Expand the training set to include less proficient English speakers
 - Build a model that can classify speeches in noisy environments.
 
+## Sources and Other Useful Resources
 
+This project would not have been possible without the resources from the data science community. I have done lots of research and below are what I find the most helpful among everything I had consumed. The challenge was not the lack of resources. Rather, I found it to be like an echo-chamber where people mostly just copy and paste codes without understanding why they do certain things. For example, I had difficulty finding out why certain features were used or why were the audio signals processed in a certain way. To save you time, I have compiled what I feel is the most essential materials below.
 
+I have organised them into two sections. *Main Reference Materials* are the most important materials which have formed the core of this project. They are important for understanding the intricacies of handling audio data. *Other Reference Materials* are materials which are good to widen your knowledge and could be use to enhance your own project.
+
+**Main Reference Materials**
+
+- [The Sound of AI - Valerio Velardo Youtube Channel](#https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
+	- I had spent days and weeks listening to his interesting lectures. They are pretty long but very worth going through them. I think this is the only place where you can find such a comprehensive and clear explanation behind processing audio signals. It is a little bit technical but not too technical for beginners of data science.
+
+- [How to apply machine learning and deep learning methods to audio analysis](#https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc)
+	- It has a very detailed step-by-step guide on entire process. It helps you to understand the data science process flow of audio classification with machine learning. The author also had a bonus lesson on Comet. Comet is a machine learning cloud-based platform that can help you track, monitor, analyse and optimise your machine learning model. I did experimented with Comet but did not use it.
+
+- [Voice Classification Blog on Github by Jurgenarias](#https://github.com/jurgenarias/Portfolio/tree/master/Voice%20Classification)
+	- This has helped me understand the process of transforming audio signals into image files for CNN
+
+- [Multi-class Metrics made Simple](#https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1)
+	- On how to evaluate a multiclassification model
+
+- [How to use Learning Curves to Diagnose Machine Learning Model Performance](#https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/)
+	- This is important for understanding how to tweak your model to prevent overfitting or underfitting, as neural networks tend to overfit.
+
+**Other Reference Materials**
+
+- [Github Blog on Audio](#https://github.com/scarecrow1123/blog/issues/9)
+	- this gives a general overview the handling of audio files, things to take note etc
+
+- [Urban Sound Classification with Librosa Nuanced Cross Validation](#https://towardsdatascience.com/urban-sound-classification-with-librosa-nuanced-cross-validation-5b5eb3d9ee30)
+	- A popular dataset on audio classification, but it has complications with doing cross validation for audio chunks belonging to the same original sequence. This blog goes through how to conduct the complicated cross validation.
+
+- [Learn to Build Your First Speech to Text Model](#https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/)
+	- A clear guided walkthrough on speech to text model with python. 
+
+- [Audio Data Analysis Using Deep Learning with Python](#https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/)
+	- A walkthrough on how to preprocess audio data with codes and some explanation
 
