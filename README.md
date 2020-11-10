@@ -5,7 +5,7 @@
 * [Full Problem Statement](#Problem-Statement)
 * [Repo Structure](#Repo-Structure)
 * [Libraries and System Specification](#Libraries-and-System-Specifications)
-* [Data Dictionary](#Data-Dictionary)
+* [Dataset and Data Dictionary](#Dataset-and-Data-Dictionary)
 * [Executive Summary](#Executive-Summary)
 * [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 * [Sources and Other Useful Resources](#Sources-and-Other-Useful-Resources)
@@ -36,12 +36,6 @@ This can also be scaled up to build a complex speech recognition models based on
 *Secondary Audience*
 
 Furthermore, this will improve accessibility for some visually impaired or physically challenged people, who have difficulty interacting with physical touch menus. 
-
-**Data source:**
-
-Singapore IMDA National Speech Corpus (NSC)
-
-https://www.imda.gov.sg/programme-listing/digital-services-lab/national-speech-corpus
 
 ## Repo Structure
 ```
@@ -105,7 +99,26 @@ GPU: GeForce GTX 1660 Super
 
 Users who do not use GPU can simply use the CPU library with the same version number.
 
-## Data Dictionary
+
+## Dataset and Data Dictionary
+
+**Audio Data Source:**
+
+[Singapore IMDA National Speech Corpus (NSC)](https://www.imda.gov.sg/programme-listing/digital-services-lab/national-speech-corpus)
+
+The IMDA NSC has few thousands of hours worth of Singaporean speeches, recorded under different conditions and settings, making them excellent for creating audio machine learning models. For this project, however, I did not utilise all of the audio because I intend to do a multiclassification model. I trimmed the audio files to extract the exact words I needed from each sentence and saving them separately.
+
+1. Use [Audacity](https://www.audacityteam.org/) to open each audio file
+2. Listen to the audio, take note of the time where the specific words were said
+3. Trim the audio to just the word that I was looking for (e.g flowers)
+4. Normalise it
+5. Save it as train or test set 
+
+Please refer to the first notebook on how I selected the audio files, decided on the scope of the project and efficiently processed the large amount of audio files.
+
+All audio files are set to a sample rate of 16,000 Hz but Librosa changed them to the default of 22,500 Hz. All audio files were also normalise to maximum amplitude of -1 Decibels. 
+
+**CSV Files**
 
 Dataset: transcript_0.csv
 
@@ -190,7 +203,7 @@ Top 3 Models:
 - RNN models are most efficient with sequential data, best for real-time transcription.
 - CNN models are also highly accurate, could be used if the objective is only classification
 
-*Limitations*
+**Limitations**
 
 - audio recordings are in controlled environment, result might differ if there is background noises
 - speakers are all proficient English speakers, to consider having a more inclusive dataset with less proficient speakers
@@ -231,32 +244,23 @@ I have organised them into two sections. *Main Reference Materials* are the most
 
 **Main Reference Materials**
 
-- [The Sound of AI - Valerio Velardo Youtube Channel](#https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
-	- I had spent days and weeks listening to his interesting lectures. They are pretty long but very worth going through them. I think this is the only place where you can find such a comprehensive and clear explanation behind processing audio signals. It is a little bit technical but not too technical for beginners of data science.
-
-- [How to apply machine learning and deep learning methods to audio analysis](#https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc)
-	- It has a very detailed step-by-step guide on entire process. It helps you to understand the data science process flow of audio classification with machine learning. The author also had a bonus lesson on Comet. Comet is a machine learning cloud-based platform that can help you track, monitor, analyse and optimise your machine learning model. I did experimented with Comet but did not use it.
-
-- [Voice Classification Blog on Github by Jurgenarias](#https://github.com/jurgenarias/Portfolio/tree/master/Voice%20Classification)
-	- This has helped me understand the process of transforming audio signals into image files for CNN
-
-- [Multi-class Metrics made Simple](#https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1)
-	- On how to evaluate a multiclassification model
-
-- [How to use Learning Curves to Diagnose Machine Learning Model Performance](#https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/)
-	- This is important for understanding how to tweak your model to prevent overfitting or underfitting, as neural networks tend to overfit.
+- [The Sound of AI - Valerio Velardo Youtube Channel](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
+    - I had spent days and weeks listening to his interesting lectures. They are pretty long but very worth going through them. I think this is the only place where you can find such a comprehensive and clear explanation behind processing audio signals. It is a little bit technical but not too technical for beginners of data science.
+- [How to apply machine learning and deep learning methods to audio analysis](https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc)
+    - It has a very detailed step-by-step guide on entire process. It helps you to understand the data science process flow of audio classification with machine learning. The author also had a bonus lesson on Comet. Comet is a machine learning cloud-based platform that can help you track, monitor, analyse and optimise your machine learning model. I did experimented with Comet but did not use it.
+- [Voice Classification Blog on Github by Jurgenarias](https://github.com/jurgenarias/Portfolio/tree/master/Voice%20Classification)
+    - This has helped me understand the process of transforming audio signals into image files for CNN
+- [Multi-class Metrics made Simple](https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1)
+    - On how to evaluate a multiclassification model
+- [How to use Learning Curves to Diagnose Machine Learning Model Performance](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/)
+    - This is important for understanding how to tweak your model to prevent overfitting or underfitting, as neural networks tend to overfit.
 
 **Other Reference Materials**
-
-- [Github Blog on Audio](#https://github.com/scarecrow1123/blog/issues/9)
-	- this gives a general overview the handling of audio files, things to take note etc
-
-- [Urban Sound Classification with Librosa Nuanced Cross Validation](#https://towardsdatascience.com/urban-sound-classification-with-librosa-nuanced-cross-validation-5b5eb3d9ee30)
-	- A popular dataset on audio classification, but it has complications with doing cross validation for audio chunks belonging to the same original sequence. This blog goes through how to conduct the complicated cross validation.
-
-- [Learn to Build Your First Speech to Text Model](#https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/)
-	- A clear guided walkthrough on speech to text model with python. 
-
-- [Audio Data Analysis Using Deep Learning with Python](#https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/)
-	- A walkthrough on how to preprocess audio data with codes and some explanation
-
+- [Github Blog on Audio](https://github.com/scarecrow1123/blog/issues/9)
+    - This gives a general overview the handling of audio files, things to take note etc
+- [Urban Sound Classification with Librosa Nuanced Cross Validation](https://towardsdatascience.com/urban-sound-classification-with-librosa-nuanced-cross-validation-5b5eb3d9ee30)
+    - A popular dataset on audio classification, but it has complications with doing cross validation for audio chunks belonging to the same original sequence. This blog goes through how to conduct the complicated cross validation.
+- [Learn to Build Your First Speech to Text Model](https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/)
+    - A clear guided walkthrough on speech to text model with python. 
+- [Audio Data Analysis Using Deep Learning with Python](https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/)
+    - A walkthrough on how to preprocess audio data with codes and some explanation
