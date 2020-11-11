@@ -13,9 +13,9 @@
 
 ## Problem Statement
 
-Speech recognition programmes have the ability to convert voice to text, mostly by building a Speech-To-Text (STT) model using Machine Learning. This type of STT programmes are commonly seen in smart phones or other websites which have speech-enabled inputs. However, **many of these "off-the-shelves" speech recognition programmes have difficulty recognising Singaporean accented English as they are not trained with Singaporean speeches. Furthermore, Singaporeans do not speak with one universal accent, making it even more challenging for speech recognition models.**
+Speech recognition programmes have the ability to convert voice to text, mostly by building a Speech-To-Text (STT) model using Machine Learning. This type of STT programmes are commonly seen in smart phones or other websites which have speech-enabled inputs. However, **many of these "off-the-shelves" speech recognition programmes have difficulty recognising Singaporean accented English as they are not trained with Singaporean speeches. Furthermore, Singaporeans from different ethnic group speak with different accents, making it even more challenging for speech recognition models.**
 
-I would like to find out if it is possible for machines to understand Singaporean accent. In data science terms, I wish to find out **how accurately can machine learning algorithms classify Singaporean-accented English** and the potential scaling it up as a business solution..
+I would like to find out if it is possible for machines to understand Singaporean accent. In data science terms, I wish to find out **how accurately can machine learning algorithms classify Singaporean-accented English** and **whether it is feasible to scale it up as a solution for businesses.**
 
 To investigate this, a **multi-classification model** will be built, with a total of **5 classes**. The machine learning algorithm used will be mainly neural networks, consisting of a regular **Feedforward Neural Network, a Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN).**
 
@@ -23,9 +23,9 @@ The audio features which will be explored are their Mel-Frequency Cepstral Coeff
 
 **Metrics of Evaluation:**
 
-The main metric for evaluation is the average weighted **Accuracy** on both validation set and unseen data. The higher the accuracy, the better the model is at classifying the singaporean-accented words into the 5 classes. Additional metrics for consideration includes **Precision** and **Recall** to identify if the machine learning algorithm would mistake words that sounds similar.
+The main metric for evaluation is the average weighted **Accuracy** on both validation set and unseen data. The higher the accuracy, the better the model is at classifying the singaporean-accented words into the 5 classes. We would want an algorithm that gives the correct classification so that it can process voice commands correctly and not mistaking it for other incorrect commands. Additional metrics for consideration includes **Precision** and **Recall** to identify if the machine learning algorithm would mistake words that sounds similar. Hence, naturally **f1 Score** will also be compared to get a harmonic mean accuracy to compare across classes.
 
-As speed is also an important factor for real-time transcription or Speech-to-text translation, **Computational Time** will also be used to evaluate the model, based on pre-processing time and training time.
+As speed is also an important factor for real-time transcription or Speech-to-text translation, **Computational Time** will also be used to evaluate the model, based on pre-processing time and training time. 
 
 **Relevance for Stakeholders:**
 
@@ -81,7 +81,9 @@ The results in these notebooks were achieved in an Anaconda virtual environment 
 It is highly recommended that users create a virtual environment for this repo, especially if users intend to use GPU for tensorflow.
 
 Anaconda Client Version: 1.7.2
+
 Python Version: 3.6.12
+
 GPU: GeForce GTX 1660 Super
 
 |**Library**|Description|Version No.|
@@ -264,3 +266,6 @@ I have organised them into two sections. *Main Reference Materials* are the most
     - A clear guided walkthrough on speech to text model with python. 
 - [Audio Data Analysis Using Deep Learning with Python](https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/)
     - A walkthrough on how to preprocess audio data with codes and some explanation
+- [MFCC guide for Dummies](https://medium.com/prathena/the-dummys-guide-to-mfcc-aceab2450fd)
+    - Explain MFCC rather well!
+
